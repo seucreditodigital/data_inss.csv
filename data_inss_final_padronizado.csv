@@ -1,0 +1,1533 @@
+nome,endereco,cidade,uf,cep,telefone,latitude,longitude
+APS Barra Do Garças,"Rua Xv De Novembro S/N Esq/Rua Leonardo, Centro, Barra Do Garças - Mt",Barra Do Garças,MT,,,-15.8900791,-52.2641471
+APS Cáceres,"Av. Vereador Enedino Sebastião Martins, Centro, Cáceres - Mt",Cáceres,MT,,,-16.0668723,-57.6799034
+APS Cuiabá - Batista Das Neves,"Rua Batista Das Neves, Centro-Norte, Cuiabá - Mt",Cuiabá,MT,,,-15.5934883,-56.0973018
+APS Cuiabá - Coxipó,"Rua Pau Brasil S/N, Jardim Das Palmeiras, Cuiabá - Mt",Cuiabá,MT,,,-15.6264519,-56.0525091
+APS Cuiabá - Cpa,"Rua 47, Qd. 15/16-Cpa Iii-Setor Iv, Cpa Iii, Cuiabá - Mt",Cuiabá,MT,,,-15.6146583,-56.0562694
+APS Diamantino,"Rua Quintino Bocaiuva, S/N, Centro, Diamantino - Mt",Diamantino,MT,,,-14.407977,-56.4489719
+APS Rondonópolis,"Rua Arnaldo Estevam De Figueiredo, 883, Centro, Rondonópolis - Mt",Rondonópolis,MT,,,-16.4707741,-54.6316117
+APS Tangará Da Serra,"Av. Tancredo De Almeida Neves, 87-E, Centro, Tangará Da Serra - Mt",Tangará Da Serra,MT,,,-14.6190325,-57.4883952
+APS Várzea Grande,"Av. Castelo Branco S N, Centro-Sul, Várzea Grande - Mt",Várzea Grande,MT,,,-15.6569567,-56.1318512
+APS Água Boa,"Rua Seis, 251, Centro, Água Boa - Mt",Água Boa,MT,,,-14.059866,-52.15758599999999
+APS Alto Araguaia,"Av. Carlos Hugueney Nº 622, Centro, Alto Araguaia - Mt",Alto Araguaia,MT,,,-17.314241,-53.21575619999999
+APS Jaciara,"Rua Carijos Nº 71, Centro, Jaciara - Mt",Jaciara,MT,,,-15.9624333,-54.9660653
+APS Mirassol Do Oeste,"Rua Leonório Lourenção, 1083, Centro, Mirassol D'Oeste - Mt",Mirassol D'Oeste,MT,,,-15.6779403,-58.1014948
+APS Nova Xavantina,"Rua São Luis Nº 15, Centro, Nova Xavantina - Mt",Nova Xavantina,MT,,,-14.6671239,-52.3559533
+APS Paranatinga,,Paranatinga,MT,,,,
+APS Poconé,,Poconé,MT,,,,
+APS Pontes E Lacerda,,Pontes E Lacerda,MT,,,,
+APS Poxoréo,,Poxoréo,MT,,,,
+APS Primavera Do Leste,,Primavera Do Leste,MT,,,,
+APS Rosário Do Oeste,,Rosário Do Oeste,MT,,,,
+APS São Félix Do Araguaia,,São Félix Do Araguaia,MT,,,,
+APS Confresa,"Avenida Airton Senna, S/N, Centro, Confresa - Mt",Confresa,MT,,,-10.6446949,-51.5668967
+APS Barra Do Bugres,"Av. Hitler Sansao Esq Rua Celso P Borguete, Centro, Barra Do Bugres - Mt",Barra Do Bugres,MT,,,-15.069876,-57.1811426
+APS Campo Verde,"Rua Medianeira, Centro, Campo Verde - Mt",Campo Verde,MT,,,-15.5482444,-55.1573842
+APS Sinop,"Av. Das Figueiras - Nr 1357 Centro, Setor Comercial, Sinop - Mt",Sinop,MT,,,-11.8530368,-55.5053583
+APS Alta Floresta,,Alta Floresta,MT,,,,
+APS Colíder,"Av. Colonizador 404 Setor Leste, Centro, Colíder - Mt",Colíder,MT,,,-10.8123852,-55.451726
+APS Juara,"Rua Anita Garibalde, 93 - Lote 13, Centro, Juara - Mt",Juara,MT,,,-11.2617353,-57.5194612
+APS Juína,"Av. Dos Jambos, 1835, Centro, Juína - Mt",Juína,MT,,,-11.4201197,-58.76494100000001
+APS Sorriso,"Av. Ademar Raiter Nº 261, Centro, Sorriso - Mt",Sorriso,MT,,,-12.545839,-55.7133037
+APS Matupá,"Rua 2, Nº 620, Centro, Matupá - Mt",Matupá,MT,,,-10.1701436,-54.9256046
+APS Nova Mutum,"Av. Arapongas Lt. 15 E 16 - Qdr 83, Centro, Nova Mutum - Mt",Nova Mutum,MT,,,-13.8067212,-56.0840659
+APS Guarantã Do Norte,"Av. Guarantã Do Norte, Nº 940, Centro, Guarantã Do Norte - Mt",Guarantã Do Norte,MT,,,-9.9455517,-54.91259480000001
+APS Lucas Do Rio Verde,,Lucas Do Rio Verde,MT,,,,
+APS Peixoto Azevedo,"Rua Lions Internacional Qd. 03 Lt.. 09 S 13, Centro, Peixoto Azevedo - Mt",Peixoto Azevedo,MT,,,-22.9012249,-43.1791747
+APS Colniza,"Av. Do Contorno, Nº 840, Centro, Colniza - Mt",Colniza,MT,,,-9.4606619,-59.22044820000001
+APS Belo Horizonte - Barreiro,"Av. Tito Fulgêncio, 104, Barreiro, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.9575501,-44.016357
+APS Belo Horizonte - Floresta,"Rua Pitangui 2052, Sagrada Familia, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.906455,-43.927664
+APS Belo Horizonte - Oeste,"Rua Espirito Santo 54 Terreo, Centro, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.915184,-43.93627900000001
+APS Belo Horizonte - Padre Eustáquio,"Rua Padre Eustaquio 1831 Andar 2, Padre Eustaquio, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.9148426,-43.96866989999999
+APS Belo Horizonte - Santa Efigênia,"Rua Dos Tupinambás, Nº 351, Centro, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.9181911,-43.9375682
+APS Belo Horizonte - Sul,"Rua Dos Guaicurus 312 Andar 2, Centro, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.9152072,-43.9365452
+APS Belo Horizonte - Venda Nova,"Rua Padre Pedro Pinto 422, Venda Nova, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.8176934,-43.95372
+APS Belo Horizonte - Calafate,"Rua Padre Eustaquio, 1831 - Térreo, Padre Eustaquio, Belo Horizonte - Mg",Belo Horizonte,MG,,,-19.9148426,-43.96866989999999
+APS Barbacena,"Rua Teobaldo Tolendal, 89, Centro, Barbacena - Mg",Barbacena,MG,,,-21.2241826,-43.774111
+APS Congonhas,"Rua Dr. Antonio Pacifico Homem Jr, 60, Centro, Congonhas - Mg",Congonhas,MG,,,-20.4999898,-43.8504291
+APS Conselheiro Lafaiete,"Av.Telesforo Candido De Resende, 72, Centro, Conselheiro Lafaiete - Mg",Conselheiro Lafaiete,MG,,,-20.659299,-43.7938212
+APS Ouro Branco/Mg,,Ouro Branco,MG,,,,
+APS Santos Dumont,"Rua Manoel De Paula, 30, Centro, Santos Dumont - Mg",Santos Dumont,MG,,,-21.4575598,-43.5506268
+APS São João Del Rei,"Avenida Tiradentes, 684, Centro, São João Del Rei - Mg",São João Del Rei,MG,,,-21.1367161,-44.2604529
+APS Ubá,"Rua Santa Cruz, 169, Centro, Ubá - Mg",Ubá,MG,,,-21.1213728,-42.94360169999999
+APS Viçosa/Mg,"Rua Dr. Milton Bandeira, 160, Centro, Viçosa - Mg",Viçosa,MG,,,-20.7527526,-42.8801555
+APS Visconde Do Rio Branco,"Av. Dr Carlos Soares, 414, Centro, Visconde Do Rio Branco - Mg",Visconde Do Rio Branco,MG,,,-21.0102904,-42.8357404
+APS Carandaí,"Rua Cônego Cota, 83 - S/L, Centro, Carandaí - Mg",Carandaí,MG,,,-20.953732,-43.805497
+APS Betim,"Rua Inconfidentes - 273, Chacara, Betim - Mg",Betim,MG,,,-19.9630734,-44.1910789
+APS Contagem,"Rua Bernardo Monteiro, 400, Centro, Contagem - Mg",Contagem,MG,,,-19.9142026,-44.0887889
+APS Pedro Leopoldo,"Rua Dirceu Lopes, 278, Centro, Pedro Leopoldo - Mg",Pedro Leopoldo,MG,,,-19.6234054,-44.03761069999999
+APS Ribeirão Das Neves,"Rua Jose Leao Papa, Varzea Alegre, Ribeirão Das Neves - Mg",Ribeirão Das Neves,MG,,,-19.7694096,-44.0867358
+APS Santa Luzia/Mg,"Rua Francisco Viana Dos Santos, 63, Esplanada, Santa Luzia - Mg",Santa Luzia,MG,,,-19.7663404,-43.8430012
+APS Sete Lagoas,"Rua Luiz Privat, 59, Centro, Sete Lagoas - Mg",Sete Lagoas,MG,,,-19.4577446,-44.2444083
+APS Vespasiano,"Rua Prefeito Sebastião Fernandes, 725, Centro, Vespasiano - Mg",Vespasiano,MG,,,-19.6946985,-43.9187494
+APS Brumadinho,,Brumadinho,MG,,,-20.1432112,-44.2073737
+APS Matozinhos,"R.Padre Francisco Vieira Chaves, 40, Centro, Matozinhos - Mg",Matozinhos,MG,,,-19.5598627,-44.0793911
+APS Ibirité,,Ibirité,MG,,,-20.0005311,-44.0683068
+APS Lagoa Santa/Mg,"Av. Engenheiro Vicente De Freitas. 200, Centro, Lagoa Santa - Mg",Lagoa Santa,MG,,,-19.6297385,-43.9032238
+APS Pompéu,"Rua Antonio Lacerda, Centro, Pompéu - Mg",Pompéu,MG,,,-19.2165906,-45.0044528
+APS Bom Despacho,"Av. Ari Marques Pereira, 190, Centro, Bom Despacho - Mg",Bom Despacho,MG,,,-19.734564,-45.25397599999999
+APS Divinópolis,"Av. Getulio Vargas, 342, Centro, Divinópolis - Mg",Divinópolis,MG,,,-20.1462736,-44.886722
+APS Formiga,"Rua Dos Viajantes, 11, Centro, Formiga - Mg",Formiga,MG,,,-20.4635574,-45.4309691
+APS Itaúna,"Rua Dr. José Gonçalves, 258, Centro, Itaúna - Mg",Itaúna,MG,,,-20.07527,-44.57517199999999
+APS Oliveira,"Avenida Maracanã 914, Centro, Oliveira - Mg",Oliveira,MG,,,-20.6916383,-44.8276227
+APS Pará De Minas,"Rua Benedito Valadares, 266, Centro, Pará De Minas - Mg",Pará De Minas,MG,,,-19.8638095,-44.6059261
+APS Passos,"Rua Coronel Neca Medeiros 164, Centro, Passos - Mg",Passos,MG,,,-20.7201813,-46.6104349
+APS São Sebastião Do Paraíso,"Rua Dr. Placidino Brigagão 1194, Centro, São Sebastião Do Paraíso - Mg",São Sebastião Do Paraíso,MG,,,-20.9181041,-46.9918225
+APS Abaeté,"Avenida Dr. Guido Nº 740, Centro, Abaeté - Mg",Abaeté,MG,,,-19.1568815,-45.4524182
+APS Bambuí,"Av. Armando Franco Nº 183, Centro, Bambuí - Mg",Bambuí,MG,,,-20.0106893,-45.978044
+APS Cássia,"Rua Monsenhor Geraldo, 301, Centro, Cássia - Mg",Cássia,MG,,,-20.5826511,-46.9186241
+APS Dores Do Indaiá,"Pr Prof. Waldemar De Almeida Barbosa, 19, Centro, Dores Do Indaiá - Mg",Dores Do Indaiá,MG,,,-19.4702372,-45.6103659
+APS Lagoa Da Prata,"Rua Luiz Guadalupe, 300, Centro, Lagoa Da Prata - Mg",Lagoa Da Prata,MG,,,-20.01964,-45.5432127
+APS Pitangui,"Praça Da Câmara, 14, Centro, Pitangui - Mg",Pitangui,MG,,,-19.6820381,-44.8892089
+APS Piumhi,"Rua Bossuet Costa 181, Centro, Piumhi - Mg",Piumhi,MG,,,-20.4709852,-45.9610239
+APS Nova Serrana,,Nova Serrana,MG,,,-19.8861288,-44.9811147
+APS Arcos,"Rua Jarbas Ferreira Pires, 201, Centro, Arcos - Mg",Arcos,MG,,,-20.2850731,-45.5398065
+APS Claudio,"Rua Lambari, 95, Centro, Claudio - Mg",Claudio,MG,,,-20.4408385,-44.7637989
+APS Monte Santo De Minas,"Avenida Vital Paulino Da Costa 1420, Centro, Monte Santo De Minas - Mg",Monte Santo De Minas,MG,,,-21.187902,-46.9788593
+APS Mateus Leme,"Avenida Getúlio Vargas 710, Centro, Mateus Leme - Mg",Mateus Leme,MG,,,-19.9918436,-44.4337486
+APS Santo Antonio Do Monte,,Santo Antonio Do Monte,MG,,,,
+APS Aimorés,"Rua Coronel Antonio Lobo 245, Centro, Aimorés - Mg",Aimorés,MG,,,-19.4938306,-41.0635995
+APS Caratinga,"Rua João Pinheiro, 60, Centro, Caratinga - Mg",Caratinga,MG,,,-19.7898705,-42.1421602
+APS Coronel Fabriciano,"Rua Boa Vista, 116, Centro, Coronel Fabriciano - Mg",Coronel Fabriciano,MG,,,-19.5296745,-42.6264851
+APS Governador Valadares,"Rua Afonso Pena, 3016, Centro, Governador Valadares - Mg",Governador Valadares,MG,,,-18.8553874,-41.9483853
+APS Ipatinga,"Rua Poços De Caldas, 15, Centro, Ipatinga - Mg",Ipatinga,MG,,,-19.4807683,-42.5250681
+APS Manhuaçu,"Av. Barão Rio Branco 94, Bom Pastor, Manhuaçu - Mg",Manhuaçu,MG,,,-21.7404658,-43.3552905
+APS Peçanha,"Av. Dos Bragas, 47, Centro, Peçanha - Mg",Peçanha,MG,,,-18.5478035,-42.56014709999999
+APS Timóteo,"Rua 05 De Março, 37, Centro, Timóteo - Mg",Timóteo,MG,,,-19.5388496,-42.6487348
+APS Inhapim,"Rua Coronel Antonio Fernandes, 100, Centro, Inhapim - Mg",Inhapim,MG,,,-19.5508576,-42.1213986
+APS Mantena,"Av. Getulio Vargas, 53, Centro, Mantena - Mg",Mantena,MG,,,-18.7804566,-40.9820354
+APS Conselheiro Pena,"Rua Maria Francisca De Jesus, 112, Centro, Conselheiro Pena - Mg",Conselheiro Pena,MG,,,-19.1735404,-41.47232150000001
+APS Manhumirim,"Rua Nova Esperança - S/N, Centro, Manhumirim - Mg",Manhumirim,MG,,,-20.351833,-41.9602943
+APS Mutum,"Rua Coronel Brandão, 80, Centro, Mutum - Mg",Mutum,MG,,,-19.818691,-41.437756
+APS Santa Maria Do Suaçuí,"Rua Domingos Petrucelli, Centro, Santa Maria Do Suaçuí - Mg",Santa Maria Do Suaçuí,MG,,,-29.6882192,-53.8047376
+APS São João Evangelista,"Av. 1º De Junho, 1470, Centro, São João Evangelista - Mg",São João Evangelista,MG,,,-18.550852,-42.764384
+APS Belo Oriente,"Pça Severo Lourenço Da Costa, Centro, Belo Oriente - Mg",Belo Oriente,MG,,,-19.919168,-43.9386558
+APS Carangola,"Rua Pedro De Oliveira, 427, Centro, Carangola - Mg",Carangola,MG,,,-20.7315035,-42.0339297
+APS Cataguases,"Rua Coronel Vieira, 140, Centro, Cataguases - Mg",Cataguases,MG,,,-21.3879906,-42.6963173
+APS Juiz De Fora - São Dimas,"Av. Brasil - 9501, Mariano Procopio, Juiz De Fora - Mg",Juiz De Fora,MG,,,-21.7446395,-43.3598429
+APS Juiz De Fora - Largo Do Riachuelo,"Rua Santo Antonio - 115, Centro, Juiz De Fora - Mg",Juiz De Fora,MG,,,-21.7543865,-43.3528338
+APS Leopoldina,"Rua Dr. Antonio De Oliveira Guimarães 26, Centro, Leopoldina - Mg",Leopoldina,MG,,,-21.5374109,-42.63883999999999
+APS Muriaé,"Rua Antonio Canedo, Centro, Muriaé - Mg",Muriaé,MG,,,-21.1319154,-42.3651143
+APS Além Paraíba,,Além Paraíba,MG,,,-21.8835588,-42.6973522
+APS Palma,"Rua Paula Freitas, 98, Centro, Palma - Mg",Palma,MG,,,-21.3778871,-42.3164171
+APS Recreio,"Rua Tenente Joaquim Pereira, 184, Centro, Recreio - Mg",Recreio,MG,,,-21.5237523,-42.47293850000001
+APS São João Nepomuceno,"Rua Capitão Basílio, 152, Centro, São João Nepomuceno - Mg",São João Nepomuceno,MG,,,-21.5338872,-43.0133525
+APS Juiz De Fora - Morro Da Glória,"Av. Dos Andradas - 221, Centro, Juiz De Fora - Mg",Juiz De Fora,MG,,,-21.7541543,-43.3522983
+APS Espera Feliz,"Rua Genésio De Assis Marinho, 146, Centro, Espera Feliz - Mg",Espera Feliz,MG,,,-20.652005,-41.9113822
+APS Bocaiuva,"Rua Cônego Versiane, 34, Centro, Bocaiuva - Mg",Bocaiuva,MG,,,-17.1121573,-43.814365
+APS Espinosa,"Avenida João Araújo Lins, 60, Centro, Espinosa - Mg",Espinosa,MG,,,-14.9293938,-42.8158198
+APS Janaúba,"Rua São João Da Ponte Nº 208, Centro, Janaúba - Mg",Janaúba,MG,,,-15.8053844,-43.3075564
+APS Januária,"Rua Do Sertanejo, 140, Centro, Januária - Mg",Januária,MG,,,-15.4794377,-44.3663922
+APS Montes Claros,"Rua Dom Pedro Ii 152, Centro, Montes Claros - Mg",Montes Claros,MG,,,-16.7247911,-43.8674984
+APS Pirapora,"Praça Dos Cariris, 58, Centro, Pirapora - Mg",Pirapora,MG,,,-17.3519196,-44.9499939
+APS São Francisco/Mg,"Av. Braziliano, Nº 790, Centro, São Francisco - Mg",São Francisco,MG,,,-15.9501827,-44.8637331
+APS Salinas,"Rua Belo Horizonte, 44, Centro, Salinas - Mg",Salinas,MG,,,-16.1685204,-42.2983892
+APS Brasília De Minas,"Rua Pedro Tampa, 141, Centro, Brasília De Minas - Mg",Brasília De Minas,MG,,,-16.2145995,-44.4317782
+APS Coração De Jesus,"Avenida Juca Queiroz, 1045, Centro, Coração De Jesus - Mg",Coração De Jesus,MG,,,-16.6875461,-44.36635920000001
+APS Rio Pardo De Minas,"Praça Marechal Deodoro, 196, Centro, Rio Pardo De Minas - Mg",Rio Pardo De Minas,MG,,,-15.6151338,-42.5432613
+APS Manga,"Rua Governador Valadares, 1870, Centro, Manga - Mg",Manga,MG,,,-14.7534952,-43.9324604
+APS Taiobeiras,"Rua Rio Pardo, 1035, Centro, Taiobeiras - Mg",Taiobeiras,MG,,,-15.8144099,-42.2261234
+APS São João Do Paraiso/Mg,"Rua Mato Grosso 315, Centro, São João Do Paraiso - Mg",São João Do Paraiso,MG,,,-15.3156113,-42.0325271
+APS Varzea Da Palma,"Rua Anália Aguiar 710, Centro, Varzea Da Palma - Mg",Varzea Da Palma,MG,,,-17.594995,-44.731765
+APS Porteirinha,"Avenida Jose Silveira Lopes, 303, Centro, Porteirinha - Mg",Porteirinha,MG,,,-15.7411391,-43.0223479
+APS Jaiba,,Jaiba,MG,,,,
+APS Monte Azul,,Monte Azul,MG,,,,
+APS Barão De Cocais,"Rua Presidente Tancredo Neves, 45, Centro, Barão De Cocais - Mg",Barão De Cocais,MG,,,-19.8571239,-43.4493948
+APS Caeté - Tancredo Neves,,Caeté,MG,,,-19.87802,-43.6546451
+APS Itabira,"Rua Padre Angelo, 20, Para, Itabira - Mg",Itabira,MG,,,-19.6240019,-43.2288898
+APS Itabirito,"Avenida Queiroz Junior, 216, Centro, Itabirito - Mg",Itabirito,MG,,,-20.2536336,-43.8029148
+APS João Monlevade,"Av. Wilson Alvarenga, 1455, Carneirinhos, João Monlevade - Mg",João Monlevade,MG,,,-19.807462,-43.1761708
+APS Mariana,"Rua 16 De Julho, 316, Centro, Mariana - Mg",Mariana,MG,,,-20.3763497,-43.4153867
+APS Nova Lima,"Praca Coronel Aristides, 15, Centro, Nova Lima - Mg",Nova Lima,MG,,,-19.9834566,-43.8504537
+APS Ouro Preto,"Rua Benedito Valadares Nº 247, Rosario, Ouro Preto - Mg",Ouro Preto,MG,,,-20.3849941,-43.5106749
+APS Ponte Nova,"Rua Assad Zaidam, 21, Palmeiras, Ponte Nova - Mg",Ponte Nova,MG,,,-20.4088123,-42.8969215
+APS Sabará,"Rua Do Carmo, 77, Centro, Sabará - Mg",Sabará,MG,,,-19.8899911,-43.8085481
+APS Raul Soares,"R. Antônio Vieira Dos Santos, 202 A, Centro, Raul Soares - Mg",Raul Soares,MG,,,-20.1043349,-42.4554352
+APS Nova Era,"Rua Governador Valadares, 160, Centro, Nova Era - Mg",Nova Era,MG,,,-19.7663814,-43.0343005
+APS Raposos,"Rua José Monsueto Calixto, 56, Centro, Raposos - Mg",Raposos,MG,,,-19.9668966,-43.8048186
+APS Santa Barbara/Mg,,Santa Barbara,MG,,,,
+APS Guaxupé,"Av. Conde Ribeiro Do Valle, 434, Centro, Guaxupé - Mg",Guaxupé,MG,,,-21.303149,-46.7089539
+APS Itajubá,"Rua Doutor Americo De Oliveira 768, Varginha, Itajubá - Mg",Itajubá,MG,,,-22.4241383,-45.4503031
+APS Machado,"Av. Santa Cruz, 515, Centro, Machado - Mg",Machado,MG,,,-21.6816334,-45.9247513
+APS Poços De Caldas,"Av. Francisco Salles, 177, Centro, Poços De Caldas - Mg",Poços De Caldas,MG,,,-21.7849155,-46.5688853
+APS Pouso Alegre,,Pouso Alegre,MG,,,,
+APS Cambuí,"Rua Ozório Marques, 300, Centro, Cambuí - Mg",Cambuí,MG,,,-22.6070546,-46.0586337
+APS Muzambinho,"Av. Dr. Americo Luz, 249, Centro, Muzambinho - Mg",Muzambinho,MG,,,-21.3728003,-46.5234162
+APS Ouro Fino,"Avenida Joaquim Francisco De Assis, 420, Centro, Ouro Fino - Mg",Ouro Fino,MG,,,-22.2805953,-46.3637118
+APS Santa Rita Do Sapucaí,"Rua Adelino Carneiro Pinto, 45, Centro, Santa Rita Do Sapucaí - Mg",Santa Rita Do Sapucaí,MG,,,-22.2544731,-45.7036942
+APS Andradas,"Rua Jose Dirceu Graziani, 130, Centro, Andradas - Mg",Andradas,MG,,,-22.0644249,-46.5695487
+APS Jacutinga,,Jacutinga,MG,,,-22.295125,-46.6180151
+APS Araxá,"Tv Zeca Montandon, 10, Vila Rica, Araxá - Mg",Araxá,MG,,,-19.5885701,-46.9367925
+APS Frutal,,Frutal,MG,,,-20.0173386,-48.9186178
+APS Patos De Minas,"Rua Tiradentes, 500, Centro, Patos De Minas - Mg",Patos De Minas,MG,,,-18.5899443,-46.5183303
+APS Patrocínio,"Rua Presidente Vargas, 1160, Centro, Patrocínio - Mg",Patrocínio,MG,,,-18.944263,-46.991355
+APS Uberaba,"Rua Governador Valadares - 487, Fabricio, Uberaba - Mg",Uberaba,MG,,,-19.7451067,-47.9382209
+APS Paracatu,"Rua Josino Valadares, 25, Centro, Paracatu - Mg",Paracatu,MG,,,-17.2210476,-46.8733149
+APS Coromandel,"Rua Juvêncio Garcia, 100, Centro, Coromandel - Mg",Coromandel,MG,,,-18.470643,-47.205748
+APS João Pinheiro,"Av. Dona Zica, Nº 763, Centro, João Pinheiro - Mg",João Pinheiro,MG,,,-17.7411125,-46.17812869999999
+APS Ibiá,"Rua Prefeito Nóe Dias Dos Reis, 06, Centro, Ibiá - Mg",Ibiá,MG,,,-19.4878116,-46.5450499
+APS Conceição Das Alagoas,"Av. Deolindo De Freitas Paixão, 628, Centro, Conceição Das Alagoas - Mg",Conceição Das Alagoas,MG,,,-19.9237449,-48.3745921
+APS Sacramento,"Rua João Caiana, 15, Centro, Sacramento - Mg",Sacramento,MG,,,-19.7474612,-47.9354259
+APS Carmo Do Paranaíba,"Rua Dr.Barcelos Nº 391, Juscelino Kubitschek, Carmo Do Paranaíba - Mg",Carmo Do Paranaíba,MG,,,-18.9956658,-46.31165319999999
+APS São Gotardo,"Av. Paulo Shimada Nº 41, Centro, São Gotardo - Mg",São Gotardo,MG,,,-19.3091869,-46.0534322
+APS Araguari,"Av. Cel Teodolino Pereira Araújo, 1080, Centro, Araguari - Mg",Araguari,MG,,,-18.6475952,-48.192284
+APS Ituiutaba,"Av. 11, 50, Centro, Ituiutaba - Mg",Ituiutaba,MG,,,-18.9702986,-49.4589262
+APS Monte Carmelo,"Rua Tiradentes 45, Centro, Monte Carmelo - Mg",Monte Carmelo,MG,,,-18.7270612,-47.4949089
+APS Uberlândia,"Praça Clarimundo Carneiro, 162, Centro, Uberlândia - Mg",Uberlândia,MG,,,-18.9229573,-48.28221660000001
+APS Campina Verde,"Rua 26, 47, Centro, Campina Verde - Mg",Campina Verde,MG,,,-19.5328846,-49.481202
+APS Iturama,"Av. Rio Grande, 1165, Centro, Iturama - Mg",Iturama,MG,,,-19.7298187,-50.1994435
+APS Prata/Mg,"Praça Juscelino Kubitschek, Centro, Prata - Mg",Prata,MG,,,-20.5811076,-46.9228511
+APS Tupaciguara,"Rua Bueno Brandão, 106, Centro, Tupaciguara - Mg",Tupaciguara,MG,,,-18.5956065,-48.7013693
+APS Alfenas,"Avenida Governador Valadares, 825, Centro, Alfenas - Mg",Alfenas,MG,,,-21.4171582,-45.9475162
+APS Campo Belo,"Praça Dos Expedicionários, 47, Centro, Campo Belo - Mg",Campo Belo,MG,,,-20.8937254,-45.2767175
+APS Caxambú,"Rua Major Penha, 386, Centro, Caxambú - Mg",Caxambú,MG,,,-21.9799199,-44.9319374
+APS Lavras,"Rua Dr. Francisco Sales, 507, Centro, Lavras - Mg",Lavras,MG,,,-21.2477841,-45.0018578
+APS São Lourenço,"Praça Humberto Sanches, 165, Centro, São Lourenço - Mg",São Lourenço,MG,,,-22.1180268,-45.0496596
+APS Três Corações,"Rua Pedro Bonesio, 133, Centro, Três Corações - Mg",Três Corações,MG,,,-21.6960528,-45.2556157
+APS Três Pontas,"Avenida Oswaldo Cruz, 580, Centro, Três Pontas - Mg",Três Pontas,MG,,,-21.3700796,-45.5059202
+APS Varginha,"Rua Wenceslau Braz, 150, Centro, Varginha - Mg",Varginha,MG,,,-21.5549321,-45.4374684
+APS Boa Esperança/Mg,"A. Marechal Floriano Peixoto, 319, Centro, Boa Esperança - Mg",Boa Esperança,MG,,,-21.0925068,-45.5600026
+APS Campos Gerais,"Rua Jorge De Paula Meinberg, 14, Centro, Campos Gerais - Mg",Campos Gerais,MG,,,-21.2357107,-45.7582854
+APS São Gonçalo Do Sapucaí,,São Gonçalo Do Sapucaí,MG,,,-21.941559,-45.4865943
+APS Nepomuceno,,Nepomuceno,MG,,,-21.5374575,-43.0153622
+APS Eloi Mendes,"Rua Quirino Pizzo, 245, Centro, Centro, Eloi Mendes - Mg",Eloi Mendes,MG,,,-21.6075771,-45.57338319999999
+APS Corinto,"Avenida Getúlio Vargas, 305, Centro, Corinto - Mg",Corinto,MG,,,-18.3645118,-44.4577928
+APS Curvelo,"Pça Benedito Valadares, 184, Centro, Curvelo - Mg",Curvelo,MG,,,-18.754719,-44.4295213
+APS Diamantina,"Pça Dr Prado, 171, Centro, Diamantina - Mg",Diamantina,MG,,,-18.245613,-43.594757
+APS Conceição Do Mato Dentro,"Avenida Rio Branco Nº 118, Centro, Conceição Do Mato Dentro - Mg",Conceição Do Mato Dentro,MG,,,-19.0357363,-43.4247512
+APS Guanhães,"Pç Néria Coelho Guimarães, 179, Centro, Guanhães - Mg",Guanhães,MG,,,-18.7765863,-42.9339358
+APS Minas Novas,"Av. Delfim Moreira, 156 A, Centro, Minas Novas - Mg",Minas Novas,MG,,,-17.2197535,-42.5897292
+APS Capelinha,"Rua Getúlio Vargas, 300, Centro, Capelinha - Mg",Capelinha,MG,,,-17.6941218,-42.51743159999999
+APS Três Marias,"Rua Minas Gerais 289, Centro, Três Marias - Mg",Três Marias,MG,,,-18.2057432,-45.2244557
+APS Serro,"Rua Alferes Luiz Pinto, 25-A, Centro, Serro - Mg",Serro,MG,,,-18.603648,-43.380901
+APS Itamarandiba,"Travessa Tiradentes, 25, Centro, Itamarandiba - Mg",Itamarandiba,MG,,,-17.8558276,-42.857772
+APS Almenara,,Almenara,MG,,,-16.1610369,-40.6929639
+APS Medina,"Rua 1° De Janeiro, 120, Centro, Medina - Mg",Medina,MG,,,-16.2225237,-41.4795038
+APS Nanuque,"Rua Arthur Felipe Dos Santos, 164, Centro, Nanuque - Mg",Nanuque,MG,,,-17.8355751,-40.3493126
+APS Pedra Azul,"Avenida Doutor Antero Lucena Ruas, Centro, Pedra Azul - Mg",Pedra Azul,MG,,,-15.9977417,-41.2798243
+APS Teófilo Otoni,"Rua José De Souza Neves, 75, Marajoara, Teófilo Otoni - Mg",Teófilo Otoni,MG,,,-17.8739768,-41.508318
+APS Aracuaí,"Avenida Dr Nuno Melo 289, Centro, Aracuaí - Mg",Aracuaí,MG,,,-16.8530619,-42.0675007
+APS Águas Formosas,"Rua Alvim Couto, 114, Centro, Águas Formosas - Mg",Águas Formosas,MG,,,-17.0818345,-40.9320221
+APS Jequitinhonha,,Jequitinhonha,MG,,,-16.4379329,-41.0070902
+APS Itambacuri,"Avenida Frei Arcangelo 1370, Centro, Itambacuri - Mg",Itambacuri,MG,,,-18.0320804,-41.6722428
+APS Itaobim,"Rua São Paulo 545, Centro, Itaobim - Mg",Itaobim,MG,,,-16.5585736,-41.5025529
+APS Carlos Chagas,"Rua José Miguel Brandão, Centro, Carlos Chagas - Mg",Carlos Chagas,MG,,,-17.7101597,-40.7596213
+APS Caraí,"Rua Boaventura Figueiredo Fonseca, Centro, Caraí - Mg",Caraí,MG,,,-19.3107331,-46.0488341
+APS Novo Cruzeiro,"Rua Inacio Bahia, Centro, Novo Cruzeiro - Mg",Novo Cruzeiro,MG,,,-17.4646965,-41.8951225
+APS Abaetetuba,,Abaetetuba,PA,,,,
+APS Belém - Costa E Silva,"Av. Nazare - 79 - 1º Andar- Sala 105, Nazare, Belém - Pa",Belém,PA,,,-1.4533801,-48.491912
+APS Belém - Icoarací,"Rua Cel. Juvêncio Sarmento, 1426, Ponta Grossa (Icoaraci), Belém - Pa",Belém,PA,,,-1.3053087,-48.4815165
+APS Belém - Jurunas,"Av.Roberto Camelier, 1080, Jurunas, Belém - Pa",Belém,PA,,,-1.4690561,-48.48707779999999
+APS Belém - Marco,"Pass. Lindolfo Collor, S/Nº, Marco, Belém - Pa",Belém,PA,,,-1.4308953,-48.4530479
+APS Belém - Nazaré,"Av. Nazare, Nº 79, Nazare, Belém - Pa",Belém,PA,,,-1.4533801,-48.491912
+APS Belém - Pedreira,"Av. Pedro Miranda, 1060, Pedreira, Belém - Pa",Belém,PA,,,-1.4305143,-48.4732425
+APS Belém - São Braz,"Passagem Lindolfo Collor, S/Nº, Marco, Belém - Pa",Belém,PA,,,-1.4308953,-48.4530479
+APS Belém - Telégrafo,"Av. Senador Lemos, 1583, Telegrafo Sem Fio, Belém - Pa",Belém,PA,,,-1.4295253,-48.4854555
+APS Bragança,"Av.Nazeazeno Ferreira S/Nº, Centro, Bragança - Pa",Bragança,PA,,,-1.0557032,-46.7667202
+APS Cametá,"Rua Adilson Machado, S/N, Centro, Cametá - Pa",Cametá,PA,,,-2.2423666,-49.4994005
+APS Capanema/Pa,"Rua Dois De Junho, S/N, Centro, Capanema - Pa",Capanema,PA,,,-1.1941405,-47.1812456
+APS Castanhal,"Tv Conego Luis Leitao, 1817, Centro, Castanhal - Pa",Castanhal,PA,,,-1.2964187,-47.9273782
+APS Breves,"Rua Capitâo Assis, 299, Centro, Breves - Pa",Breves,PA,,,-1.6749668,-50.48018380000001
+APS Mosqueiro,"Av. Joaquim Pereira De Queiroz S/N, Centro, Mosqueiro - Pa",Mosqueiro,PA,,,-1.1421454,-48.4611518
+APS Paragominas,"Rua Santarém, 744, Praça 3 Irmãos, Centro, Paragominas - Pa",Paragominas,PA,,,-3.0012669,-47.3539341
+APS Santa Izabel,"Av. Francisco Amâncio, 1157, Centro, Santa Izabel - Pa",Santa Izabel,PA,,,-1.2979627,-48.16180929999999
+APS Ananindeua,"Artéria A-18 - Cidade Nova Iv/V, Cidade Nova, Ananindeua - Pa",Ananindeua,PA,,,-1.3601755,-48.4075528
+APS Vigia,,Vigia,PA,,,,
+APS Viseu,"Av. Justo Chermont S/N, Centro, Viseu - Pa",Viseu,PA,,,-1.2045173,-46.1413389
+APS São Sebastião Da Boa Vista,,São Sebastião Da Boa Vista,PA,,,,
+APS Curuçá,"Rua General Ferreira S/N, Centro, Curuçá - Pa",Curuçá,PA,,,-0.7333584999999999,-47.8536893
+APS Garrafão Do Norte,"Rua Sergio Mota Setor 2 Quadra 84, Centro, Garrafão Do Norte - Pa",Garrafão Do Norte,PA,,,-1.931388,-47.0451735
+APS Salinópolis,"Travessa Tiradentes, Nº 66, Centro, Salinópolis - Pa",Salinópolis,PA,,,-1.7271175,-48.8917699
+APS Igarapé-Açu,"Av., Barão Do Rio Branco, S/N, Centro, Igarapé-Açu - Pa",Igarapé-Açu,PA,,,-1.1287181,-47.618546
+APS Conceição Do Araguaia,"Av. Juscelino Kubitschek, 2650, Centro, Conceição Do Araguaia - Pa",Conceição Do Araguaia,PA,,,-8.260611599999999,-49.2631971
+APS Goianésia Do Pará,,Goianésia Do Pará,PA,,,,
+APS Marabá,"Rua Agropolis Do Amapá, S/N, Cidade Nova, Marabá - Pa",Marabá,PA,,,-5.374607999999999,-49.1335172
+APS Ourilândia Do Norte,,Ourilândia Do Norte,PA,,,,
+APS Parauapebas,"Rua 24 De Março Nº 40, Rio Verde, Parauapebas - Pa",Parauapebas,PA,,,-6.0757872,-49.8935932
+APS Redenção/Pa,"Rua Engenheiro Luiz Estevão S/N, Ademar Guimaraes, Redenção/Pa - Pa",Redenção/Pa,PA,,,-8.039977,-50.0415804
+APS São Geraldo Do Araguaia,"Travessa Administrativa S/N, Sao Geraldo Do Araguaia, São Geraldo Do Araguaia - Pa",São Geraldo Do Araguaia,PA,,,-6.392775299999999,-48.5630085
+APS Tucuruí,"Av. Sete De Setembro S/N, Esperanca, Tucuruí - Pa",Tucuruí,PA,,,-3.769948,-49.6691672
+APS Xinguara,"Rua Pedro Alvares Cabral, Quadra 16, Selectas, Xinguara - Pa",Xinguara,PA,,,-7.1107261,-49.9537396
+APS Alenquer,"Rua Dr. Pedro Vicente, S/Nº, Centro, Alenquer - Pa",Alenquer,PA,,,-1.9542565,-54.7394623
+APS Altamira,"Av. Brigadeiro Eduardo Gomes, Esplanada Do Xingu, Altamira - Pa",Altamira,PA,,,-3.2165713,-52.2167225
+APS Itaituba,"Av. Marechal Rondon, Aeroporto Velho, Itaituba - Pa",Itaituba,PA,,,-4.2647341,-55.991954
+APS Santarém,"Rua Floriano Peixoto, Centro, Santarém - Pa",Santarém,PA,,,-2.4184187,-54.7141746
+APS Porto De Moz,"Travessa Duque De Caxias S/N, Centro, Porto De Moz - Pa",Porto De Moz,PA,,,-1.7518049,-52.2338065
+APS Novo Progresso,"Rua Itaituba S/N, Centro, Novo Progresso - Pa",Novo Progresso,PA,,,-7.0303242,-55.415243
+APS Bayeux,"Av. Liberdade - 4230, Centro, Bayeux - Pb",Bayeux,PB,,,-7.125510999999999,-34.931068
+APS Guarabira,"Rua Sabiniano Maia, 903, Centro, Guarabira - Pb",Guarabira,PB,,,-6.8552019,-35.4881401
+APS Itabaiana/Pb,"Av. Pref. Antonio Batista Santiago S/ Nº, Centro, Itabaiana - Pb",Itabaiana,PB,,,-7.3337253,-35.3434821
+APS João Pessoa - Bela Vista,"Rua Barão Do Triunfo, 307, Varadouro, João Pessoa - Pb",João Pessoa,PB,,,-7.116064700000001,-34.8883787
+APS João Pessoa - Centro,"Rua Barao Do Abiai, 73, Centro, João Pessoa - Pb",João Pessoa,PB,,,-7.1417255,-34.9717085
+APS João Pessoa - Cidadã,"Rua Deputado Odon Bezerra, 100, Tambia, João Pessoa - Pb",João Pessoa,PB,,,-7.1155833,-34.8808997
+APS João Pessoa - Tambauzinho,"Rua Juiz Ovidio Gouveia, S/N, Pedro Gondim, João Pessoa - Pb",João Pessoa,PB,,,-7.1174869,-34.8461379
+APS João Pessoa - Sul,"Rua Paulino Dos Santos Coelho, 30, Jardim Cidade Universitaria, João Pessoa - Pb",João Pessoa,PB,,,-7.1596369,-34.8379292
+APS Rio Tinto,"Rua Da Aurora, S/N, Centro, Rio Tinto - Pb",Rio Tinto,PB,,,-6.8043388,-35.0791006
+APS Santa Rita/Pb,"Rua Flavio Ribeiro Coutinho, Centro, Santa Rita - Pb",Santa Rita,PB,,,-7.124674,-34.9131307
+APS Solânea,"Rua Celso Cirne, 344, Centro, Solânea - Pb",Solânea,PB,,,-6.7574027,-35.6572052
+APS Cuité,"Rua Petrônio Figueredo, S/N, Centro, Cuité - Pb",Cuité,PB,,,-7.130829,-34.9329993
+APS Esperança,"Rua Manoel Rodrigues, 31, Centro, Esperança - Pb",Esperança,PB,,,-7.020402799999999,-35.857616
+APS Cabedelo,"Rua Pompeu Henrique Cavalcante, 263, Ponta De Matos, Cabedelo - Pb",Cabedelo,PB,,,-6.9716419,-34.8340191
+APS Sapé,"Praça Dr. João Ursulo, 124 - Centro, Centro, Sapé - Pb",Sapé,PB,,,-7.093262999999999,-35.2332674
+APS Pedras De Fogo,"Rua Severino Borges, S/N, Centro, Pedras De Fogo - Pb",Pedras De Fogo,PB,,,-7.4002957,-35.1135182
+APS Bananeiras,"Rua Antonio Coutinho - 44, Centro, Bananeiras - Pb",Bananeiras,PB,,,-6.7542469,-35.6323066
+APS Alagoa Grande,"Rua Presidente João Pessoa, S/N, Centro, Alagoa Grande - Pb",Alagoa Grande,PB,,,-7.0410598,-35.627912
+APS Mari,"Rua Costa E Silva, S/N, Centro, Mari - Pb",Mari,PB,,,-7.119561399999999,-34.8817282
+APS Areia,"R. Aurelio De Figueiredo, Centro, Areia - Pb",Areia,PB,,,-6.9714528,-35.6937494
+APS Cajazeiras,"Av. Comandante Vital Rolim, 750, Centro, Cajazeiras - Pb",Cajazeiras,PB,,,-6.8877294,-38.5560027
+APS Campina Grande - Catolé,"Rua Vigário Calixto, 418, Catole, Campina Grande - Pb",Campina Grande,PB,,,-7.230804,-35.880986
+APS Campina Grande - Dinamérica,"Av. Dinamérica Alves Correia, S/N, Santa Rosa, Campina Grande - Pb",Campina Grande,PB,,,-7.2350913,-35.9107433
+APS Campina Grande - Tiradentes,"Rua Coronel João Lourenço Porto, 89, Centro, Campina Grande - Pb",Campina Grande,PB,,,-7.220186,-35.8824234
+APS Catolé Do Rocha,"Rua Francisco Maia, S/N, Centro, Catolé Do Rocha - Pb",Catolé Do Rocha,PB,,,-6.3419587,-37.7477451
+APS Itaporanga/Pb,"Rua Irineu Rodrigues Da Silva, 116, Centro, Itaporanga - Pb",Itaporanga,PB,,,-7.307481699999999,-38.1537298
+APS Patos,"Rua Jarbas Moura Costa, 26, Bela Vista, Patos - Pb",Patos,PB,,,-7.0160262,-37.2876593
+APS Pombal,"Ruatabelião José Vieira, S/N, Centro, Pombal - Pb",Pombal,PB,,,-6.7747123,-37.7975135
+APS Sousa,"Rua Dr. José Mariz, 22, Centro, Sousa - Pb",Sousa,PB,,,-6.7598444,-38.2319967
+APS Teixeira,"Rua Teodoro Nunes Da Costa, S/N, Centro, Teixeira - Pb",Teixeira,PB,,,-7.2273501,-37.2517328
+APS Bonito De Santa Fé,"Rua José Arruda De Souza, S/N, Centro, Bonito De Santa Fé - Pb",Bonito De Santa Fé,PB,,,-7.3141501,-38.5164092
+APS Monteiro,"Av. Rafael Sebastião, 53, Centro, Monteiro - Pb",Monteiro,PB,,,-7.8983693,-37.1205707
+APS Princesa Isabel,"Rua Antônio Pessoa, 236, Centro, Princesa Isabel - Pb",Princesa Isabel,PB,,,-7.736212999999999,-37.9916986
+APS Santa Luzia/Pb,,Santa Luzia,PB,,,,
+APS Serra Branca,"Rua Dep. Àlvaro Gaudêncio, 50, Centro, Serra Branca - Pb",Serra Branca,PB,,,-7.1145383,-34.8643219
+APS São Bento/Pb,"Rua Andreazza De Oliveira, S/N, Centro, São Bento - Pb",São Bento,PB,,,-6.4942971,-37.4516035
+APS Queimadas/Pb,"Rua Odilon Almeida Barreto, S/N, Centro, Queimadas - Pb",Queimadas,PB,,,-7.3656301,-35.9048416
+APS Curitiba - Cândido Lopes,"Rua Cândido Lopes, 270, Centro, Curitiba - Pr",Curitiba,PR,,,-25.4311173,-49.2749372
+APS Curitiba - Hauer,"Rua Waldemar Kost, 706, Hauer, Curitiba - Pr",Curitiba,PR,,,-25.4824294,-49.2460835
+APS Curitiba - Visconde De Guarapuava,"Travessa Da Lapa, Centro, Curitiba - Pr",Curitiba,PR,,,-25.4337851,-49.2662007
+APS Curitiba - Xv De Novembro,"Rua Xv De Novembro, 760 - Térreo, Centro, Curitiba - Pr",Curitiba,PR,,,-25.429425,-49.26679009999999
+APS Paranaguá,"Praça João Gualberto, 267, Joao Gualberto, Paranaguá - Pr",Paranaguá,PR,,,-25.5167056,-48.50709759999999
+APS Araucária,"Rua Manoel Ribas 185, Centro, Araucária - Pr",Araucária,PR,,,-25.5828612,-49.3968443
+APS São José Dos Pinhais,"Rua Joinville - 2643, Sao Pedro, São José Dos Pinhais - Pr",São José Dos Pinhais,PR,,,-25.5488453,-49.1963781
+APS Colombo,"Rua Xv De Novembro 236 - Fundos, Centro, Colombo - Pr",Colombo,PR,,,-25.2919904,-49.2256218
+APS Fazenda Rio Grande,"Rua Egito 426, Nacoes, Fazenda Rio Grande - Pr",Fazenda Rio Grande,PR,,,-25.6548549,-49.3069521
+APS Campo Largo,"Rua Joaquim Ribas De Andrade, Vila Solene, Campo Largo - Pr",Campo Largo,PR,,,-25.4541388,-49.5231967
+APS Pinhais,"Rua Africa, 50, Centro, Pinhais - Pr",Pinhais,PR,,,-25.4424956,-49.1876492
+APS Campina Grande Do Sul,"Juscelino K De Oliveira 899 - J Paulista, Jardim Paulista, Campina Grande Do Sul - Pr",Campina Grande Do Sul,PR,,,-25.3624085,-49.1005136
+APS Lapa,"Av.Juscelino Kubischek De Oliveira, 479, Centro, Lapa - Pr",Lapa,PR,,,-25.7674528,-49.7278716
+APS Mandirituba,"Rua Francisco Manoel De Oliveira Mendes, Centro, Mandirituba - Pr",Mandirituba,PR,,,-25.7783808,-49.3286674
+APS Itaperuçu,"Rua Crispin Furquim De Siqueira, 1780, Centro, Itaperuçu - Pr",Itaperuçu,PR,,,-25.2217263,-49.3557926
+APS Assis Chateaubriand,"Av. São Luiz, S/N, Centro, Assis Chateaubriand - Pr",Assis Chateaubriand,PR,,,-24.4040201,-53.5096499
+APS Cascavel/Pr,"Rua São Paulo, 603, Centro, Cascavel - Pr",Cascavel,PR,,,-24.958141,-53.455614
+APS Foz Do Iguaçu,"Av. Parana 1661, Cr 1, Foz Do Iguaçu - Pr",Foz Do Iguaçu,PR,,,-25.5186579,-54.5760295
+APS Francisco Beltrão,"Rua Guanabara, 410, Presidente Kennedy, Francisco Beltrão - Pr",Francisco Beltrão,PR,,,-26.0741797,-53.0469973
+APS Medianeira,"Rua Riachuelo, 897, Centro, Medianeira - Pr",Medianeira,PR,,,-25.2870792,-54.0928623
+APS Pato Branco,"Rua Tapajós, 520, Centro, Pato Branco - Pr",Pato Branco,PR,,,-26.2217701,-52.6727986
+APS Realeza,"Rua Arnaldo Busato, 3107, Centro, Realeza - Pr",Realeza,PR,,,-25.7696534,-53.5312202
+APS Toledo/Pr,"Rua Rui Barbosa, 2989, Jardim Gisela, Toledo - Pr",Toledo,PR,,,-24.71749,-53.7373528
+APS Guaíra/Pr,"Rua Paraguai, 1145, Centro, Guaíra - Pr",Guaíra,PR,,,-24.0774755,-54.2525664
+APS Mangueirinha,"Rua Santos Dumont, 288, Centro, Mangueirinha - Pr",Mangueirinha,PR,,,-25.9399652,-52.1753392
+APS Marechal Cândido Rondon,"Av. Rio Grande Do Sul, 270, Centro, Marechal Cândido Rondon - Pr",Marechal Cândido Rondon,PR,,,-24.5625739,-54.0656433
+APS Palmas/Pr,"Av. Clevelândia, 684, Centro, Palmas - Pr",Palmas,PR,,,-26.4887316,-51.9895351
+APS Santo Antonio Do Sudoeste,"Rua Jesuino Teodorico De Andrade, 1417, Centro, Santo Antonio Do Sudoeste - Pr",Santo Antonio Do Sudoeste,PR,,,-26.0758755,-53.7148827
+APS Dois Vizinhos,"Rua Paraná, 1147, Centro, Dois Vizinhos - Pr",Dois Vizinhos,PR,,,-25.7594374,-53.0585064
+APS Palotina,"Rua Vereador Antonio Pozzan, 1797, Centro, Palotina - Pr",Palotina,PR,,,-24.291248,-53.83845359999999
+APS Coronel Vivida,"Rua Angelo Peruzzo, 37, Centro, Coronel Vivida - Pr",Coronel Vivida,PR,,,-24.7902561,-50.011066
+APS São Miguel Do Iguaçu,"Rua Nereu Ramos, 1313, Centro, São Miguel Do Iguaçu - Pr",São Miguel Do Iguaçu,PR,,,-25.3404684,-54.244603
+APS Quedas Do Iguaçu,,Quedas Do Iguaçu,PR,,,-25.4592177,-52.9178937
+APS Apucarana,"Rua Firman Neto, 201, Vila Sao Jose, Apucarana - Pr",Apucarana,PR,,,-23.5505865,-51.4525484
+APS Arapongas,"Rua Harpia Esquina Rua Flamingo, S/N, Centro, Arapongas - Pr",Arapongas,PR,,,-23.4086795,-51.4375384
+APS Cornélio Procópio,"Rua Presidente Castelo Branco, 210, Centro, Cornélio Procópio - Pr",Cornélio Procópio,PR,,,-23.1793273,-50.63597660000001
+APS Ivaiporã,"Av. Presidente Tancredo Neves, 1555, Centro, Ivaiporã - Pr",Ivaiporã,PR,,,-24.2415081,-51.667627
+APS Jacarezinho,"Rua Don Fernando Taddey, 1288, Centro, Jacarezinho - Pr",Jacarezinho,PR,,,-23.1573415,-49.9739658
+APS Londrina - Centro,"Rua Professor Joao Candido, 635, Centro, Londrina - Pr",Londrina,PR,,,-23.3146648,-51.1612559
+APS Londrina - Shangrilá,"Rua Visconde De Maua, 161, Jardim Shangri-La A, Londrina - Pr",Londrina,PR,,,-23.3012045,-51.17508309999999
+APS Rolândia,"Av. Expedicionarios, 159, Centro, Rolândia - Pr",Rolândia,PR,,,-23.3118692,-51.3676544
+APS Bandeirantes/Pr,,Bandeirantes,PR,,,,
+APS Cambé,"Avenida Brasil138, Centro, Cambé - Pr",Cambé,PR,,,-23.2848821,-51.2815109
+APS Andirá,"Rua Minas Gerais 385, Centro, Andirá - Pr",Andirá,PR,,,-24.9410784,-53.4365596
+APS Cambará,"Av. Domingos Vilas 1034, Centro, Cambará - Pr",Cambará,PR,,,-23.0404044,-50.0795577
+APS Mandaguari,,Mandaguari,PR,,,-23.5179845,-51.6769999
+APS Santo Antônio Da Platina,"Rua Ruy Barbosa, Centro, Santo Antônio Da Platina - Pr",Santo Antônio Da Platina,PR,,,-23.3004027,-50.0833501
+APS Campo Mourão,"Av. Manoel Mendes De Camargo, 290, Centro, Campo Mourão - Pr",Campo Mourão,PR,,,-24.0482966,-52.3865235
+APS Cianorte,"Av. Goiás, 17, Zona 01, Cianorte - Pr",Cianorte,PR,,,-23.6579112,-52.6044393
+APS Goioerê,"Av. Libertadores Da América. 145, Centro, Goioerê - Pr",Goioerê,PR,,,-24.1897542,-53.02243929999999
+APS Loanda,"Rua Deputado Accioly Filho, 130, Centro, Loanda - Pr",Loanda,PR,,,-22.9313966,-53.13534509999999
+APS Maringá,"Av. Xv De Novembro, 491, Zona 01, Maringá - Pr",Maringá,PR,,,-23.4239006,-51.9371296
+APS Paranavaí,"Rua Salgado Filho, 789, Centro, Paranavaí - Pr",Paranavaí,PR,,,-23.0822738,-52.4561376
+APS Umuarama,"Rua Inajá, 3610, Zona I, Umuarama - Pr",Umuarama,PR,,,-23.7613886,-53.315436
+APS Colorado/Pr,"Rua Adinael Moreira, 11., Centro, Colorado - Pr",Colorado,PR,,,-22.8402716,-51.98613229999999
+APS Paiçandu,"Rua Onésio Francisco De Faria, 755, Centro, Paiçandu - Pr",Paiçandu,PR,,,-23.4634484,-52.0498757
+APS Astorga,"Rua Nossa Senhora Aparecida, 181, Centro, Astorga - Pr",Astorga,PR,,,-23.2379551,-51.6694517
+APS Cruzeiro Do Oeste,"Av. Brasil, 3025, Jardim Da Luz, Centro, Cruzeiro Do Oeste - Pr",Cruzeiro Do Oeste,PR,,,-23.7858935,-53.0689728
+APS Nova Esperança,"Av. Felipe Camarão, 945, Centro, Nova Esperança - Pr",Nova Esperança,PR,,,-23.1875283,-52.1935759
+APS Guarapuava,"Rua Quinze De Novembro, Centro, Guarapuava - Pr",Guarapuava,PR,,,-25.3910604,-51.4636266
+APS Irati/Pr,"Rua Coronel Emilio Gomes, Centro, Irati - Pr",Irati,PR,,,-25.4650827,-50.6485414
+APS Jaguariaiva,"Av. Antônio Cunha, 507, Centro, Jaguariaiva - Pr",Jaguariaiva,PR,,,-24.254435,-49.7121803
+APS Laranjeiras Do Sul,"Av. Santos Dumont, Centro, Laranjeiras Do Sul - Pr",Laranjeiras Do Sul,PR,,,-25.4039517,-52.4145411
+APS Ponta Grossa,"Rua Marques Do Parana, Ronda, Ponta Grossa - Pr",Ponta Grossa,PR,,,-25.0985431,-50.1760386
+APS Telêmaco Borba,"Rua Leopoldo Voigt, Centro, Telêmaco Borba - Pr",Telêmaco Borba,PR,,,-24.3293108,-50.6223289
+APS União Da Vitória,"Rua Ipiranga, Centro, União Da Vitória - Pr",União Da Vitória,PR,,,-26.2275601,-51.0880256
+APS Castro,"Rua Marechal Deodoro, Vila Rio Branco, Castro - Pr",Castro,PR,,,-24.7988726,-49.9940126
+APS Ibaiti,"Rua Rui Barbosa, Centro, Ibaiti - Pr",Ibaiti,PR,,,-23.8519711,-50.190836
+APS Pitanga,"Rua João Gonçalves Padilha, Centro, Pitanga - Pr",Pitanga,PR,,,-24.7630436,-51.7648274
+APS Arapoti,"Rua Ondina Bueno Siqueira, Centro, Arapoti - Pr",Arapoti,PR,,,-24.1445773,-49.8245183
+APS Imbituva,"Rua Santo Antonio 839, Centro, Imbituva - Pr",Imbituva,PR,,,-25.2315852,-50.6133603
+APS Prudentópolis,"Rua Lecia Ucrainka, Centro, Prudentópolis - Pr",Prudentópolis,PR,,,-25.2209726,-50.9754661
+APS Pinhão/Pr,"Rua Lauro Ferreira Caldas, 145, Centro, Pinhão - Pr",Pinhão,PR,,,-25.7000244,-51.66130099999999
+APS Palmeira/Pr,,Palmeira,PR,,,-25.3367704,-49.9270894
+APS São Mateus Do Sul,"Rua Tenente Max Wolff Filho, Centro, São Mateus Do Sul - Pr",São Mateus Do Sul,PR,,,-25.8624421,-50.382915
+APS Goiana/Pe,"Travessa Da Matriz, 64, Centro, Goiana - Pe",Goiana,PE,,,-7.558787199999999,-34.9969802
+APS Jaboatão,,Jaboatão,PE,,,-8.1516085,-34.9330266
+APS Olinda,"Rua Professor Jose Candido Pessoa, Nº 734, Bairro Novo, Olinda - Pe",Olinda,PE,,,-8.0050545,-34.8414233
+APS Paulista/Pe,"Pc Agamenon Magalhaes, Nº 35, Centro, Paulista - Pe",Paulista,PE,,,-7.9399278,-34.8839719
+APS Recife - Afogados,"Rua Joao Carlos Guimaraes, 147, Afogados, Recife - Pe",Recife,PE,,,-8.0785974,-34.9059262
+APS Recife - Areias,"Rua Apura, 59, Areias, Recife - Pe",Recife,PE,,,-8.0917157,-34.9349277
+APS Recife - Casa Amarela,"Est Do Arraial, Nº 3515, Tamarineira, Recife - Pe",Recife,PE,,,-8.0277402,-34.9137428
+APS Recife - Corredor Do Bispo,"Rua Corredor Do Bispo, Soledade, Recife - Pe",Recife,PE,,,-8.0583775,-34.886683
+APS Recife - Encruzilhada,"Av. Norte Miguel Arraes De Alencar, 2008, Encruzilhada, Recife - Pe",Recife,PE,,,-8.039061499999999,-34.8884976
+APS Recife - Mário Melo,"Av. Mário Melo, 343, Santo Amaro, Recife - Pe",Recife,PE,,,-8.052550199999999,-34.8844005
+APS Recife - Pina,"Av. Herculano Bandeira, Nº 570, Pina, Recife - Pe",Recife,PE,,,-8.087955,-34.88561110000001
+APS Cabo De Santo Agostinho,"Rua Das Florentinas, Nº 88, Centro, Cabo De Santo Agostinho - Pe",Cabo De Santo Agostinho,PE,,,-8.2889871,-35.038596
+APS Camaragibe,"Av. Doutor Belmino Correia 2850, Timbi, Camaragibe - Pe",Camaragibe,PE,,,-8.022565799999999,-34.9937642
+APS São Lourenço Da Mata,"Rua Frei Caneca, Nº 301/307, Centro, São Lourenço Da Mata - Pe",São Lourenço Da Mata,PE,,,-7.9986269,-35.0380995
+APS Moreno,"Rua Ormezinda Vasconcelos, 99, Centro, Moreno - Pe",Moreno,PE,,,-8.1179135,-35.1032095
+APS Bezerros,"Trav Professor Amaral, Centro, Bezerros - Pe",Bezerros,PE,,,-8.2386161,-35.7528676
+APS Carpina,"Av. Congresso Eucaristico Internacional, Santa Cruz, Carpina - Pe",Carpina,PE,,,-7.8457756,-35.242019
+APS Caruaru,"Rui Barbosa, 250, Mauricio De Nassau, Caruaru - Pe",Caruaru,PE,,,-8.2803304,-35.9738761
+APS Escada,,Escada,PE,,,-8.3688312,-35.235919
+APS Gravatá,"Rua Lamartine De Farias Castro 217, Prado, Gravatá - Pe",Gravatá,PE,,,-8.1970926,-35.5636866
+APS Limoeiro,"Av. Dr Severino Pinheiro, Centro, Limoeiro - Pe",Limoeiro,PE,,,-7.8777054,-35.4516995
+APS Nazaré Da Mata,"Lote Edite De Moraes Coutinho - 3, Centro, Nazaré Da Mata - Pe",Nazaré Da Mata,PE,,,-7.742571099999999,-35.2284097
+APS Ribeirão,"Rua João Cardozo Ayres Filho, Centro, Ribeirão - Pe",Ribeirão,PE,,,-8.5081977,-35.3748998
+APS São Joaquim Do Monte,"Prolongamento Da Av. Presidente Kennedy, Centro, São Joaquim Do Monte - Pe",São Joaquim Do Monte,PE,,,-8.4322384,-35.8075229
+APS Surubim,"Rua Antonio De Medeiros Sobrinho, Centro, Surubim - Pe",Surubim,PE,,,-7.8358878,-35.7592591
+APS Timbaúba,"Rua Alcedo Marrocos, Centro, Timbaúba - Pe",Timbaúba,PE,,,-7.5137256,-35.3140869
+APS Vitória De Santo Antão,"Rua Conselheiro Severino Francisco Alves, Livramento, Vitória De Santo Antão - Pe",Vitória De Santo Antão,PE,,,-8.123444,-35.3099699
+APS Belo Jardim,"Coronel Geminiano Maciel, 397, Boa Vista, Belo Jardim - Pe",Belo Jardim,PE,,,-8.3338383,-36.41729530000001
+APS Cupira,"Avenida Miguel Pereira Neto, S/N, Centro, Cupira - Pe",Cupira,PE,,,-8.6042308,-35.9508112
+APS Afogados Da Ingazeira,,Afogados Da Ingazeira,PE,,,-7.4676426,-37.2714957
+APS Arcoverde,"Rua Cap. Arlindo Pacheco De Albuquerque, Sao Miguel, Arcoverde - Pe",Arcoverde,PE,,,-8.4228644,-37.0572697
+APS Garanhuns,"Praça Dom Moura, S/Nº, Santo Antonio, Garanhuns - Pe",Garanhuns,PE,,,-8.8887565,-36.4932506
+APS Palmares,"Av. Coronel Pedro Paranhos, Centro, Palmares - Pe",Palmares,PE,,,-8.6875753,-35.5975212
+APS Pesqueira,"Rua 13 De Maio, 33, Centro, Pesqueira - Pe",Pesqueira,PE,,,-8.358351299999999,-36.6978105
+APS Bom Conselho,"Rua Dom Pedro Ii, 67, Centro, Bom Conselho - Pe",Bom Conselho,PE,,,-9.1698778,-36.6804792
+APS Canhotinho,"Av. Quintino Bocaiuva, Centro, Canhotinho - Pe",Canhotinho,PE,,,-8.8749961,-36.1974554
+APS Palmeirina,"Rua Governador João Pessoa, S/N, Centro, Palmeirina - Pe",Palmeirina,PE,,,-9.0043019,-36.3264897
+APS São José Do Egito,"Rua Juraci Bezerra, 111, Centro, São José Do Egito - Pe",São José Do Egito,PE,,,-7.469489499999999,-37.2761237
+APS Barreiros,"Rua Alceu Teles, Centro, Barreiros - Pe",Barreiros,PE,,,-8.813293,-35.187649
+APS Águas Belas,"Rua Pedro Da Silva, S/Nº, Centro, Águas Belas - Pe",Águas Belas,PE,,,-9.1125796,-37.1206004
+APS Caetés,"Rua Melquíades Borrego, S/N, Caetes, Caetés - Pe",Caetés,PE,,,-8.7714854,-36.6229656
+APS São João/Pe,"Rua Julio Miguel Da Silva, S/N, Centro, São João - Pe",São João,PE,,,-8.8788308,-36.3654859
+APS Sertânia,"Rua João Arruda Filho, 201, Centro, Sertânia - Pe",Sertânia,PE,,,-8.069804399999999,-37.2679829
+APS Ibimirim,"Rua Castelo Branco, Nº 02, Centro, Ibimirim - Pe",Ibimirim,PE,,,-25.2018038,-49.34310809999999
+APS Tabira,"Rua Alfa Albuquerque Melo Cordeiro, S/N, Centro, Tabira - Pe",Tabira,PE,,,-7.5962512,-37.5384888
+APS Custódia,"Rua Getúlio Vargas, 1000, Centro, Custódia - Pe",Custódia,PE,,,-8.0815064,-37.6371918
+APS Buique,"Travessa Coronel Antônio Cavalcante, Centro, Buique - Pe",Buique,PE,,,-8.6268345,-37.1554051
+APS São Bento Do Una,"Tv. Dr. João Valença, Centro, São Bento Do Una - Pe",São Bento Do Una,PE,,,-8.5212448,-36.4481328
+APS Lajedo,,Lajedo,PE,,,-8.6640686,-36.3218015
+APS Araripina,"Av. Perimetral Gov José Muniz Ramos, S/N, Centro, Araripina - Pe",Araripina,PE,,,-7.569265,-40.5043847
+APS Ouricuri,"Rua Eng. Baltazar Cavalcanti De Farias, Centro, Ouricuri - Pe",Ouricuri,PE,,,-7.8846259,-40.08517
+APS Petrolina,"R. Tobias Barreto 03 Set Hospitalar Um, Centro, Petrolina - Pe",Petrolina,PE,,,-9.3936106,-40.5018
+APS Salgueiro,"Rua Maria Nogueira Sampaio, 60, Centro, Salgueiro - Pe",Salgueiro,PE,,,-8.0697844,-39.1213833
+APS Serra Talhada,"Rua Isnério Inácio, 200 - Centro, Nossa Senhora Da Penha, Serra Talhada - Pe",Serra Talhada,PE,,,-7.9939315,-38.2984345
+APS Petrolândia/Pe,"Praça Dos Três Poderes, S/Nº, Centro, Petrolândia - Pe",Petrolândia,PE,,,-7.119561399999999,-34.8817282
+APS Exu,"Rua Joaquim Ulisses, 05, Centro, Exu - Pe",Exu,PE,,,-7.518732999999999,-39.722336
+APS Flores,"Rua Benjamin Constant, S/N, Centro, Flores - Pe",Flores,PE,,,-7.8673844,-37.9701116
+APS Floresta/Pe,"Rua Jose Quirino De Sa, 1, Centro, Floresta - Pe",Floresta,PE,,,-8.5980455,-38.5773083
+APS Ipubi,"Rua Frei Damião, S/N, Centro, Ipubi - Pe",Ipubi,PE,,,-7.6498469,-40.1503585
+APS São José Do Belmonte,"Rua Elvira Pereira De Barros, S/N, Centro, São José Do Belmonte - Pe",São José Do Belmonte,PE,,,-7.8603003,-38.7534806
+APS Trindade/Pe,,Trindade,PE,,,-7.761548,-40.2643793
+APS Cabrobo,"Av. Mozenir Araujo De Sa, 56, Centro, Cabrobo - Pe",Cabrobo,PE,,,-8.514237099999999,-39.3065293
+APS Bodocó,"Av. Floriano Peixoto, S/N, Centro, Bodocó - Pe",Bodocó,PE,,,-7.7816607,-39.9409402
+APS Tacaratu,"Rua Antonio Freitas De Sa, 353, Centro, Tacaratu - Pe",Tacaratu,PE,,,-9.1039217,-38.1511043
+APS Belém De São Francisco,"Av. Getulio Vargas, S/N, Centro, Belém De São Francisco - Pe",Belém De São Francisco,PE,,,-8.750877899999999,-38.9626062
+APS Santa Maria Da Boa Vista,"Rua Professor Raimundo Coimbra Filho, S/N, Centro, Santa Maria Da Boa Vista - Pe",Santa Maria Da Boa Vista,PE,,,-8.8041483,-39.8287569
+APS Lagoa Grande/Pe,,Lagoa Grande,PE,,,,
+APS Campo Maior,"Praça Aarão Santana, 203, Centro, Campo Maior - Pi",Campo Maior,PI,,,-4.842104099999999,-42.1776165
+APS Curimatá,"Rua Barão Do Paraim, 89, Centro, Curimatá - Pi",Curimatá,PI,,,-10.0342116,-44.3032291
+APS Floriano,"Av. João Luíz Ferreira, 75, Centro, Floriano - Pi",Floriano,PI,,,-6.7641817,-43.0227917
+APS Luzilândia,"Rua 28 De Julho, 399, Centro, Luzilândia - Pi",Luzilândia,PI,,,-3.4597581,-42.3728624
+APS Parnaíba,"Rua Humberto De Campos, 512, Centro, Parnaíba - Pi",Parnaíba,PI,,,-2.9058294,-41.7784474
+APS Picos,"Rua Coronel Francisco Santos, Centro, Picos - Pi",Picos,PI,,,-7.0839326,-41.4694741
+APS Piripiri,"Rua Augusto Severo, 531, Centro, Piripiri - Pi",Piripiri,PI,,,-6.769245199999999,-43.0207043
+APS São João Do Piauí,"Rua Francisco Damasceno, S/Nº, Centro, São João Do Piauí - Pi",São João Do Piauí,PI,,,-8.3535154,-42.2574298
+APS São Raimundo Nonato,"Praça Francisco Freiria 1477, Centro, São Raimundo Nonato - Pi",São Raimundo Nonato,PI,,,-9.0151562,-42.6886131
+APS Teresina - Aeroporto,"Rua Primeiro De Maio 3050, Marques, Teresina - Pi",Teresina,PI,,,-5.061865399999999,-42.8163478
+APS Teresina - Alcino Júnior,"Rua David Caldas, 113/Sul, Centro, Teresina - Pi",Teresina,PI,,,-5.0921159,-42.81219369999999
+APS Teresina - Centro,"Rua Areolino De Abreu, 1015, Centro, Teresina - Pi",Teresina,PI,,,-5.0895499,-42.8169528
+APS Teresina - Leste,"Av. Joao Xxiii 3231, Sao Cristovao, Teresina - Pi",Teresina,PI,,,-5.0812784,-42.7690169
+APS Água Branca/Pi,"Rua Vereador Abel Pereira, Centro, Água Branca - Pi",Água Branca,PI,,,-5.891933,-42.6399089
+APS Teresina - Sul,"Rua Sete De Setembro/Sul, 2786, Vermelha, Teresina - Pi",Teresina,PI,,,-5.1141798,-42.8014401
+APS Valença Do Piauí,"Rua Euripedes Martins, 274, Centro, Valença Do Piauí - Pi",Valença Do Piauí,PI,,,-6.402739599999999,-41.74171339999999
+APS Cristino Castro,"Rua Marcos Parente, 1005, Centro, Cristino Castro - Pi",Cristino Castro,PI,,,-8.819640699999999,-44.2238321
+APS Oeiras,"Rua André Holanda, 368, Centro, Oeiras - Pi",Oeiras,PI,,,-7.0144867,-42.1288116
+APS Corrente,"Av. Manoel Lourenço Cavalcante S/N, Nova Corrente, Corrente - Pi",Corrente,PI,,,-10.4357069,-45.1787393
+APS Barras,"Rua Marechal Pires Ferreira S/N, Centro, Barras - Pi",Barras,PI,,,-4.2435538,-42.2934165
+APS Pedro Ii,"Rua Epifânio Jetirana, Nº 216, Centro, Pedro Ii - Pi",Pedro Ii,PI,,,-4.4219569,-41.4580293
+APS União,"Rua José Medeiros De Melo S/N, Centro, União - Pi",União,PI,,,-8.322948799999999,-43.1747162
+APS José De Freitas,"Rua José Da Costa Oliveira Sobrinho S/N, Centro, José De Freitas - Pi",José De Freitas,PI,,,-4.762054,-42.5838114
+APS Miguel Alves,"Rua Des. Simplicio Mendes, S/N, Centro, Miguel Alves - Pi",Miguel Alves,PI,,,-4.1706015,-42.8947096
+APS Batalha/Pi,"Av. Inácio Farias S/N, Centro, Batalha - Pi",Batalha,PI,,,-4.0202286,-42.0814734
+APS Esperantina/Pi,"Rua Cel. Silvestre Lopes S/N, Centro, Esperantina - Pi",Esperantina,PI,,,-3.8920981,-42.2347873
+APS Piracuruca,"Avenida Deputado Pinheiro Machado S/N, Centro, Piracuruca - Pi",Piracuruca,PI,,,-3.9280114,-41.7230419
+APS Altos,"Rua Domingos Félix Do Monte S/N, Centro, Altos - Pi",Altos,PI,,,-5.0406449,-42.4623645
+APS Canto Do Buriti,"Rua João Dos Santos, S/N, Centro, Canto Do Buriti - Pi",Canto Do Buriti,PI,,,-8.1086344,-42.9494179
+APS Cocal,"Rua Reinaldo Marques S/N, Centro, Cocal - Pi",Cocal,PI,,,-3.4679958,-41.5572325
+APS Luis Correia,"Rua Laurentino Araújo S/N, Centro, Luis Correia - Pi",Luis Correia,PI,,,-2.8800136,-41.6659084
+APS Rio De Janeiro - André Moreira,"Rua Padre Andre Moreira 31, Meier, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9026086,-43.2756537
+APS Rio De Janeiro - Centro,"Av. Marechal Floriano, 199, Centro, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9029727,-43.186861
+APS Rio De Janeiro - Del Castilho,"Av. Segal, 206, Del Castilho, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8815032,-43.2780802
+APS Rio De Janeiro - Méier,"Rua Aristides Caire, 218, Meier, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8970487,-43.2754549
+APS Rio De Janeiro - Praça Da Bandeira,"Praça Da Bandeira, 96, Praca Da Bandeira, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9105246,-43.2136691
+APS Rio De Janeiro - Presidente Vargas,"Av. Presidente Vargas, 418, Centro, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9008433,-43.1793749
+APS Rio De Janeiro - São Cristovão,"Rua São Januário, 798, Sao Cristovao, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8932644,-43.2274351
+APS Rio De Janeiro - Tijuca,"Rua Uruguai, 297 - A, Tijuca, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.928926,-43.2432245
+APS Rio De Janeiro - Almirante Barroso,"Rua Almirante Barroso, 54 Loja, Centro, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9081457,-43.1759145
+APS Rio De Janeiro - Maracanã,"Rua São Francisco Xavier, Nº 324, Maracana, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9158052,-43.2304032
+APS Rio De Janeiro - Ciad,"Av. Presidente Vargas, 1997, Cidade Nova, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9066499,-43.193443
+APS Rio De Janeiro - Barra Da Tijuca,"Av. Armando Lombardi, Nº 385, Barra Da Tijuca, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-23.0074762,-43.3086139
+APS Rio De Janeiro - Raimundo Corrêa,"Rua Raimundo Correia, 20, Copacabana, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9718476,-43.1883662
+APS Rio De Janeiro - Copacabana,"Av.Nossa Sra. Copacabana, 1049, Copacabana, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9783399,-43.1908761
+APS Rio De Janeiro - Cosme Velho,"Rua Das Laranjeiras 430, Laranjeiras, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9381236,-43.19164010000001
+APS Rio De Janeiro - Jacarepaguá,"Rua Barão, 207, Praca Seca, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9030137,-43.34719949999999
+APS Rio De Janeiro - Presidente Antônio Carlos,"Av. Presidente Antônio Carlos, 607, Centro, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9058255,-43.1740249
+APS Rio De Janeiro - Miguel Lemos,"Av. Nossa Sra. De Copacabana, 1032, Copacabana, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9775792,-43.1908519
+APS Rio De Janeiro - Engenheiro Trindade,"Rua Engenheiro Trindade, 429, Campo Grande, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9033598,-43.5641875
+APS Rio De Janeiro - Ilha Do Governador,"Est Do Galeao - 841, Jardim Guanabara, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8117311,-43.193172
+APS Rio De Janeiro - Avenida Brasil,"Av. Brasil, 17673, Iraja, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8247548,-43.331643
+APS Rio De Janeiro - Ramos,"Rua Joaquim Gomes, 269, Ramos, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8513921,-43.2511684
+APS Rio De Janeiro - Largo Do Bicão,"Av. Meriti, 2661/A, Vila Da Penha, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8374881,-43.3100265
+APS Rio De Janeiro - Olinda Ellis,"Rua Olinda Ellis, 801, Campo Grande, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9128302,-43.5458122
+APS Rio De Janeiro - Bangu,"Av. Ministro Ari Franco, 410, Bangu, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8713005,-43.4646091
+APS Rio De Janeiro - Santa Cruz,"Rua Felipe Cardoso, 18, Santa Cruz, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.9162393,-43.6841069
+APS Rio De Janeiro - Realengo,"Rua Marechal Modestino, 160, Realengo, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8727131,-43.4317021
+APS Rio De Janeiro - Olaria,"Rua Andre Azevedo, 87, Olaria, Rio De Janeiro - Rj",Rio De Janeiro,RJ,,,-22.8428219,-43.2596628
+APS Bom Jesus Do Itabapoana,"Av. Roberto Silveira, 102, Centro, Bom Jesus Do Itabapoana - Rj",Bom Jesus Do Itabapoana,RJ,,,-21.136628,-41.675843
+APS Campos Dos Goytacazes - Guarus - Desativada,"Unidade Desativada, Centro, Campos Dos Goytacazes - Rj",Campos Dos Goytacazes,RJ,,,-21.7614561,-41.3167841
+APS Campos Dos Goytacazes - Centro,"Praça Santíssimo Salvador, 45/47, Centro, Campos Dos Goytacazes - Rj",Campos Dos Goytacazes,RJ,,,-21.7568181,-41.3237276
+APS Itaperuna,"Av. Francisco Sá Tinoco, 92, Centro, Itaperuna - Rj",Itaperuna,RJ,,,-21.2093253,-41.88767259999999
+APS Miracema,"Rua Marechal Floriano, 109, Centro, Miracema - Rj",Miracema,RJ,,,-21.4150819,-42.1976234
+APS Santo Antônio De Pádua,"Rua José Homem Da Costa, 585, Centro, Santo Antônio De Pádua - Rj",Santo Antônio De Pádua,RJ,,,-21.5354394,-42.1869132
+APS São Fidelis,"Av. Sete De Setembro, 443, Centro, São Fidelis - Rj",São Fidelis,RJ,,,-21.6480747,-41.7502859
+APS Cambuci,"Rua Maria Jacobe, S/N, Centro, Cambuci - Rj",Cambuci,RJ,,,-21.575761,-41.9121593
+APS Cardoso Moreira,"Rua Alexandre Assed, 87, Centro, Cardoso Moreira - Rj",Cardoso Moreira,RJ,,,-21.4939113,-41.6156721
+APS Italva,"Rua Coronel Luiz Salles, 152, Centro, Italva - Rj",Italva,RJ,,,-21.4206189,-41.6958497
+APS Itaocara,"Praça Coronel Guimarães, 11, Centro, Itaocara - Rj",Itaocara,RJ,,,-21.6671075,-42.081136
+APS Natividade/Rj,"Av. Amaral Peixoto, 39, Centro, Natividade - Rj",Natividade,RJ,,,-21.0431651,-41.9752602
+APS Porciúncula,"Praça Santo Antônio, 35, Centro, Porciúncula - Rj",Porciúncula,RJ,,,-20.962701,-42.0402244
+APS São João Da Barra,"Rua Joaquim Tomás Aquino Filho, 132, Centro, São João Da Barra - Rj",São João Da Barra,RJ,,,-21.6342281,-41.0483224
+APS Macaé,"Rua Doutor Francisco Portela, 569, Centro, Macaé - Rj",Macaé,RJ,,,-22.375057,-41.7803534
+APS Casimiro De Abreu,"Av. Indaiasú, 25, Centro, Casimiro De Abreu - Rj",Casimiro De Abreu,RJ,,,-22.4774134,-42.2033774
+APS Campos Dos Goytacazes - Treze De Maio,"Av. Treze De Maio, 70, Centro, Campos Dos Goytacazes - Rj",Campos Dos Goytacazes,RJ,,,-21.75915,-41.3233109
+APS São Francisco De Itabapoana,"Rua Antônio Celso, 55, Centro, São Francisco De Itabapoana - Rj",São Francisco De Itabapoana,RJ,,,-21.4989153,-41.0847544
+APS Belford Roxo,"Avenida Benjamim Pinto Dias, 561, Centro, Belford Roxo - Rj",Belford Roxo,RJ,,,-22.7696041,-43.3970251
+APS Duque De Caxias,"Rua Marechal Deodoro, 1119, Jardim Vinte E Cinco De Agosto, Duque De Caxias - Rj",Duque De Caxias,RJ,,,-22.7913766,-43.3069406
+APS Duque De Caxias - Jardim Primavera,"Rua Jornalista Moacir Padilha, Jardim Primavera, Duque De Caxias - Rj",Duque De Caxias,RJ,,,-22.6832254,-43.2792764
+APS Itaguaí,"Rua Maria Soares Da Silva, 51, Centro, Itaguaí - Rj",Itaguaí,RJ,,,-22.8725448,-43.7720609
+APS Japeri,"Est Ary Schiavo - 993, Vila Nossa Senhora Da Conceicao, Japeri - Rj",Japeri,RJ,,,-22.6630093,-43.6045305
+APS Magé,"Av. Simao Da Mota, 785, Centro, Magé - Rj",Magé,RJ,,,-22.6555043,-43.0385444
+APS Magé - Piabetá,"Av. Simao Da Mota, 785, Centro, Magé - Rj",Magé,RJ,,,-22.6555043,-43.0385444
+APS Mesquita/Rj,"Pc Da Revolucao, 50, Edson Passos, Mesquita - Rj",Mesquita,RJ,,,-22.7963484,-43.4237288
+APS Nilópolis,"Rua Mirandela, 351, Centro, Nilópolis - Rj",Nilópolis,RJ,,,-22.8096342,-43.4187744
+APS Nova Iguaçu,"Rua Estados Unidos, 300, Loja, Metropole, Nova Iguaçu - Rj",Nova Iguaçu,RJ,,,-22.7504797,-43.4452486
+APS Nova Iguaçu - Avenida Doutor Luiz Guimarães,"Rua Doutor Arino De Oliveira 2, Metropole, Nova Iguaçu - Rj",Nova Iguaçu,RJ,,,-22.7504978,-43.4460438
+APS Paracambi,"Rua Americo Rodrigues Ferreira, 290, Centro, Paracambi - Rj",Paracambi,RJ,,,-22.6046713,-43.7060991
+APS Queimados,"Est Carlos Sampaio, 7, Queimados, Queimados - Rj",Queimados,RJ,,,-22.7196571,-43.5469436
+APS São João De Meriti,"Av. Automovel Clube - 2384, Vilar Dos Teles, São João De Meriti - Rj",São João De Meriti,RJ,,,-22.776851,-43.3605006
+APS Duque De Caxias - Avenida Nilo Peçanha,"Av. Nilo Peçanha, 782, Centro, Duque De Caxias - Rj",Duque De Caxias,RJ,,,-22.7846176,-43.3181365
+APS Guapimirim,"Estrada Do Bananal 1919, Bananal, Guapimirim - Rj",Guapimirim,RJ,,,-22.5384539,-42.98262649999999
+APS Araruama,"Rodovia Amaral Peixoto Km 85 Nº 125, Centro, Araruama - Rj",Araruama,RJ,,,-22.8672109,-42.3224474
+APS Cabo Frio,"Avenida Nilo Pecanha, Centro, Cabo Frio - Rj",Cabo Frio,RJ,,,-22.880734,-42.0151143
+APS Itaboraí,"Rua Doutor Macedo 238, Centro, Itaboraí - Rj",Itaboraí,RJ,,,-22.7440745,-42.8564963
+APS Maricá,"Rua Domicio Da Gama, 115, Centro, Maricá - Rj",Maricá,RJ,,,-22.9199815,-42.81779590000001
+APS Niterói - Bairro De Fátima,"Rua Des. Athayde Parreiras, 266, Fatima, Niterói - Rj",Niterói,RJ,,,-22.8950184,-43.1097038
+APS Niterói - Centro,"Rua Visconde Do Uruguai - 531, Centro, Niterói - Rj",Niterói,RJ,,,-22.8937601,-43.1221305
+APS Rio Bonito,"Avenida Manoel Duarte, 715, Centro, Rio Bonito - Rj",Rio Bonito,RJ,,,-22.7096349,-42.6276412
+APS São Gonçalo,"Rua Coronel Moreira Cesar, 169, Centro, São Gonçalo - Rj",São Gonçalo,RJ,,,-22.8266724,-43.0514673
+APS São Pedro Da Aldeia,"Rua Francisco Dos Santos Silva, 82, Centro, São Pedro Da Aldeia - Rj",São Pedro Da Aldeia,RJ,,,-22.8400566,-42.098622
+APS Arraial Do Cabo,"R. Benjamin Constant, 48 Térreo, Centro, Arraial Do Cabo - Rj",Arraial Do Cabo,RJ,,,-22.9706083,-42.0248877
+APS Niterói - Barreto,"Rua Benjamin Constant 350, Santana, Niterói - Rj",Niterói,RJ,,,-22.8760889,-43.1074569
+APS São Gonçalo - Paraíso,"Rua Com. Ari Parreiras, 76, Porto Velho, São Gonçalo - Rj",São Gonçalo,RJ,,,-22.8384234,-43.0896476
+APS Saquarema,"Rua Heitor Bravo 08 Loja 2, Bacaxa - Bacaxa, Saquarema - Rj",Saquarema,RJ,,,-22.8949931,-42.4697695
+APS Silva Jardim,"Rua Padre Ávila Lote 2-F Quadra 1, Centro, Silva Jardim - Rj",Silva Jardim,RJ,,,-22.6490937,-42.3911674
+APS Tanguá,"Rua Pres Dutra Área A2 Esq Rua Xv Novembro, Centro, Tanguá - Rj",Tanguá,RJ,,,-22.7381575,-42.7199665
+APS Cachoeiras De Macacu,,Cachoeiras De Macacu,RJ,,,,
+APS Nova Friburgo,"Rua Coronel Galiano Das Neves, Nº 8, Centro, Nova Friburgo - Rj",Nova Friburgo,RJ,,,-22.279792,-42.5333373
+APS Paraíba Do Sul,"Rua Marechal Castelo Branco, Centro, Paraíba Do Sul - Rj",Paraíba Do Sul,RJ,,,-22.1619589,-43.2871029
+APS Petrópolis,"Rua Doutor Joaquim Moreira S N, Centro, Petrópolis - Rj",Petrópolis,RJ,,,-22.5077059,-43.1732658
+APS Teresópolis,"Rua Monte Libano 158, Varzea, Teresópolis - Rj",Teresópolis,RJ,,,-22.4106943,-42.9667426
+APS Três Rios,"Av. Condessa De Rio Novo 1787, Centro, Três Rios - Rj",Três Rios,RJ,,,-22.1174842,-43.2073984
+APS Bom Jardim/Rj,"Av. Venancio Pereira Veloso 62 Loja 2, Centro, Bom Jardim - Rj",Bom Jardim,RJ,,,-22.154563,-42.4173246
+APS Cantagalo/Rj,"Av. Barao De Cantagalo 100, Centro, Cantagalo - Rj",Cantagalo,RJ,,,-21.9824922,-42.3689274
+APS Cordeiro,"Rua Dr Adir Vahia De Abreu 76, Centro, Cordeiro - Rj",Cordeiro,RJ,,,-22.027485,-42.3618427
+APS São José Do Vale Do Rio Preto,"Rua Professora Emilia Esteves 277 A, Centro, São José Do Vale Do Rio Preto - Rj",São José Do Vale Do Rio Preto,RJ,,,-22.1492073,-42.9204389
+APS Sapucaia/Rj,"Rua Mauricio De Abreu 210, Centro, Sapucaia - Rj",Sapucaia,RJ,,,-21.9953112,-42.9154913
+APS Angra Dos Reis,"Rua Coronel Carvalho 43, Centro, Angra Dos Reis - Rj",Angra Dos Reis,RJ,,,-23.0059195,-44.3159856
+APS Barra Do Piraí,"Rua Aureliano Garcia 212, Centro, Barra Do Piraí - Rj",Barra Do Piraí,RJ,,,-22.4721139,-43.8234796
+APS Barra Mansa,"Avenida Domingos Mariano 317, Centro, Barra Mansa - Rj",Barra Mansa,RJ,,,-22.5430091,-44.1765822
+APS Resende,"Rua Paul Harris 50, Centro, Resende - Rj",Resende,RJ,,,-22.4673207,-44.4497829
+APS Valença/Rj,"Av. Nilo Peçanha 128, Centro, Valença - Rj",Valença,RJ,,,-22.2440671,-43.7017344
+APS Vassouras,"Rua Otávio Gomes 88/90, Centro, Vassouras - Rj",Vassouras,RJ,,,-22.4061337,-43.6600158
+APS Volta Redonda,"Av. Getúlio Vargas 403, Centro, Volta Redonda - Rj",Volta Redonda,RJ,,,-22.5119217,-44.0891047
+APS Itatiaia,"Rua Ana Cristina 150, Centro, Itatiaia - Rj",Itatiaia,RJ,,,-22.4968907,-44.55940289999999
+APS Mendes,"Praça Dr. João Néri 2, Centro, Mendes - Rj",Mendes,RJ,,,-22.5256289,-43.7335185
+APS Miguel Pereira,,Miguel Pereira,RJ,,,,
+APS Parati,"Rua Aldimar Gomes Duarte Coelhos S/Nº, Centro (Paraty), Parati - Rj",Parati,RJ,,,-23.2197106,-44.7167452
+APS Piraí,"Rua Epitácio Campos 15, Centro, Piraí - Rj",Piraí,RJ,,,,
+APS Currais Novos,"Rua Teotônio Freire, 115, Centro, Currais Novos - Rn",Currais Novos,RN,,,-6.2548499,-36.5243222
+APS João Câmara,"Rua 29 De Outubro, 250, Centro, João Câmara - Rn",João Câmara,RN,,,-5.5404914,-35.8116603
+APS Natal - Centro,"Rua Apodi, 2150 - 3º Andar, Tirol, Natal - Rn",Natal,RN,,,-5.7899474,-35.2036788
+APS Natal - Sul,"Rua Padre João Damasceno, 1950, Lagoa Nova, Natal - Rn",Natal,RN,,,-5.8242449,-35.2099011
+APS Natal - Nazaré,"Av. Coronel Estevam, Nº 3529, Nossa Senhora De Nazare, Natal - Rn",Natal,RN,,,-5.8167592,-35.2323074
+APS Natal - Norte,"Rua Alvorada, 884, Igapo, Natal - Rn",Natal,RN,,,-5.771225299999999,-35.26264889999999
+APS Natal - Ribeira,"Rua Almino Afonso, 16, Ribeira, Natal - Rn",Natal,RN,,,-5.7749828,-35.2033046
+APS Parnamirim/Rn,"Rua Doutor Carlos Matheus, 1484, Centro, Parnamirim - Rn",Parnamirim,RN,,,-5.9163728,-35.2639549
+APS Santa Cruz/Rn,,Santa Cruz,RN,,,,
+APS Santo Antônio,"Av. Lindolfo G. Vidal, 201, Centro, Santo Antônio - Rn",Santo Antônio,RN,,,-6.3163547,-35.4824215
+APS Ceará Mirim,"Rua Jorge Fernandes Câmara, 26, Centro, Rio Grande Do Norte - Rn",Rio Grande Do Norte,RN,,,-5.9185354,-35.2615425
+APS Touros,"Avenida 02, S/N, Centro, Touros - Rn",Touros,RN,,,-5.200110500000001,-35.4590878
+APS Nova Cruz,,Nova Cruz,RN,,,,
+APS Macaíba,"Rua Projetada, S/N, Centro, Macaíba - Rn",Macaíba,RN,,,-5.8567493,-35.3521828
+APS Extremoz,"Rua Almirante Didier Viana, S/N, Centro, Extremoz - Rn",Extremoz,RN,,,-5.705929299999999,-35.3032604
+APS Monte Alegre/Rn,,Monte Alegre,RN,,,,
+APS Canguaretama,"Travessa Doutor Pedro Velho, S/N, Centro, Canguaretama - Rn",Canguaretama,RN,,,-6.3798548,-35.126219
+APS São José De Mipibu,"Travessa Prefeito Inácio Henrique, 27, Centro, São José De Mipibu - Rn",São José De Mipibu,RN,,,-6.0686358,-35.2428656
+APS São Gonçalo Do Amarante/Rn,,São Gonçalo Do Amarante,RN,,,,
+APS São Paulo Do Potengi,"Rua General Dantas, S/N, Centro, São Paulo Do Potengi - Rn",São Paulo Do Potengi,RN,,,-5.8929403,-35.7641278
+APS Nísia Floresta,"Rua Terezinha Francelino M Da Silva, S/N, Centro, Nísia Floresta - Rn",Nísia Floresta,RN,,,-6.0914552,-35.2082289
+APS Açu,"Avenida Senador João Câmara, Centro, Açu - Rn",Açu,RN,,,-5.9185354,-35.2615425
+APS Alexandria,"Rua Padre Carlos, Centro, Alexandria - Rn",Alexandria,RN,,,-6.4174832,-38.0105557
+APS Areia Branca/Rn,"Rua Marechal Deodoro, Centro, Areia Branca - Rn",Areia Branca,RN,,,-4.952417899999999,-37.1278947
+APS Caicó,"Rua Aníbal Da Cunha Macêdo, Centro, Caicó - Rn",Caicó,RN,,,-6.4577399,-37.0963332
+APS Macau,"Rua Venancio Zacarias, Centro, Macau - Rn",Macau,RN,,,-5.1165836,-36.6313425
+APS Mossoró,"Av. Aldemir Fernandes, Aeroporto, Mossoró - Rn",Mossoró,RN,,,-5.1888943,-37.3612273
+APS Pau Dos Ferros,"Avenida Getúlio Vargas, Centro, Pau Dos Ferros - Rn",Pau Dos Ferros,RN,,,-6.113121,-38.2027042
+APS Angicos,"Rua Vicente Barbosa, Centro, Angicos - Rn",Angicos,RN,,,-5.6662282,-36.6031003
+APS Jardim Do Seridó,"Rua Coronel José Tomaz, Centro, Jardim Do Seridó - Rn",Jardim Do Seridó,RN,,,-6.5852919,-36.7728471
+APS Patú,"Rua Ana Lira, Centro, Patú - Rn",Patú,RN,,,-6.1085497,-37.6362641
+APS Apodi,"Rua Deputado Dalton Cunha, Centro, Apodi - Rn",Apodi,RN,,,-5.6519563,-37.8007474
+APS Caraubas/Rn,"Rua Jucilene Alves Rocha, Centro, Caraubas - Rn",Caraubas,RN,,,-5.7794773,-37.5515204
+APS Jucurutu,"Rua Major Lula, Centro, Jucurutu - Rn",Jucurutu,RN,,,-6.0357505,-37.0197002
+APS Parelhas,"Rua Ovidio Dantas, Centro, Parelhas - Rn",Parelhas,RN,,,-6.6908718,-36.6572263
+APS Baraúna/Rn,"Rua Hermenegildo Montenegro, Centro, Baraúna - Rn",Baraúna,RN,,,-5.338943100000001,-36.8344471
+APS São Miguel,"Rua João Paulo De Souza, 15, Centro, São Miguel - Rn",São Miguel,RN,,,-6.2119236,-38.4966313
+APS Martins,"Rua Presidente Médici, Centro, Martins - Rn",Martins,RN,,,-6.0921735,-37.919064
+APS Porto Alegre - Azenha,"Av. Érico Veríssimo, 495, Menino Deus, Porto Alegre - Rs",Porto Alegre,RS,,,-30.0495577,-51.218357
+APS Porto Alegre - Centro,"Trav. Mário Cinco Paus, 20, Centro Historico, Porto Alegre - Rs",Porto Alegre,RS,,,-30.0271257,-51.2288602
+APS Porto Alegre - Norte,"Av. Três De Abril, 90, Passo Da Areia, Porto Alegre - Rs",Porto Alegre,RS,,,-30.0144133,-51.1779859
+APS Porto Alegre - Petrópolis,"Av. Protasio Alves, 3550, Rio Branco, Porto Alegre - Rs",Porto Alegre,RS,,,-30.0383503,-51.1756214
+APS Porto Alegre - Sul,"Estrada Vila Maria, 265, Cavalhada, Porto Alegre - Rs",Porto Alegre,RS,,,-30.1102256,-51.2295773
+APS Viamão,"Rua Crescêncio De Andrade, 33, Centro, Viamão - Rs",Viamão,RS,,,-30.0825014,-51.02368620000001
+APS Alvorada/Rs,"Av. Maringá 1201, Maringa, Alvorada - Rs",Alvorada,RS,,,-30.0066735,-51.0751955
+APS Porto Alegre - Partenon,"Av. Bento Gonçalves, 867, Partenon, Porto Alegre - Rs",Porto Alegre,RS,,,-30.0535693,-51.2046666
+APS Cachoeirinha/Rs,"Rua Doutor Campos Sales 80, Vila Santo Angelo, Cachoeirinha - Rs",Cachoeirinha,RS,,,-29.9588433,-51.1090206
+APS Canoas,"Av. Inconfidencia, Marechal Rondon, Canoas - Rs",Canoas,RS,,,-29.921419,-51.1700332
+APS Esteio,"Rua General Jose Machado Lopes 256, Centro, Esteio - Rs",Esteio,RS,,,-29.8461154,-51.1719483
+APS Gravataí,"Rua Coronel Sarmento, Centro, Gravataí - Rs",Gravataí,RS,,,-29.9445667,-50.9914798
+APS Guaíba,"Rua Sete De Setembro, Centro, Guaíba - Rs",Guaíba,RS,,,-30.1124793,-51.3152797
+APS Osório,"Rua Firmiano Osorio 949, Centro, Osório - Rs",Osório,RS,,,-29.8909542,-50.2686774
+APS São Jerônimo,"Rua Rio Branco, 384, Centro, São Jerônimo - Rs",São Jerônimo,RS,,,-23.9651144,-46.3876674
+APS Torres,"Av. Do Riacho, 235, Centro, Torres - Rs",Torres,RS,,,-29.3406596,-49.7350986
+APS Butiá,"Av. Leandro De Almeida, 356, Centro, Butiá - Rs",Butiá,RS,,,-30.1195944,-51.9674989
+APS Santo Antônio Da Patrulha,"Rua Coronel Vitor Villa-Verde, 2, Centro, Santo Antônio Da Patrulha - Rs",Santo Antônio Da Patrulha,RS,,,-29.829747,-50.5217665
+APS Bento Gonçalves,"Rua Julio De Castilhos, 291, Centro, Bento Gonçalves - Rs",Bento Gonçalves,RS,,,-29.165673,-51.5142256
+APS Canela,"Rua Dona Carlinda, 810, Centro, Canela - Rs",Canela,RS,,,-29.3658017,-50.81185230000001
+APS Caxias Do Sul,"Rua Visconde De Pelotas, 2280, Pio X, Caxias Do Sul - Rs",Caxias Do Sul,RS,,,-29.158777,-51.1820376
+APS Farroupilha,"Rua Coronel Pena De Moraes, 59-A, Centro, Farroupilha - Rs",Farroupilha,RS,,,-29.2268842,-51.3526278
+APS Garibaldi,"Rua João Missiaggia, 159, Centro, Garibaldi - Rs",Garibaldi,RS,,,-29.2579409,-51.5177181
+APS Vacaria,"Rua Marechal Floriano 250, Centro, Vacaria - Rs",Vacaria,RS,,,-28.5031125,-50.93673380000001
+APS Veranópolis,"Rua General Flores Da Cunha 454, Centro, Veranópolis - Rs",Veranópolis,RS,,,-28.9325419,-51.545345
+APS Nova Prata,"Av. Placidina De Araujo, 742, Centro, Nova Prata - Rs",Nova Prata,RS,,,-28.78367579999999,-51.6075755
+APS Carlos Barbosa,,Carlos Barbosa,RS,,,-29.2994583,-51.5021878
+APS Flores Da Cunha,,Flores Da Cunha,RS,,,-29.0316028,-51.1780881
+APS Cerro Largo,"Rua Sete De Setembro 160, Centro, Cerro Largo - Rs",Cerro Largo,RS,,,-28.1424317,-54.7375779
+APS Cruz Alta,"Rua Benjamin Constant 553, Sao Miguel, Cruz Alta - Rs",Cruz Alta,RS,,,-28.6357104,-53.5976666
+APS Frederico Westphalen,"Rua Luiz Milani 254, Centro, Frederico Westphalen - Rs",Frederico Westphalen,RS,,,-27.3559138,-53.400836
+APS Ijuí,"Rua Benjamin Constant, 566, Centro, Ijuí - Rs",Ijuí,RS,,,-28.3873183,-53.9156942
+APS Palmeira Das Missões,"Rua Borges De Medeiros 17, Centro, Palmeira Das Missões - Rs",Palmeira Das Missões,RS,,,-27.8997901,-53.3112541
+APS Panambi,"Rua Bento Gonçalves 192, Centro, Panambi - Rs",Panambi,RS,,,-28.2990381,-53.5001495
+APS Santa Rosa,"Rua Dr João Dahne 197, Centro, Santa Rosa - Rs",Santa Rosa,RS,,,-27.8706698,-54.4817195
+APS Santo Ângelo,"Rua Dos Andradas 730, Centro, Santo Ângelo - Rs",Santo Ângelo,RS,,,-28.2984979,-54.26361499999999
+APS São Luiz Gonzaga,"Rua Dr Bento Soeiro De Souza 2.373, Centro, São Luiz Gonzaga - Rs",São Luiz Gonzaga,RS,,,-28.4092326,-54.9414801
+APS Três De Maio,"Av. Santa Rosa 1381, Centro, Três De Maio - Rs",Três De Maio,RS,,,-27.7836215,-54.2367311
+APS Três Passos,"Rua General Osório 250, Centro, Três Passos - Rs",Três Passos,RS,,,-27.4561759,-53.92623560000001
+APS Giruá,"Rua Sete De Setembro 37, Centro, Giruá - Rs",Giruá,RS,,,-28.0283749,-54.3508179
+APS Horizontina,"Rua São Cristóvão 1386, Centro, Horizontina - Rs",Horizontina,RS,,,-27.6185612,-54.3149628
+APS Ibirubá,"Av. Mauá 1486, Centro, Ibirubá - Rs",Ibirubá,RS,,,-28.6345596,-53.09512290000001
+APS Porto Lucena,"Rua João Bordim 497, Centro, Porto Lucena - Rs",Porto Lucena,RS,,,-27.8536194,-55.0177758
+APS Campo Bom,"Rua Rodolfo Dick, 129, Centro, Campo Bom - Rs",Campo Bom,RS,,,-29.6646286,-51.0392121
+APS Dois Irmãos,"Rua Sapiranga, 665, Centro, Dois Irmãos - Rs",Dois Irmãos,RS,,,-29.5883297,-51.0887203
+APS Encantado,"Rua Padre Anchieta, 1231, Centro, Encantado - Rs",Encantado,RS,,,-29.2406758,-51.8716951
+APS Estrela,"Av. Barão Do Rio Branco, 553, Centro, Estrela - Rs",Estrela,RS,,,-29.4849206,-51.9548747
+APS Lajeado/Rs,"Av. Benjamin Constant, 973, Centro, Lajeado - Rs",Lajeado,RS,,,-29.4625161,-51.96692789999999
+APS Montenegro,"Rua Olavo Bilac, 1284, Centro, Montenegro - Rs",Montenegro,RS,,,-29.6886362,-51.4603705
+APS Novo Hamburgo,"Av. Pedro Adams Filho - 5757, Centro, Novo Hamburgo - Rs",Novo Hamburgo,RS,,,-29.6816429,-51.1301604
+APS São Leopoldo,"Rua Conceicao 364, Centro, São Leopoldo - Rs",São Leopoldo,RS,,,-29.7668488,-51.14340379999999
+APS São Sebastião Do Caí,"Rua Benjamin Costant, 182, Centro, São Sebastião Do Caí - Rs",São Sebastião Do Caí,RS,,,-23.8012359,-45.4046528
+APS Sapiranga,"Av. João Corrêa, 1.622, Centro, Sapiranga - Rs",Sapiranga,RS,,,-29.6401174,-51.0159378
+APS Taquara,"Rua Guilherme Lahn, 1.508, Centro, Taquara - Rs",Taquara,RS,,,-29.649844,-50.7673395
+APS Taquari,"Rua Osvaldo Aranha, 2.536, Centro, Taquari - Rs",Taquari,RS,,,-29.8049268,-51.8629432
+APS Teutônia,,Teutônia,RS,,,-29.4765504,-51.815943
+APS Portão,,Portão,RS,,,-29.6966812,-51.2439581
+APS Carazinho,"Av. Pátria, 525, Centro, Carazinho - Rs",Carazinho,RS,,,-28.283897,-52.79195199999999
+APS Erechim,"Av. Tiradentes, 401, Centro, Erechim - Rs",Erechim,RS,,,-27.631096,-52.2716895
+APS Guaporé,"Rua Cel. Agilberto Maia, 715, Centro, Guaporé - Rs",Guaporé,RS,,,-28.8493806,-51.8917835
+APS Lagoa Vermelha,"Rua Bento Gonçalves, 304, Centro, Lagoa Vermelha - Rs",Lagoa Vermelha,RS,,,-28.2103897,-51.5201931
+APS Passo Fundo,"Rua General Osório, 1244, Centro, Passo Fundo - Rs",Passo Fundo,RS,,,-28.2650799,-52.4071334
+APS Soledade/Rs,"Av. Mauricio Cardoso, 1224, Centro, Soledade - Rs",Soledade,RS,,,-28.8271277,-52.5105559
+APS Casca,"Rua Gal. Pinheiro Machado 20, Centro, Casca - Rs",Casca,RS,,,-28.5656706,-51.9680929
+APS Getúlio Vargas,"Av. Borges De Medeiros 785, Centro, Getúlio Vargas - Rs",Getúlio Vargas,RS,,,-27.8901851,-52.2224948
+APS Marau/Rs,"Rua Irineu Ferlin 16, Centro, Marau - Rs",Marau,RS,,,-28.4492564,-52.208702
+APS Serafina Correa,"Rua Costa E Silva 703, Centro, Serafina Correa - Rs",Serafina Correa,RS,,,-28.7105402,-51.9297774
+APS Espumoso,"Rua Vasco Da Gama 259, Centro, Espumoso - Rs",Espumoso,RS,,,-28.7330932,-52.8409449
+APS Sarandi/Rs,"Av. Sete De Setembro 2111, Centro, Sarandi - Rs",Sarandi,RS,,,-27.9444125,-52.9171965
+APS Bagé,"Rua Gomes Carneiro, 1240, Centro, Bagé - Rs",Bagé,RS,,,-31.3280025,-54.1109476
+APS Camaquã,"Av. Antônio Duro, 1130, Olaria, Camaquã - Rs",Camaquã,RS,,,-30.8548635,-51.80408749999999
+APS Jaguarão,"Av. 27 De Janeiro, 1156, Centro, Jaguarão - Rs",Jaguarão,RS,,,-32.5599584,-53.3810946
+APS Pelotas,"Rua Almirante Barroso, 1883, Centro, Pelotas - Rs",Pelotas,RS,,,-31.7706502,-52.3374745
+APS Rio Grande,"Rua General Bacelar, 97, Centro, Rio Grande - Rs",Rio Grande,RS,,,-32.0324372,-52.08989099999999
+APS São Lourenço Do Sul,"Rua Marechal Floriano, 2174, Centro, São Lourenço Do Sul - Rs",São Lourenço Do Sul,RS,,,-31.3672185,-51.9825816
+APS Canguçu,"Rua Oswaldo Aranha, 295, Centro, Canguçu - Rs",Canguçu,RS,,,-31.3938429,-52.6743672
+APS Santa Vitória Do Palmar,"Rua João De Oliveira Rodrigues, 1797, Centro, Santa Vitória Do Palmar - Rs",Santa Vitória Do Palmar,RS,,,-33.527156,-53.35718379999999
+APS Tapes,"Rua Getulio Vargas, Sobreloja Do Bb, Centro, Tapes - Rs",Tapes,RS,,,-30.6732959,-51.4052742
+APS Capão Do Leão,"Av. Narciso Silva, 2220, Centro, Capão Do Leão - Rs",Capão Do Leão,RS,,,-31.7676788,-52.5054291
+APS São José Do Norte,"Rua Eng. Fernando Duprat Da Silva 607, Centro, São José Do Norte - Rs",São José Do Norte,RS,,,-32.0317617,-52.0912731
+APS Piratini,"Rua Conceição Perez De Ávila, 78, Centro, Piratini - Rs",Piratini,RS,,,-31.4483171,-53.1043197
+APS Caçapava Do Sul,"Rua Barão De Caçapava 633, Centro, Caçapava Do Sul - Rs",Caçapava Do Sul,RS,,,-30.5109428,-53.4915832
+APS Cachoeira Do Sul,"Rua General Portinho 1785, Centro, Cachoeira Do Sul - Rs",Cachoeira Do Sul,RS,,,-30.0452829,-52.8915807
+APS Candelária,"Rua 25 De Agosto, 90, Centro, Candelária - Rs",Candelária,RS,,,-29.667041,-52.79271319999999
+APS Rio Pardo,"Rua Adolfo Pristch, 504, Centro, Rio Pardo - Rs",Rio Pardo,RS,,,-29.9812097,-52.3710892
+APS Santa Cruz Do Sul,"Rua Ramiro Barcelos, 1430, Centro, Santa Cruz Do Sul - Rs",Santa Cruz Do Sul,RS,,,-29.7188262,-52.4321792
+APS Santa Maria/Rs,"Rua Venâncio Aires, 2114, Centro, Santa Maria - Rs",Santa Maria,RS,,,-29.68520609999999,-53.8049259
+APS Santiago,"Rua Francisco Camargo, 128, Centro, Santiago - Rs",Santiago,RS,,,-29.1925277,-54.87154630000001
+APS Venâncio Aires,"Rua Jacob Becker, 1733, Centro, Venâncio Aires - Rs",Venâncio Aires,RS,,,-29.60876189999999,-52.1873888
+APS Cacequi,"Rua Sete De Setembro, 276, Centro, Cacequi - Rs",Cacequi,RS,,,-29.8818287,-54.8252636
+APS Júlio De Castilhos,"Avenida Beto Salles N 55, Centro, Júlio De Castilhos - Rs",Júlio De Castilhos,RS,,,-29.22884999999999,-53.6798955
+APS Sobradinho/Rs,"Rua Pedro Alvares Cabral, S/N, Centro, Sobradinho - Rs",Sobradinho,RS,,,-29.4180597,-53.0258468
+APS Tupanciretã,"Rua Capitão Amorin, S/N, Centro, Tupanciretã - Rs",Tupanciretã,RS,,,-29.0824354,-53.836254
+APS Encruzilhada Do Sul,"Rua General Osório 335, Centro, Encruzilhada Do Sul - Rs",Encruzilhada Do Sul,RS,,,-30.5449725,-52.5210382
+APS Alegrete,"Bento Gonçalves, 592 Fundos, Cidade Alta, Alegrete - Rs",Alegrete,RS,,,-29.7890851,-55.801595
+APS Santana Do Livramento,"Rua Silveira Martins, 464, Centro, Santana Do Livramento - Rs",Santana Do Livramento,RS,,,-30.8912514,-55.536205
+APS São Borja,"Rua General Osorio, Centro, São Borja - Rs",São Borja,RS,,,-28.658902,-56.0046682
+APS São Gabriel/Rs,"Praça Camilo Mércio, 77, Centro, São Gabriel/Rs - Rs",São Gabriel/Rs,RS,,,-30.3372984,-54.3146504
+APS Uruguaiana,"Rua Tiradentes, 2781, Centro, Uruguaiana - Rs",Uruguaiana,RS,,,-29.7540049,-57.08567710000001
+APS Dom Pedrito,"Rua Moreira César, 1046, Centro, Dom Pedrito - Rs",Dom Pedrito,RS,,,-30.9794739,-54.67160209999999
+APS Itaqui,"Rua Borges Do Canto, 984, Centro, Itaqui - Rs",Itaqui,RS,,,-29.1236646,-56.5567857
+APS Rosário Do Sul,"Rua Amaro Souto, 1963, Centro, Rosário Do Sul - Rs",Rosário Do Sul,RS,,,-30.2590872,-54.915676
+APS Quaraí,,Quaraí,RS,,,,
+APS Biguaçú,"Rua Getúlio Vargas, 70, Centro, Biguaçú - Sc",Biguaçú,SC,,,-27.4961419,-48.6558011
+APS Curitibanos,"Rua Maximino De Moraes, 357, Centro, Curitibanos - Sc",Curitibanos,SC,,,-27.2895405,-50.5784811
+APS Florianópolis - Centro,"Rua Felipe Schmidt - 331, Centro, Florianópolis - Sc",Florianópolis,SC,,,-27.5959182,-48.5532035
+APS Florianópolis - Continente,"Av. Ivo Silveira, 1960, Capoeiras, Florianópolis - Sc",Florianópolis,SC,,,-27.5998576,-48.5853358
+APS Imbituba,"Rua Santa Catarina, 952, Centro, Imbituba - Sc",Imbituba,SC,,,-28.8280841,-49.2317105
+APS Lages,"Rua Governador Jorge Lacerda, 126, Centro, Lages - Sc",Lages,SC,,,-27.8172139,-50.3294456
+APS Palhoça,"Rua Barão Do Rio Branco, 277, Centro, Palhoça - Sc",Palhoça,SC,,,-27.6449667,-48.667916
+APS São José,"Rua Ademar Da Silva, 1279, Kobrasol, São José - Sc",São José,SC,,,-27.5898661,-48.6119976
+APS Tijucas,"Atilio Campos Filho, Centro, Tijucas - Sc",Tijucas,SC,,,-27.240063,-48.63361829999999
+APS Alfredo Wagner,"Rua Major Pedro Borges, 103, Centro, Alfredo Wagner - Sc",Alfredo Wagner,SC,,,-27.7031493,-49.3349622
+APS São Joaquim,"Rua Domingos Martorano, 350, Centro, São Joaquim - Sc",São Joaquim,SC,,,-28.2921857,-49.9325847
+APS Itapema,"Rua Cento E Vinte E Um Nº 92, Centro, Itapema - Sc",Itapema,SC,,,-27.0919019,-48.614115
+APS Arapiraca,"Rua Jose Leite Bezerra Nr 178, Santa Edwiges, Arapiraca - Al",Arapiraca,AL,,,-9.7333519,-36.6563081
+APS Delmiro Gouveia,"Rua 7 De Setembro, 155, Centro, Delmiro Gouveia - Al",Delmiro Gouveia,AL,,,-9.3812643,-38.0005295
+APS Maceió - Ary Pitombo,"Av. Almirante Alvaro Calheiros, 1187, Jatiuca, Maceió - Al",Maceió,AL,,,-9.6453248,-35.7104227
+APS Maceió - Jatiúca,"Travessa Dona Constância, S/N, Poco, Maceió - Al",Maceió,AL,,,-9.6565374,-35.7206323
+APS Maceió - Monte Máquinas,"Av. Dr Durval De Goes Monteiro - 4995, Santo Amaro, Maceió - Al",Maceió,AL,,,-9.6067528,-35.7415846
+APS Palmeira Dos Índios,"Rua Pedro Soares Mota, S/N, Sao Cristovao, Palmeira Dos Índios - Al",Palmeira Dos Índios,AL,,,-9.4081431,-36.636549
+APS Penedo,"Av. Duque De Caxias, N.49, Centro, Penedo - Al",Penedo,AL,,,-10.2925633,-36.58484929999999
+APS Rio Largo,"Av. Governador Muniz Falcão, S/N, Centro, Rio Largo - Al",Rio Largo,AL,,,-9.4855723,-35.8565121
+APS Santana Do Ipanema,"Rua Clemencia Pereira De Queiroz, S/Nº, Centro, Santana Do Ipanema - Al",Santana Do Ipanema,AL,,,-9.3738705,-37.237682
+APS São Miguel Dos Campos,,São Miguel Dos Campos,AL,,,,
+APS União Dos Palmares,"Rua Coronel Bezerra Montenegro, Centro, União Dos Palmares - Al",União Dos Palmares,AL,,,-9.1614068,-36.0311654
+APS Pão De Açúcar,"Travessa Alameda S/Nº, Centro, Pão De Açúcar - Al",Pão De Açúcar,AL,,,-9.7493777,-37.4351721
+APS Porto Calvo,"Rodovia Al 101 Norte Km 100, Lt. 28, Centro, Porto Calvo - Al",Porto Calvo,AL,,,-9.6942704,-35.79027
+APS Porto Real Do Colégio,"Praça Gov Luiz Cavalcante, 73, Centro, Porto Real Do Colégio - Al",Porto Real Do Colégio,AL,,,-10.1854613,-36.83866829999999
+APS Viçosa/Al,"Rua José Vilela, S/N, Centro, Viçosa - Al",Viçosa,AL,,,-9.369288,-36.2426003
+APS Murici,"Cj Astolfo Lopes S/Nº, Centro, Murici - Al",Murici,AL,,,-9.310118,-35.9401514
+APS Maribondo,"Rua Jose Sapucaia S/Nº, Centro, Maribondo - Al",Maribondo,AL,,,-9.5797883,-36.307117
+APS Girau Do Ponciano,"Lot. Padre Cicero, Av. Progresso, S/N, Centro, Girau Do Ponciano - Al",Girau Do Ponciano,AL,,,-9.8832402,-36.8217054
+APS São Sebastião/Al,"Rua Vereador José Batista, Centro, São Sebastião - Al",São Sebastião,AL,,,-9.9313353,-36.5547895
+APS Campo Alegre/Al,"Av. Gov.Divaldo Suruagy S/Nº, Centro, Campo Alegre - Al",Campo Alegre,AL,,,-9.7839215,-36.3461936
+APS Junqueiro,"Rua Juscelino Kubitschek S/Nº, Centro, Junqueiro - Al",Junqueiro,AL,,,-9.9225747,-36.4736928
+APS Teotônio Vilela,"Rua Pedro Cavalcante S/Nº, Centro, Teotônio Vilela - Al",Teotônio Vilela,AL,,,-9.9108228,-36.3548604
+APS Sao Jose Da Laje,"Rua Dr. Oscar Gordilho S/Nº, Centro, Sao Jose Da Laje - Al",Sao Jose Da Laje,AL,,,-9.0073546,-36.0565453
+APS Traipu,"Av. Fernando Color De Mello S/Nº, Centro, Traipu - Al",Traipu,AL,,,-9.8015226,-36.7937983
+APS Ouro Branco/Al,"Rua Coronel Lucena S/N, Centro, Ouro Branco - Al",Ouro Branco,AL,,,-9.1649115,-37.3576728
+APS Limoeiro De Anadia,"Rua 31 De Maio S/Nr, Centro, Limoeiro De Anadia - Al",Limoeiro De Anadia,AL,,,-9.742232,-36.5043195
+APS Igreja Nova,"Rua 16 De Maio S/N, Centro, Igreja Nova - Al",Igreja Nova,AL,,,-10.1297541,-36.65346
+APS Craíbas,"Rua Santo Antonio, S/Nº, Centro, Craíbas - Al",Craíbas,AL,,,-9.617722,-36.7666657
+APS Atalaia/Al,"Lot. Santa Inês, Jose Paulino, Atalaia - Al",Atalaia,AL,,,-9.5105965,-36.0054825
+APS São José Da Tapera,"Avenida Manoel Maciano, S/N, Dez, Centro, São José Da Tapera - Al",São José Da Tapera,AL,,,-9.5532402,-37.382549
+APS Piranhas/Al,,Piranhas,AL,,,,
+APS Cajueiro,"Av. Antonio Carlos De Moraes, Centro, Cajueiro - Al",Cajueiro,AL,,,-9.4017432,-36.1577365
+APS Pilar/Al,,Pilar,AL,,,,
+APS Igaci,,Igaci,AL,,,,
+APS Marechal Deodoro,,Marechal Deodoro,AL,,,-25.4298943,-49.2652477
+APS Coruripe,"Rua Pernambuco Novo S/N, Centro, Coruripe - Al",Coruripe,AL,,,-10.131395,-36.1670133
+APS Blumenau,"Rua Pres John Kennedy, 25, Centro, Blumenau - Sc",Blumenau,SC,,,-26.9184947,-49.06728349999999
+APS Brusque,"Rua Rodrigues Alves, 50, Centro, Brusque - Sc",Brusque,SC,,,-27.0989905,-48.91502149999999
+APS Ibirama,"Rua Xv De Novembro, 459, Centro, Ibirama - Sc",Ibirama,SC,,,-27.0628233,-49.5193429
+APS Indaial,"Rua Marechal Floriano Peixoto, 444, Centro, Indaial - Sc",Indaial,SC,,,-26.8988035,-49.2310668
+APS Itajaí,"Rua Doutor Jose Bonifacio Malburg, 195, Centro, Itajaí - Sc",Itajaí,SC,,,-26.904794,-48.6584815
+APS Rio Do Sul,"Av. 7 De Setembro, 352, Jardim America, Rio Do Sul - Sc",Rio Do Sul,SC,,,-27.2140218,-49.6453295
+APS Timbó,"Rua Benjamin Constant, 29, Centro, Timbó - Sc",Timbó,SC,,,-26.8248424,-49.2708513
+APS Balneário De Camboriú,"Av. Do Estado Dalmo Vieira, Nacoes, Balneário De Camboriú - Sc",Balneário De Camboriú,SC,,,-26.9804672,-48.640323
+APS Penha,"Rua João Veríssimo Da Silva, Centro, Penha - Sc",Penha,SC,,,-26.7728099,-48.6452716
+APS Pomerode,"Rua Arthur Reinert, Centro, Pomerode - Sc",Pomerode,SC,,,-26.7327845,-49.1754165
+APS Caçador,"Rua Campos Novos, 211 (Caixa Postal 18), Centro, Caçador - Sc",Caçador,SC,,,-26.7773323,-51.0137726
+APS Chapecó,"Rua Rui Barbosa, 42D, Centro, Chapecó - Sc",Chapecó,SC,,,-27.1044108,-52.6109523
+APS Concórdia,"Rua Independência, 221, Centro, Concórdia - Sc",Concórdia,SC,,,-27.2289539,-52.0177549
+APS Joaçaba,"Rua Felipe Schmidt, 12 Caixa Postal 367, Centro, Joaçaba - Sc",Joaçaba,SC,,,-27.1747431,-51.5062011
+APS Maravilha/Sc,"Rua Euclides Da Cunha, 11, Centro, Maravilha - Sc",Maravilha,SC,,,-26.7600975,-53.1740286
+APS São Lourenço Do Oeste,"Gilio Rezzieri, 650, Centro, São Lourenço Do Oeste - Sc",São Lourenço Do Oeste,SC,,,-26.3514427,-52.8511805
+APS São Miguel D Oeste,"Rua Xv De Novembro, 1460, Centro, São Miguel D Oeste - Sc",São Miguel D Oeste,SC,,,-26.7379152,-53.5181671
+APS Videira,"Rua Saul Brandalise, 201, Centro, Videira - Sc",Videira,SC,,,-27.0058256,-51.1519093
+APS Xanxerê,"Rua Marechal Bormann, 360, Centro, Xanxerê - Sc",Xanxerê,SC,,,-26.8799451,-52.4022132
+APS Campos Novos,"Rua São João Batista, 613, Centro, Campos Novos - Sc",Campos Novos,SC,,,-27.4047661,-51.2304144
+APS Capinzal,"Rua Ernesto Hachmann, 435, Centro, Capinzal - Sc",Capinzal,SC,,,-27.3436342,-51.6144417
+APS Fraiburgo,,Fraiburgo,SC,,,-27.0225387,-50.9328259
+APS Pinhalzinho/Sc,"Rua Travessa Chapecó, 100, Centro, Pinhalzinho - Sc",Pinhalzinho,SC,,,-26.8440833,-52.987769
+APS Porto União,"Rua Quintino Bocaiúva, 423, Centro, Porto União - Sc",Porto União,SC,,,-26.2399211,-51.08301059999999
+APS Xaxim,,Xaxim,SC,,,-26.9626172,-52.5319707
+APS Dionísio Cerqueira,"Avenida Adelino Mangini, 313, Centro, Dionísio Cerqueira - Sc",Dionísio Cerqueira,SC,,,-26.2591943,-53.6342137
+APS Araranguá,"Rua Caetano Lummertz, 722, Centro, Araranguá - Sc",Araranguá,SC,,,-28.9359612,-49.4811451
+APS Braço Do Norte,"Rua Felipe Schimidt, 1001, Centro, Braço Do Norte - Sc",Braço Do Norte,SC,,,-28.2695898,-49.17257799999999
+APS Criciúma,"Rua São José, 170, Centro, Criciúma - Sc",Criciúma,SC,,,-28.6761881,-49.3728882
+APS Laguna,"Rua Raulino Horn, 140, Centro, Laguna - Sc",Laguna,SC,,,-28.4828749,-48.7825888
+APS Orleans,"Rua Alexandre Sandrini, 64, Centro, Orleans - Sc",Orleans,SC,,,-28.3569955,-49.2869033
+APS Tubarão,"Rua São Manoel, 40, Centro, Tubarão - Sc",Tubarão,SC,,,-28.4817298,-49.0075231
+APS Urussanga,"Rua Barão Do Rio Branco, 88, Centro, Urussanga - Sc",Urussanga,SC,,,-28.5214746,-49.3221254
+APS Içara,"Travessa Padre Boleslau, 400, Centro, Içara - Sc",Içara,SC,,,-28.7157713,-49.3002766
+APS Lauro Müller,"Rua Henrique Lage, S/N, Centro, Lauro Müller - Sc",Lauro Müller,SC,,,-28.3909456,-49.3941396
+APS Sombrio,"Rua Generino Teixeira Da Rosa, Centro, Sombrio - Sc",Sombrio,SC,,,-29.1183235,-49.6396887
+APS Forquilhinha,"Avenida Professor Eurico Back, Centro, Forquilhinha - Sc",Forquilhinha,SC,,,-28.74301,-49.4706104
+APS Capivari De Baixo,"Rua Ernani Cotrin, Centro, Capivari De Baixo - Sc",Capivari De Baixo,SC,,,-28.4407129,-48.9615265
+APS Canoinhas,"Rua Vidal Ramos, 780, Centro, Canoinhas - Sc",Canoinhas,SC,,,-26.175369,-50.3927092
+APS Jaraguá Do Sul,"Av. Getulio Vargas, 500, Centro, Jaraguá Do Sul - Sc",Jaraguá Do Sul,SC,,,-26.4786677,-49.0870079
+APS Joinville - Centro,"Rua Nove De Março, 241, Centro, Joinville - Sc",Joinville,SC,,,-26.3020734,-48.843286
+APS Mafra,"Rua Doutor Mathias Pienchnick, 37, Centro, Mafra - Sc",Mafra,SC,,,-26.1144509,-49.8045239
+APS São Bento Do Sul,"Rua Capitao Ernesto Nunes, 89, Centro, São Bento Do Sul - Sc",São Bento Do Sul,SC,,,-26.2466176,-49.3811614
+APS São Francisco Do Sul,"Rua Barão Do Rio Branco, Nº 377, Centro, São Francisco Do Sul - Sc",São Francisco Do Sul,SC,,,-26.2486101,-48.6355595
+APS Joinville - Guanabara,"Rua Graciosa, 380, Guanabara, Joinville - Sc",Joinville,SC,,,-26.3233773,-48.83536549999999
+APS Guaramirim,"Rua Nelson Luís Rosa De Bem, 90, Centro, Guaramirim - Sc",Guaramirim,SC,,,-26.4769542,-49.00011259999999
+APS Rio Negro/Pr,"Rua Brasílio Celestino De Oliveira, 30, Centro, Rio Negro - Pr",Rio Negro,PR,,,-26.0990766,-49.7929802
+APS São Paulo - Brás,"Rua Jose De Alencar, 56, Bras, São Paulo - Sp",São Paulo,SP,,,-23.5405633,-46.6116772
+APS São Paulo - Brig. Luís Antônio,"Av. Brigadeiro Luis Antonio, 1266, Bela Vista, São Paulo - Sp",São Paulo,SP,,,-23.560264,-46.643412
+APS São Paulo - Centro,"Rua Coronel Xavier De Toledo, 290, Republica, São Paulo - Sp",São Paulo,SP,,,-23.5474724,-46.6410109
+APS São Paulo - Glicério,"Pc Nina Rodrigues 151/153, Liberdade, São Paulo - Sp",São Paulo,SP,,,-23.5572913,-46.6263138
+APS São Paulo - Anhangabaú,"Rua Coronel Xavier De Toledo, 280, Republica, São Paulo - Sp",São Paulo,SP,,,-23.5474618,-46.64108179999999
+APS São Paulo - Mooca,"Rua Dos Trilhos, 1823, Mooca, São Paulo - Sp",São Paulo,SP,,,-23.5548993,-46.5920219
+APS São Paulo - Vila Prudente,"Rua Do Orfanato, 253, Vila Prudente, São Paulo - Sp",São Paulo,SP,,,-23.5802811,-46.5829896
+APS São Paulo - Água Branca,"Av. Francisco Matarazzo, 345, Agua Branca, São Paulo - Sp",São Paulo,SP,,,-23.530736,-46.6670205
+APS São Paulo - Santa Marina,"Av. Santa Marina - 1217/1233, Agua Branca, São Paulo - Sp",São Paulo,SP,,,-23.5142515,-46.692228
+APS São Paulo - Ataliba Leonel,"Av. General Ataliba Leonel - 1085, Santana, São Paulo - Sp",São Paulo,SP,,,-23.5023909,-46.61826480000001
+APS São Paulo - Tucuruvi,"Rua Domingos Calheiros, 124/126, Tucuruvi, São Paulo - Sp",São Paulo,SP,,,-23.4796819,-46.6105663
+APS São Paulo - Voluntários Da Pátria,"Rua Voluntários Da Pátria, 2373, Santana, São Paulo - Sp",São Paulo,SP,,,-23.4993507,-46.6257107
+APS Caieiras,"Av. Doutor Armando Pinto, Regiao Central, Caieiras - Sp",Caieiras,SP,,,-23.3630825,-46.7434677
+APS São Paulo - Nossa Senhora De Sabará,"Av. Nossa Senhora Do Sabara - 2300, Jardim Campo Grande, São Paulo - Sp",São Paulo,SP,,,-23.6748002,-46.6861391
+APS São Paulo - Cidade Dutra,"Rua Padre José Garzotti 75, Cidade Dutra, São Paulo - Sp",São Paulo,SP,,,-23.7099348,-46.6988334
+APS São Paulo - Santo Amaro,"Rua Comendador Elias Zarzur, 98, Santo Amaro, São Paulo - Sp",São Paulo,SP,,,-23.6513358,-46.7016681
+APS São Paulo - Jabaquara,"Rua Dos Cambuis 326, Vila Parque Jabaquara, São Paulo - Sp",São Paulo,SP,,,-23.6410498,-46.6443199
+APS São Paulo - Vila Mariana,"Rua Santa Cruz, 707, Vila Mariana, São Paulo - Sp",São Paulo,SP,,,-23.596944,-46.629739
+APS São Paulo - Cidade Ademar,"Av. Santa Catarina 2211, Vila Mascote, São Paulo - Sp",São Paulo,SP,,,-23.6531466,-46.6574461
+APS São Paulo - Guarapiranga,"Largo Do Socorro, 60, Vila Socorro, São Paulo - Sp",São Paulo,SP,,,-23.6652717,-46.7120167
+APS São Paulo - Vital Brasil,"Av. Doutor Vital Brasil, 569, Butanta, São Paulo - Sp",São Paulo,SP,,,-23.5710457,-46.7096266
+APS São Paulo - Pinheiros,"Rua Butantã, 68, Pinheiros, São Paulo - Sp",São Paulo,SP,,,-23.567955,-46.6970067
+APS Taboão Da Serra,"Est Sao Francisco, 1336, Parque Taboao, Taboão Da Serra - Sp",Taboão Da Serra,SP,,,-23.6196158,-46.7690487
+APS Embu-Guaçu,"Av. Pedro De Moraes, 236, Centro, Embu-Guaçu - Sp",Embu-Guaçu,SP,,,-23.8373285,-46.82452139999999
+APS São Paulo - Água Rasa,"Rua Joao Soares, 59, Quarta Parada, São Paulo - Sp",São Paulo,SP,,,-23.554142,-46.5797447
+APS São Paulo - Aricanduva,"Avenida Rio Das Pedras, 2.476, Jardim Aricanduva, São Paulo - Sp",São Paulo,SP,,,-23.5586498,-46.5216897
+APS São Paulo - Ermelindo Matarazzo,"Rua Victoria Simionato 363, Vila Paranagua, São Paulo - Sp",São Paulo,SP,,,-23.4947515,-46.4750257
+APS São Paulo - Itaquera,"Rua Jose Oiticica Filho, 501, Itaquera, São Paulo - Sp",São Paulo,SP,,,-23.5347763,-46.44768639999999
+APS São Paulo - Penha,"Rua Cirino De Abreu 112 / 122, Guaiauna, São Paulo - Sp",São Paulo,SP,,,-23.5309064,-46.5485939
+APS São Paulo - São Miguel Paulista,"Rua Pedro Soares De Andrade 105, Vila Rosaria, São Paulo - Sp",São Paulo,SP,,,-23.4959912,-46.4360389
+APS São Paulo - Tatuapé,"Rua Euclides Pacheco - 463, Vila Gomes Cardim, São Paulo - Sp",São Paulo,SP,,,-23.5482834,-46.5703861
+APS São Paulo - Vila Maria,"Rua Jequitinhonha, 360-Complexo Maria Zélia, Catumbi, São Paulo - Sp",São Paulo,SP,,,-23.5310844,-46.5995924
+APS São Paulo - Guaianazes,"Estrada Nossa Senhora Da Fonte 52, Guaianazes, São Paulo - Sp",São Paulo,SP,,,-23.555295,-46.41697740000001
+APS Andradina,"Rua Santa Terezinha, 1840, Piscina, Andradina - Sp",Andradina,SP,,,-20.9026901,-51.3706158
+APS Araçatuba,"Rua Floriano Peixoto, 784, Vila Mendonca, Araçatuba - Sp",Araçatuba,SP,,,-21.2056931,-50.430614
+APS Birigüi,"Avenida Joao Cernach, 01, Centro, Birigui - Sp",Birigui,SP,,,-21.2851736,-50.34280529999999
+APS Lins,"Rua Quinze De Novembro - 205, Centro, Lins - Sp",Lins,SP,,,-21.6739324,-49.7528994
+APS Penápolis,"Av. Rui Barbosa, 762, Centro, Penápolis - Sp",Penápolis,SP,,,-21.4160534,-50.0758392
+APS Ilha Solteira,"Av. Atlântica, 1981, Centro, Ilha Solteira - Sp",Ilha Solteira,SP,,,-20.4331027,-51.3385715
+APS Mirandópolis,"Praça Papa João Xxiii, 115, Centro, Mirandópolis - Sp",Mirandópolis,SP,,,-21.1330365,-51.1019975
+APS Pereira Barreto,"Rua Coronel Jonas Alves De Melo 2321, Centro, Pereira Barreto - Sp",Pereira Barreto,SP,,,-20.6495137,-51.1118059
+APS Guararapes,"Rua Dom Pedro I, 100, Centro, Guararapes - Sp",Guararapes,SP,,,-21.2549826,-50.6414321
+APS Promissão,"Rua Genaro Sammarco, 100, Centro, Promissão - Sp",Promissão,SP,,,-21.5350925,-49.859504
+APS Pirajuí,"Rua Treze De Maio, 833, Centro, Pirajuí - Sp",Pirajuí,SP,,,-21.9966389,-49.4559394
+APS Valparaíso,"Rua Treze De Maio, 371, Centro, Valparaíso - Sp",Valparaíso,SP,,,-21.2290825,-50.8651987
+APS Araraquara,"Av. La Salle, 250, Jardim Primavera, Araraquara - Sp",Araraquara,SP,,,-21.7766325,-48.1745641
+APS Bebedouro,"Rua Benjamin Constant, 359, Centro, Bebedouro - Sp",Bebedouro,SP,,,-20.942584,-48.4843096
+APS Itápolis,"Av. Presidente Valentim Gentil, 1075, Centro, Itápolis - Sp",Itápolis,SP,,,-21.5944583,-48.815596
+APS Jaboticabal,"Av. Tiradentes, 1053, Centro, Jaboticabal - Sp",Jaboticabal,SP,,,-21.2622469,-48.3160873
+APS Matão,"Rua Oreste Bozelli, 110, Centro, Matão - Sp",Matão,SP,,,-21.6001464,-48.3620825
+APS Monte Alto,,Monte Alto,SP,,,,
+APS São Carlos/Sp,"Rua Geminiano Costa Nº 981, Jardim Sao Carlos, São Carlos - Sp",São Carlos,SP,,,-22.020316,-47.88796379999999
+APS Taquaritinga,"Rua Bernardino Sampaio, 400, Centro, Taquaritinga - Sp",Taquaritinga,SP,,,-21.4080908,-48.4982658
+APS Ibitinga,"Av. Eng Ivanil Francisquini, 14231, Jardim Eldorado, Ibitinga - Sp",Ibitinga,SP,,,-21.7670201,-48.83181
+APS Ibaté,"Av. Conselheiro Moreira Barros, 783, Centro, Ibaté - Sp",Ibaté,SP,,,-21.9556424,-47.99923
+APS Pitangueiras/Sp,"Rua Rio De Janeiro, 533, Centro, Pitangueiras - Sp",Pitangueiras,SP,,,-21.0070747,-48.2202895
+APS Américo Brasiliense,,Américo Brasiliense,SP,,,-21.1759711,-47.8117293
+APS Guariba,"Av. Dr. Sobral Neto, 1450, Centro, Guariba - Sp",Guariba,SP,,,-21.3697819,-48.224614
+APS Avaré,"Rua Piaui, Nº 1495, Centro, Avaré - Sp",Avaré,SP,,,-23.0992028,-48.9199348
+APS Bauru,"Rua Azarias Leite, Nº 1-75, Centro, Bauru - Sp",Bauru,SP,,,-22.3214702,-49.0764313
+APS Botucatu,"Rua Curuzu, Nº 1079, Centro, Botucatu - Sp",Botucatu,SP,,,-22.8928167,-48.4400238
+APS Jaú,"Rua Campos Salles, Nº 915, Centro, Jaú - Sp",Jaú,SP,,,-22.2893817,-48.5592611
+APS Lencóis Paulista,"Rua Carlos Trecenti, 75, Vila Santa Cecilia, Lencóis Paulista - Sp",Lencóis Paulista,SP,,,-22.592021,-48.8065422
+APS Itatinga,"Rua Antonio Francisco Da Silva, Nº 455, Centro, Itatinga - Sp",Itatinga,SP,,,-23.1052092,-48.6134602
+APS Dois Córregos,,Dois Córregos,SP,,,-23.012061,-47.0211139
+APS São Manuel,"Avenida José Horácio Mellão Nº 2501, Tancredo Neves, São Manuel - Sp",São Manuel,SP,,,-22.7513639,-48.573276
+APS Itaí,"Rua Quinze De Novembro, Nº 1347, Centro, Itaí - Sp",Itaí,SP,,,-22.0120324,-47.8974645
+APS Taquarituba,"João Osvaldo Leiva, Nº 150, Centro, Taquarituba - Sp",Taquarituba,SP,,,-23.5330715,-49.2398605
+APS Igaraçu Do Tietê,,Igaraçu Do Tietê,SP,,,,
+APS Pederneiras,,Pederneiras,SP,,,-22.3622772,-48.7699085
+APS Barra Bonita/Sp,,Barra Bonita,SP,,,,
+APS Bariri,"Wilfredo Pinheiro Filho Nº 05, Centro, Bariri - Sp",Bariri,SP,,,-22.0761808,-48.7380371
+APS Agudos,"Av. Pref. José Nogueira De Abreu, Nº 72, Centro, Agudos - Sp",Agudos,SP,,,-22.4632406,-48.9891633
+APS Brotas,,Brotas,SP,,,,
+APS Americana,"Rua Charles Hall, 41, Centro, Americana - Sp",Americana,SP,,,-22.7380303,-47.3340223
+APS Campinas,"Rua Barreto Leme, 1117, Centro, Campinas - Sp",Campinas,SP,,,-22.9012701,-47.0607657
+APS Indaiatuba,"Rua Vinte E Quatro De Maio 1450, Centro, Indaiatuba - Sp",Indaiatuba,SP,,,-23.0870708,-47.2106958
+APS Pedreira,"Rua Xv De Novembro, 611, Centro, Pedreira - Sp",Pedreira,SP,,,-22.7418662,-46.9035647
+APS Santa Barbara D Oeste,"Rua Prudente De Moraes, 236, Centro, Santa Barbara D Oeste - Sp",Santa Barbara D Oeste,SP,,,-22.7519925,-47.4153431
+APS Sumaré,"Rua José Maria Miranda, 1000, Jardim Sao Carlos, Sumaré - Sp",Sumaré,SP,,,-22.8210046,-47.2690468
+APS Valinhos,"Av. Independência, 641, Vila Olivo, Valinhos - Sp",Valinhos,SP,,,-22.975965,-46.996803
+APS Campinas - Amoreiras,"Av. Ruy Rodrigues, 714, Jardim Novo Campos Eliseos, Campinas - Sp",Campinas,SP,,,-22.9369041,-47.1063552
+APS Cosmópolis,"Rua Sete De Abril 448, Centro, Cosmópolis - Sp",Cosmópolis,SP,,,-22.642321,-47.1950659
+APS Campinas - Carlos Gomes,"Rua Alvaro Silveira Leite, 25, Cidade Satelite Iris, Campinas - Sp",Campinas,SP,,,-22.9370322,-47.158912
+APS Hortolândia,"Rua José Agostinho 604, Jardim Santana, Hortolândia - Sp",Hortolândia,SP,,,-22.8684706,-47.2046721
+APS Campinas - Regente Feijó,"Rua Regente Feijó, 1266, Centro, Campinas - Sp",Campinas,SP,,,-22.9034506,-47.0612127
+APS Nova Odessa,,Nova Odessa,SP,,,,
+APS Guarulhos,"Rua Brasileira 399, Vila Endres, Guarulhos - Sp",Guarulhos,SP,,,-23.4861107,-46.5551187
+APS Mogi Das Cruzes,"Rua Olegário Paiva, 275, Centro, Mogi Das Cruzes - Sp",Mogi Das Cruzes,SP,,,-23.5198166,-46.1874477
+APS Suzano,"Rua Campos Sales - 601, Centro, Suzano - Sp",Suzano,SP,,,-23.5358388,-46.3067843
+APS Guarulhos Pimentas,"Est Pres Juscelino K De Oliveira 3023, Jardim Albertina, Guarulhos Pimentas - Sp",Guarulhos Pimentas,SP,,,-23.4345891,-46.4088561
+APS Itaquaquecetuba,"Rua Piracicaba, 125, Vila Monte Belo, Itaquaquecetuba - Sp",Itaquaquecetuba,SP,,,-23.4804905,-46.3665675
+APS Amparo/Sp,"Rua Jose Fontana, 200, Centro, Amparo - Sp",Amparo,SP,,,-22.7012618,-46.7699031
+APS Atibaia,"Rua Clovis Soares, 118, Alvinopolis, Atibaia - Sp",Atibaia,SP,,,-23.1169822,-46.5658958
+APS Bragança Paulista,"Rua Coronel Osório, 142, Centro, Bragança Paulista - Sp",Bragança Paulista,SP,,,-22.9583044,-46.5411448
+APS Itatiba,"Avenida Senador Lacerda Franco, Nº 451, Centro, Itatiba - Sp",Itatiba,SP,,,-23.006186,-46.8378677
+APS Jundiaí - Eloy Chaves,"Rua Barão De Jundiaí, 1150, Centro, Jundiaí - Sp",Jundiaí,SP,,,-23.1848628,-46.8863056
+APS Estância De Socorro,"Pça Cel. Olímpio Gonçalves Dos Reis, 291, Centro, Estância De Socorro - Sp",Estância De Socorro,SP,,,-22.5935024,-46.5274457
+APS Varzea Paulista,"Rua Antônio Feres, 58, Centro, Varzea Paulista - Sp",Varzea Paulista,SP,,,-23.2095152,-46.8286063
+APS Jarinu,"Rua João Pessoa, Centro, Jarinu - Sp",Jarinu,SP,,,-23.1044737,-46.7275271
+APS Campo Limpo Paulista,"Rua Costa Rica, Jardim America, Campo Limpo Paulista - Sp",Campo Limpo Paulista,SP,,,-23.199366,-46.787639
+APS Assis,"Av. Nove De Julho, 975, Centro, Assis - Sp",Assis,SP,,,-22.6634554,-50.4140907
+APS Garça,"Av. Dr. Rafael Paes De Barros, 17, Centro, Garça - Sp",Garça,SP,,,-22.2126668,-49.6532799
+APS Marília,"Av. Castro Alves, 460, Somenzari, Marília - Sp",Marília,SP,,,-22.20497,-49.9551551
+APS Ourinhos,"Rua Antônio Carlos Mori, 189, Centro, Ourinhos - Sp",Ourinhos,SP,,,-22.9788242,-49.8707234
+APS Paraguaçú Paulista,"Av. Paraguaçu, 346, Centro, Paraguaçú Paulista - Sp",Paraguaçú Paulista,SP,,,-22.4135828,-50.5767951
+APS Tupã,"Rua Aimorés, 2110, Centro, Tupã - Sp",Tupã,SP,,,-21.9335485,-50.5074599
+APS Osvaldo Cruz,"Av. Max Wirth, 295, Centro, Osvaldo Cruz - Sp",Osvaldo Cruz,SP,,,-21.7941453,-50.8729808
+APS Palmital/Sp,"Rua Manoel Leão Rego, 20, Centro, Palmital - Sp",Palmital,SP,,,-22.7855952,-50.2244512
+APS Santa Cruz Do Rio Pardo,"Av. Tiradentes, Nº 458, Centro, Santa Cruz Do Rio Pardo - Sp",Santa Cruz Do Rio Pardo,SP,,,-22.9046331,-49.627494
+APS Piraju,"Rua Washington Osório Oliveira, Nº 82, Centro, Piraju - Sp",Piraju,SP,,,-23.1911299,-49.3828993
+APS Bastos,"Avenida Dezoito De Junho, 82, Centro, Bastos - Sp",Bastos,SP,,,-21.9214336,-50.73312139999999
+APS Cândido Mota,"Rua Félix Jabur, 570, Centro, Cândido Mota - Sp",Cândido Mota,SP,,,-22.742153,-50.3901055
+APS Cotia,"Av. Nossa Senhora De Fatima, Vila Monte Serrat, Cotia - Sp",Cotia,SP,,,-23.6077917,-46.9247514
+APS Osasco,"Pc Das Moncoes, Piratininga, Osasco - Sp",Osasco,SP,,,-23.5210987,-46.7896325
+APS Barueri,"Av. Municipal, Jardim Silveira, Barueri - Sp",Barueri,SP,,,-23.5239284,-46.8922574
+APS Santana De Parnaíba,"Est Ana Procopio De Moraes, Vila Anoral, Santana De Parnaíba - Sp",Santana De Parnaíba,SP,,,-23.4025282,-46.902128
+APS Carapicuíba,"Av. Rui Barbosa 1170, Centro, Carapicuíba - Sp",Carapicuíba,SP,,,-23.5199741,-46.8402324
+APS Itapevi,"Av. Pedro Paulino, Conjunto Habitacional - Setor D, Itapevi - Sp",Itapevi,SP,,,-23.5537958,-46.9447242
+APS Vargem Grande Paulista,,Vargem Grande Paulista,SP,,,-23.6317516,-47.0344285
+APS Araras,"Rua Chico Pinto Nº 745, Centro, Araras - Sp",Araras,SP,,,-22.3560469,-47.3893744
+APS Capivari,"Rua Padre Fabiano, 800, Centro, Capivari - Sp",Capivari,SP,,,-22.9972274,-47.50504859999999
+APS Limeira,"Rua Presidente Prudente, Nº 150, Vila Cidade Jardim, Limeira - Sp",Limeira,SP,,,-22.5691969,-47.4001723
+APS Piracicaba,"Rua Xv De Novembro 790/798, Centro, Piracicaba - Sp",Piracicaba,SP,,,-22.7264156,-47.6491982
+APS Rio Claro/Sp,"Rua 03, 1026, Centro, Rio Claro - Sp",Rio Claro,SP,,,-22.4460914,-47.54475180000001
+APS Tietê,,Tietê,SP,,,-23.1118749,-47.7252745
+APS Artur Nogueira,,Artur Nogueira,SP,,,-22.5737108,-47.1729018
+APS Laranjal Paulista,,Laranjal Paulista,SP,,,-23.0526393,-47.8377379
+APS Rio Das Pedras,,Rio Das Pedras,SP,,,-22.8365387,-47.606651
+APS São Pedro/Sp,,São Pedro,SP,,,,
+APS Cerquilho,,Cerquilho,SP,,,-23.1649435,-47.7389505
+APS Conchal,,Conchal,SP,,,,
+APS Adamantina,"Alameda Armando Sales De Oliveira, 195, Centro, Adamantina - Sp",Adamantina,SP,,,-22.4132258,-50.58172769999999
+APS Dracena,,Dracena,SP,,,-21.4884653,-51.5325767
+APS Presidente Epitácio,"Rua Cuiabá 3-77, Centro, Presidente Epitácio - Sp",Presidente Epitácio,SP,,,-21.7667561,-52.1066276
+APS Presidente Prudente,"Rua Siqueira Campos, 1315, Vila Roberto, Presidente Prudente - Sp",Presidente Prudente,SP,,,-22.1295614,-51.3896532
+APS Presidente Venceslau,"Rua Visconde De Mauá, 65, Centro, Presidente Venceslau - Sp",Presidente Venceslau,SP,,,-21.8770225,-51.8465871
+APS Rancharia,"Rua Manoel Tenório De Brito - 570, Centro, Rancharia - Sp",Rancharia,SP,,,-22.2268389,-50.8939295
+APS Rosana,"Rua José Velasco 1675, Centro, Rosana - Sp",Rosana,SP,,,-22.5778319,-53.0569634
+APS Martinopólis,"Avenida Padre João Schneider, Centro, Martinopólis - Sp",Martinopólis,SP,,,-22.14677,-51.1729385
+APS Santo Anastácio,"Rua João Crepaldi 585, Centro, Santo Anastácio - Sp",Santo Anastácio,SP,,,-21.9785892,-51.6536059
+APS Teodoro Sampaio/Sp,"Rua José De Moraes, 1420, Centro, Teodoro Sampaio - Sp",Teodoro Sampaio,SP,,,-22.5314368,-52.1733719
+APS Álvares Machado,"Rua Monsenhor Nakamura, 815, Centro, Álvares Machado - Sp",Álvares Machado,SP,,,-22.0824022,-51.4761738
+APS Batatais,"Rua Celso Garcia, 82, Centro, Batatais - Sp",Batatais,SP,,,-20.8911432,-47.5872587
+APS Franca,"Rua Voluntários Da Franca, 1186, Centro, Franca - Sp",Franca,SP,,,-20.5363051,-47.4038242
+APS Ituverava,"Rua Getúlio Vargas, 42, Centro, Ituverava - Sp",Ituverava,SP,,,-20.3342564,-47.7868232
+APS Orlândia,"Praça Mario Furtado, 155, Centro, Orlândia - Sp",Orlândia,SP,,,-20.7215579,-47.8853043
+APS Ribeirão Preto,"Av. Coronel Quito Junqueira, 61, Campos Eliseos, Ribeirão Preto - Sp",Ribeirão Preto,SP,,,-21.1581662,-47.7968397
+APS São Joaquim Da Barra,"Rua Maranhão, 1732, Centro, São Joaquim Da Barra - Sp",São Joaquim Da Barra,SP,,,-20.5853029,-47.8641219
+APS Sertãozinho/Sp,"Rua Candinha Del Grande, 1222, Centro, Sertãozinho - Sp",Sertãozinho,SP,,,-21.1408541,-47.9847707
+APS São Simão/Sp,"Praça Carlos Botelho, 606, Centro, São Simão - Sp",São Simão,SP,,,-22.902618,-47.0638589
+APS Serrana,,Serrana,SP,,,,
+APS Ribeirão Preto - Amador Bueno,"Rua Amador Bueno, 479, Centro, Ribeirão Preto - Sp",Ribeirão Preto,SP,,,-21.1747436,-47.81082550000001
+APS Morro Agudo,"Rua Sete De Setembro, 505, Centro, Morro Agudo - Sp",Morro Agudo,SP,,,-20.737818,-48.0603267
+APS Cravinhos,"Rua Fernando Cosmo, Nº 61, Centro, Cravinhos - Sp",Cravinhos,SP,,,-21.3422118,-47.73688689999999
+APS Cajuru,,Cajuru,SP,,,-23.4053003,-47.3828563
+APS Mauá,"Rua Guido Monteggia, 111, Centro, Mauá - Sp",Mauá,SP,,,-23.6654551,-46.4623684
+APS Ribeirão Pires,"Av. Kaethe Richers, 624, Pastoril, Ribeirão Pires - Sp",Ribeirão Pires,SP,,,-23.7177745,-46.40970060000001
+APS Santo André/Sp,"Rua Adolfo Bastos, 520, Vila Bastos, Santo André - Sp",Santo André,SP,,,-23.659152,-46.5388868
+APS São Caetano Do Sul,"Av. Goias, 260, Santo Antonio, São Caetano Do Sul - Sp",São Caetano Do Sul,SP,,,-23.6154885,-46.5757888
+APS Cubatão,"Rua Dom Idilio Jose Soares, 511, Vila Nova, Cubatão - Sp",Cubatão,SP,,,-23.8970359,-46.4263866
+APS Guarujá,"Av. Adhemar De Barros, Jardim Santa Maria, Guarujá - Sp",Guarujá,SP,,,-23.9915038,-46.2772851
+APS Itanhaém,"Rua João Mariano, Centro, Itanhaém - Sp",Itanhaém,SP,,,-24.1839229,-46.787913
+APS Registro,"Av. Wild José De Souza, 215, Centro, Registro - Sp",Registro,SP,,,-24.4982206,-47.8468188
+APS Santos,"Av. Epitacio Pessoa, 437, Aparecida, Santos - Sp",Santos,SP,,,-23.9775935,-46.3102417
+APS São Vicente/Sp,"Av. Persio De Queiros Filho, Catiapoa, São Vicente - Sp",São Vicente,SP,,,-23.9578209,-46.3879152
+APS Praia Grande/Sp,"Av. Presidente Kennedy 5870, Tupi, Praia Grande - Sp",Praia Grande,SP,,,-24.0200407,-46.464324
+APS Miracatu,"Rua Dr Emilio Martins Ribieiro, Centro, Miracatu - Sp",Miracatu,SP,,,-22.9101744,-47.0593274
+APS Mongaguá,,Mongaguá,SP,,,-24.1266725,-46.7180599
+APS Peruíbe,"Avenida Papa Pio Xii, Centro, Peruíbe - Sp",Peruíbe,SP,,,-24.3236873,-47.0056078
+APS Bertioga,,Bertioga,SP,,,-22.3594848,-46.9455829
+APS Cajati,,Cajati,SP,,,-24.7860284,-48.1748457
+APS Iguape,,Iguape,SP,,,-24.7007998,-47.5636226
+APS Diadema,"Av. Antonio Piranga 1138, Centro, Diadema - Sp",Diadema,SP,,,-23.6861581,-46.6131653
+APS São Bernardo Do Campo,"Av. Newton Monteiro De Andrade - 140, Centro, São Bernardo Do Campo - Sp",São Bernardo Do Campo,SP,,,-23.7041491,-46.5558013
+APS Espírito Santo Do Pinhal,"Rua Luiz Gama, 61, Centro, Espírito Santo Do Pinhal - Sp",Espírito Santo Do Pinhal,SP,,,-22.1967475,-46.7499687
+APS Itapira,"Rua Da Saudade, N 167, Santa Cruz, Itapira - Sp",Itapira,SP,,,-22.4354663,-46.8288287
+APS Leme,"Av. Carlos Bonfanti, 188, Centro, Leme - Sp",Leme,SP,,,-22.1861275,-47.3838515
+APS Mococa,"Av. Senador José Ermirio De Morais, 100, Jardim Lavinia, Mococa - Sp",Mococa,SP,,,-21.4758258,-47.0087367
+APS Mogi-Guaçu,"Rua Paula Bueno, 221, Centro, Mogi-Guaçu - Sp",Mogi-Guaçu,SP,,,-22.3712541,-46.9388926
+APS Mogi-Mirim,"Av. Adib Chaib, 2250, Centro, Mogi-Mirim - Sp",Mogi-Mirim,SP,,,-22.4355387,-46.9532945
+APS Pirassununga,"Rua Duque De Caxias, 1254, Centro, Pirassununga - Sp",Pirassununga,SP,,,-21.9958761,-47.4279978
+APS São João Da Boa Vista,"Rua Prudente De Moraes, 422, Centro, São João Da Boa Vista - Sp",São João Da Boa Vista,SP,,,-21.9714431,-46.79356
+APS São José Do Rio Pardo,"Av. Nove De Julho, 80, Centro, São José Do Rio Pardo - Sp",São José Do Rio Pardo,SP,,,-21.5973454,-46.8935488
+APS Porto Ferreira,"Rua João Mutinelli 585, Centro, Porto Ferreira - Sp",Porto Ferreira,SP,,,-21.8577833,-47.4858614
+APS Santa Cruz Das Palmeiras,,Santa Cruz Das Palmeiras,SP,,,,
+APS Casa Branca,,Casa Branca,SP,,,,
+APS Descalvado,,Descalvado,SP,,,-21.9196637,-47.5850194
+APS Tambaú,"Rua João Godoy, 164, Centro, Tambaú - Sp",Tambaú,SP,,,-21.7048733,-47.2722924
+APS Aguaí,"Rua Marechal Floriano Peixoto Nº. 708, Centro, Aguaí - Sp",Aguaí,SP,,,-22.0594527,-46.9742343
+APS Barretos,"Av. 17, Centro, Barretos - Sp",Barretos,SP,,,-20.5599785,-48.5687506
+APS Catanduva,"Rua Brasil, 241, Centro, Catanduva - Sp",Catanduva,SP,,,-21.1328857,-48.9707984
+APS Fernandópolis,"Rua Rio De Janeiro 1488, Centro, Fernandópolis - Sp",Fernandópolis,SP,,,-20.2789679,-50.2524712
+APS General Salgado,"Av. Diogo Garcia Carmona, 1184, Centro, General Salgado - Sp",General Salgado,SP,,,-20.6420351,-50.3621523
+APS Jales,"Av. Joao Amadeu 2221, Centro, Jales - Sp",Jales,SP,,,-20.2699384,-50.5513525
+APS Mirassol,"Rua D. Pedro Ii, 2191, Centro, Mirassol - Sp",Mirassol,SP,,,-21.6847554,-49.7444788
+APS Olímpia,"Rua Floriano Peixoto, 1228, Centro, Olímpia - Sp",Olímpia,SP,,,-20.7368202,-48.91630809999999
+APS São José Do Rio Preto,"Rua Delegado Pinto De Toledo, 740, Parque Industrial, São José Do Rio Preto - Sp",São José Do Rio Preto,SP,,,-20.8011214,-49.3961059
+APS Votuporanga,"Rua Santa Catarina, 3580, Patrimonio Velho, Votuporanga - Sp",Votuporanga,SP,,,-20.4218563,-49.9726346
+APS Nhandeara,"Rua Cônego Domingos Planillo, 537, Centro, Nhandeara - Sp",Nhandeara,SP,,,-20.6928901,-50.04033510000001
+APS Monte Aprazível,"Rua Osvaldo Cruz, 330, Centro, Monte Aprazível - Sp",Monte Aprazível,SP,,,-20.7726916,-49.7127178
+APS Novo Horizonte/Sp,"Rua Henrique Dias 855, Centro, Novo Horizonte - Sp",Novo Horizonte,SP,,,-21.4708736,-49.22628659999999
+APS Santa Fé Do Sul,"Av. Navarro De Andrade, 30, Centro, Santa Fé Do Sul - Sp",Santa Fé Do Sul,SP,,,-20.2163922,-50.9273939
+APS Guaíra/Sp,"Avenida 15, 937- A, Centro, Guaíra - Sp",Guaíra,SP,,,-20.3222003,-48.3080401
+APS José Bonifácio,"Av. José Antonio Pinto, 962, Centro, José Bonifácio - Sp",José Bonifácio,SP,,,-21.0424199,-49.6972313
+APS São José Do Rio Preto - Boa Vista,"Av. Bady Bassitt 3268, Boa Vista, São José Do Rio Preto - Sp",São José Do Rio Preto,SP,,,-20.810371,-49.385338
+APS Tanabi,"R: Benedito Sampaio, 565, Centro, Tanabi - Sp",Tanabi,SP,,,-20.6285138,-49.654542
+APS Campos Do Jordão,"Av.Frei Orestes Girardi, 1805, Vila Abernessia, Campos Do Jordão - Sp",Campos Do Jordão,SP,,,-22.7354061,-45.5875929
+APS Caraguatatuba,"Rua Dr Altino Arantes, 610, Centro, Caraguatatuba - Sp",Caraguatatuba,SP,,,-23.6211353,-45.4083096
+APS Jacareí,"R. Antonio Afonso, 237, Centro, Jacareí - Sp",Jacareí,SP,,,-23.3063999,-45.9708185
+APS São José Dos Campos,"Av. Dr. João Guilhermino, 84, Centro, São José Dos Campos - Sp",São José Dos Campos,SP,,,-23.1878098,-45.8853753
+APS São Sebastião/Sp,"Rua Sebastião Silvestre Neves, 82, Centro, São Sebastião - Sp",São Sebastião,SP,,,-23.8039094,-45.4004237
+APS Itapetininga,"Rua Coronel Pedro Dias Batista, 1345, Centro, Itapetininga - Sp",Itapetininga,SP,,,-23.5903458,-48.0440157
+APS Itapeva/Sp,"Rua Teofilo David Muzel, 186, Vila Ophelia, Itapeva - Sp",Itapeva,SP,,,-23.9856638,-48.8800168
+APS Itu,"Praça Padre Miguel, 18, Centro, Itu - Sp",Itu,SP,,,-23.2632304,-47.3007332
+APS Salto,"Avenida D. Pedro Ii, 1196, Centro, Salto - Sp",Salto,SP,,,-23.2007182,-47.2987546
+APS São Roque,"Av. John Kennedy, 405, Centro, São Roque - Sp",São Roque,SP,,,-23.5300164,-47.132139
+APS Sorocaba,"Rua Nogueira Martins, 141, Centro, Sorocaba - Sp",Sorocaba,SP,,,-23.5019156,-47.4573624
+APS Tatuí,"Rua Cônego Demétrio, 378, Centro, Tatuí - Sp",Tatuí,SP,,,-23.3487654,-47.8476027
+APS Votorantim,"Rua João Walter, 286, Centro, Votorantim - Sp",Votorantim,SP,,,-23.5441582,-47.450658
+APS Boituva,"Rua Gustavo Sartorelli, 76, Centro, Boituva - Sp",Boituva,SP,,,-23.2879105,-47.6792488
+APS Sorocaba - Zona Norte,"Avenida Itavuvu, 223, Vila Olimpia, Sorocaba - Sp",Sorocaba,SP,,,-23.482255,-47.472839
+APS Capão Bonito,"Rua Capitao Firmino G. De Almeida, 71, Vila Santa Rosa, Capão Bonito - Sp",Capão Bonito,SP,,,-24.0110592,-48.3476891
+APS Piedade,"Rua José Baptista, 95, Centro, Piedade - Sp",Piedade,SP,,,-23.7067484,-47.4226651
+APS Apiaí,"Rua Dr. Augusto Do Amaral, 347, Centro, Apiaí - Sp",Apiaí,SP,,,-24.5142448,-48.8452138
+APS Guapiara,"Rua Antonio De Oliveira, 140, Centro, Aracaju - Se",Aracaju,SE,,,-10.9265404,-37.0731147
+APS Itararé,"Rua Campos Salles, 1350, Centro, Itararé - Sp",Itararé,SP,,,-24.1163292,-49.3331575
+APS Porto Feliz,"Avenida Milton Bistafa, 90, Centro, Porto Feliz - Sp",Porto Feliz,SP,,,-23.2190728,-47.5224796
+APS São Miguel Arcanjo,"Rua Benedito Nunes Ratto, Nº 180, Centro, São Miguel Arcanjo - Sp",São Miguel Arcanjo,SP,,,-23.8817979,-47.9948358
+APS Cabreúva,"Rua Paraíba, 194, Jacare - Jacare, Cabreúva - Sp",Cabreúva,SP,,,-23.2542404,-47.05742
+APS Pilar Do Sul,"Avenida Padre Benedito Mariano, 308, Campo Grande, Pilar Do Sul - Sp",Pilar Do Sul,SP,,,-23.8057,-47.7333422
+APS Salto De Pirapora,"Rua Pedro Pires De Mello, 228, Centro, Salto De Pirapora - Sp",Salto De Pirapora,SP,,,-23.659523,-47.5781731
+APS Aparecida/Sp,"Pç Pe Victor Coelho De Almeida 251/255, Centro, Aparecida - Sp",Aparecida,SP,,,-22.8469227,-45.2316701
+APS Caçapava,"Av. Brasil Nº 15, Vila Antonio Augusto Luiz, Caçapava - Sp",Caçapava,SP,,,-23.109538,-45.7087304
+APS Cruzeiro,"Rua Dr Othon Barcellos, 181, Centro, Cruzeiro - Sp",Cruzeiro,SP,,,-22.5833189,-44.9597004
+APS Guaratinguetá,"Av. Doutor Ariberto Pereira Da Cunha, 330, Portal Das Colinas, Guaratinguetá - Sp",Guaratinguetá,SP,,,-22.8052332,-45.1909765
+APS Lorena,"Rua Doutor Francisco Azevedo Nunes, Jardim Margarida, Lorena - Sp",Lorena,SP,,,-22.7329484,-45.1169882
+APS Pindamonhangaba,"Rua Antonio De Padua Costa, 170, Centro, Pindamonhangaba - Sp",Pindamonhangaba,SP,,,-22.9268984,-45.4673549
+APS Taubaté,"Dona Chiquinha De Mattos, 370, Centro, Taubaté - Sp",Taubaté,SP,,,-23.0252345,-45.556045
+APS Ubatuba,"Rua Da Conceição 697, Centro, Ubatuba - Sp",Ubatuba,SP,,,-23.4349426,-45.0766897
+APS Cachoeira Paulista,"Rua Dr Rocha Junior 288, Centro, Cachoeira Paulista - Sp",Cachoeira Paulista,SP,,,-22.6694302,-45.0119943
+APS Cunha,"Rua Governador Mario Covas, Centro, Cunha - Sp",Cunha,SP,,,-23.0725354,-44.9583105
+APS Aracaju - Ivo Do Prado,"Av. Ivo Do Prado, 448, Centro, Aracaju - Se",Aracaju,SE,,,-10.9180155,-37.0472606
+APS Aracaju - Siqueira Campos,"Rua Florianópolis, 349, Siqueira Campos, Aracaju - Se",Aracaju,SE,,,-10.9146337,-37.0713019
+APS Estância,,Estância,SE,,,,
+APS Itabaiana/Se,"Av. Ivo De Carvalho - 296, Centro, Itabaiana - Se",Itabaiana,SE,,,-10.6878484,-37.42640230000001
+APS Lagarto,"Praça Rui Mendes, 21, Centro, Lagarto - Se",Lagarto,SE,,,-10.9167978,-37.6692097
+APS Neópolis,"Rua Major Gomes De Assunção S/N, Centro, Neópolis - Se",Neópolis,SE,,,-10.2913994,-36.5854184
+APS Propriá,"Rua Engenheiro Arquibaldo Silveira, 115, Centro, Propriá - Se",Propriá,SE,,,-10.2145698,-36.840534
+APS Tobias Barreto,"Rua José Felipe, S/N, Centro, Tobias Barreto - Se",Tobias Barreto,SE,,,-11.1813481,-38.0036565
+APS Nossa Senhora Da Glória,,Nossa Senhora Da Glória,SE,,,,
+APS São Cristovão,"Rua Pereira Lobo, 57, Centro, São Cristovão - Se",São Cristovão,SE,,,-11.0128426,-37.2066983
+APS Itabaianinha,"Rua Francisco Severo S/N, Centro, Itabaianinha - Se",Itabaianinha,SE,,,-11.2802223,-37.7901251
+APS Poço Redondo,"Av. 31 De Março, S/N, Centro, Poço Redondo - Se",Poço Redondo,SE,,,-9.8099677,-37.6816355
+APS Poço Verde,"Rua João Jose Do Rosário, S/N, Centro, Poço Verde - Se",Poço Verde,SE,,,-10.7158378,-38.1765168
+APS Canindé De São Francisco,"Av. Ananias Fernandes Dos Santos S/N, Centro, Canindé De São Francisco - Se",Canindé De São Francisco,SE,,,-9.6603632,-37.7907134
+APS Capela/Se,"Av. Monsenhor Eraldo Barbosa, Centro, Capela - Se",Capela,SE,,,-10.5003861,-37.0521064
+APS Nossa Senhora Das Dores,"Av.Paulo Vasconcelos, Centro, Nossa Senhora Das Dores - Se",Nossa Senhora Das Dores,SE,,,-10.4893095,-37.1977624
+APS Umbaúba,"Rua Estância, S/N Br 101, Centro, Umbaúba - Se",Umbaúba,SE,,,-11.3768452,-37.6601292
+APS Porto Da Folha,"Rua Major Jose João Gonçalves, S/Nr, Centro, Porto Da Folha - Se",Porto Da Folha,SE,,,-7.119561399999999,-34.8817282
+APS Brasília - Gama,"Quadra 40 Lote 01 03, Setor Leste (Gama), Brasília - Gama - Df",Brasília - Gama,DF,,,-16.0508894,-47.9772762
+APS Brasília - Planaltina,"Quadra 1 Bloco H, Setor Comercial Central (Planaltina), Brasília - Planaltina - Df",Brasília - Planaltina,DF,,,-15.7975608,-47.8919122
+APS Brasília - Asa Sul,"Crs 502 Bloco B, Asa Sul, Brasília - Asa Sul - Df",Brasília - Asa Sul,DF,,,-15.8007875,-47.89353819999999
+APS Brasília - Sobradinho,"Qd. Central Área Admin Bl H, S/N, Sobradinho, Brasília - Sobradinho - Df",Brasília - Sobradinho,DF,,,-15.7936771,-47.88347359999999
+APS Brasília - Taguatinga,"Cnb 02 Lote 01, Taguatinga Norte (Taguatinga), Brasília - Taguatinga - Df",Brasília - Taguatinga,DF,,,-15.806118,-48.0850867
+APS Luziânia,"Alameda Santa Maria S/Nº, Setor Aeroporto, Luziânia - Go",Luziânia,GO,,,-16.2658492,-47.9555937
+APS Brasília - Ceilândia,"Qnm 17 Conjunto A, Ceilandia Sul (Ceilandia), Brasília - Ceilândia - Df",Brasília - Ceilândia,DF,,,-15.8173625,-48.1009886
+APS Unaí,"Av. Gov. Valadares, Nº 722, Centro, Unaí - Mg",Unaí,MG,,,-16.359775,-46.9043728
+APS Formosa,"Rua Herculano Lobo, Centro, Formosa - Go",Formosa,GO,,,-15.5425062,-47.3364969
+APS Atendimento Acordos Internacionais Brasília,"Av. W3 Sul Crs 502 Bloco B Lote 08 A 12, Asa Sul, Atendimento Acordos Internacionais Brasília - Df",Atendimento Acordos Internacionais Brasília,DF,,,-15.8006642,-47.8937906
+APS Brasília - Na Hora Ceilândia,"Qnm 11 Area Especial Lote 03, Ceilandia Sul (Ceilandia), Brasília - Na Hora Ceilândia - Df",Brasília - Na Hora Ceilândia,DF,,,-15.8067496,-48.0854887
+APS Posse,,Posse,GO,,,,
+APS Valparaíso De Goiás,"Rua 60 Area 5 A, Jardim Ceu Azul, Valparaíso De Goiás - Go",Valparaíso De Goiás,GO,,,-16.0574787,-48.004338
+APS Cristalina,,Cristalina,GO,,,,
+APS Buritis/Mg,"Rua Jardim Quadra 23, Centro, Buritis - Mg",Buritis,MG,,,-15.6288264,-46.4298542
+APS Padre Bernardo,,Padre Bernardo,GO,,,,
+APS Santo Antônio Do Descoberto,"Quadra 75-A, Centro, Santo Antônio Do Descoberto - Go",Santo Antônio Do Descoberto,GO,,,-15.9469986,-48.26174959999999
+APS Cidade Ocidental,"Sq 10 Quadra 8 Lote 44, Centro, Cidade Ocidental - Go",Cidade Ocidental,GO,,,-16.0723166,-47.9827391
+APS Cruzeiro Do Sul,"Avenida Rodrigues Alves 286, Centro, Cruzeiro Do Sul - Ac",Cruzeiro Do Sul,AC,,,-7.633117299999999,-72.66657479999999
+APS Rio Branco - Bosque,"Rua Alvorada - 271, Bosque, Rio Branco - Ac",Rio Branco,AC,,,-9.9608452,-67.8136119
+APS Rio Branco - Centro,"Av. Getulio Vargas - 647, Centro, Rio Branco - Ac",Rio Branco,AC,,,-9.971517300000002,-67.8111578
+APS Brasiléia,"Rua Odilom Pratagy, 78, Centro, Brasiléia - Ac",Brasiléia,AC,,,-11.0144932,-68.74871089999999
+APS Tarauacá,"Rua Dr° Sansão Gomes N° 91, Centro, Tarauacá - Ac",Tarauacá,AC,,,-8.1604535,-70.76323
+APS Feijó,"Avenida Plácido De Castro, Centro, Feijó - Ac",Feijó,AC,,,-8.1671631,-70.3553952
+APS Sena Madureira,"Rua Virgulino De Alencar, 542, Centro, Sena Madureira - Ac",Sena Madureira,AC,,,-9.0709765,-68.6549797
+APS Macapá,"Rua General Rondon Nº 1039, Juliao Ramos, Macapá - Ap",Macapá,AP,,,0.0386533,-51.0553467
+APS Amapá,,Amapá,AP,,,,
+APS Laranjal Do Jari,"Rua Rio Jari Nº 1183, Agreste, Laranjal Do Jari - Ap",Laranjal Do Jari,AP,,,-0.8439369999999999,-52.5202867
+APS Santana/Ap,"Rua Pedro Salvador Diniz, Hospitalidade, Santana - Ap",Santana,AP,,,-0.0436708,-51.1704035
+APS Porto Grande,"Av.: Mario Cruz S/N, Centro, Porto Grande - Ap",Porto Grande,AP,,,0.7088814,-51.4104271
+APS Oiapoque,,Oiapoque,AP,,,,
+APS Ariquemes,"Av. Juscelino Kubitschek, Setor Institucional, Ariquemes - Ro",Ariquemes,RO,,,-9.9123412,-63.0318576
+APS Cacoal,"Rua General Osorio - De 275 A 509, Princesa Isabel, Cacoal - Ro",Cacoal,RO,,,-11.4420094,-61.4430935
+APS Colorado Do Oeste,"Rua Pontiguara, 3914, Centro, Colorado Do Oeste - Ro",Colorado Do Oeste,RO,,,-13.1217593,-60.5440193
+APS Ji-Paraná,"Rua Presidente Vargas - De 904 A 1076, Centro, Ji-Paraná - Ro",Ji-Paraná,RO,,,-10.8677785,-61.9717408
+APS Ouro Preto Do Oeste,,Ouro Preto Do Oeste,RO,,,,
+APS Porto Velho - Embratel,"Av. Governador Jorge Teixeira - 3325, Liberdade, Porto Velho - Ro",Porto Velho,RO,,,-8.7404156,-63.89053709999999
+APS Rolim De Moura,"Rua Rio Branco, 4466, Centro, Rolim De Moura - Ro",Rolim De Moura,RO,,,-11.7211175,-61.77319720000001
+APS Vilhena,"Av. Rony De Castro Pereira, 3927, Jardim America, Vilhena - Ro",Vilhena,RO,,,-12.735249,-60.1367024
+APS Guajará-Mirim,,Guajará-Mirim,RO,,,,
+APS Jaru,,Jaru,RO,,,,
+APS Pimenta Bueno,"Avenida Castelo Branco, 460, Centro, Pimenta Bueno - Ro",Pimenta Bueno,RO,,,-11.6761888,-61.1863986
+APS Nova Brasilândia,"Av. Jk, 3674, Centro, Nova Brasilândia - Ro",Nova Brasilândia,RO,,,-11.725997,-62.3310542
+APS Machadinho Do Oeste,"Av. Diomero Morais Borba, 2808, Centro, Machadinho Do Oeste - Ro",Machadinho Do Oeste,RO,,,-9.4273101,-62.0025546
+APS Espigão Do Oeste,"Rua Acre Nr 2811, Centro, Espigão Do Oeste - Ro",Espigão Do Oeste,RO,,,-11.5341247,-61.0185096
+APS Presidente Medici/Ro,"Av. Porto Velho, 1123, Centro, Presidente Medici - Ro",Presidente Medici,RO,,,-11.1744747,-61.9063972
+APS Alta Floresta D Oeste,"Av. Brasil, 3374, Centro, Alta Floresta D Oeste - Ro",Alta Floresta D Oeste,RO,,,-11.9294247,-62.0127215
+APS Buritis/Ro,"Rua Rondônia, 2251, Setor 3, Buritis/Ro - Ro",Buritis/Ro,RO,,,-10.2005784,-63.83388479999999
+APS São Miguel Do Guaporé,"Av. 16 De Junho, C/C Av. Noroeste, S/N, Centro, São Miguel Do Guaporé - Ro",São Miguel Do Guaporé,RO,,,-11.6974688,-62.7153352
+APS Nova Mamoré,"Av. Desidério Domingos Lopes, 3000, Centro, Nova Mamoré - Ro",Nova Mamoré,RO,,,-10.3963786,-65.3250055
+APS Boa Vista/Rr,"Av. Glaycon De Paiva, 132, Centro, Boa Vista - Rr",Boa Vista,RR,,,2.8204027,-60.67485070000001
+APS Caracaraí,"Av. Dr. Zanny, S/N, Centro, Caracaraí - Rr",Caracaraí,RR,,,1.8172089,-61.1276426
+APS Rorainópolis,"Rua Valdenor Maciel, 347, Centro, Rorainópolis - Rr",Rorainópolis,RR,,,0.9444192,-60.42850869999999
+APS Alto Alegre/Rr,"Avenida Primeiro De Julho, Centro, Alto Alegre - Rr",Alto Alegre,RR,,,2.9912248,-61.3133534
+APS Araguaína,"Rua Gaucha 351, Setor Central, Araguaína - To",Araguaína,TO,,,-7.189621600000001,-48.2132468
+APS Gurupi,"Av. Rio De Janeiro, 1527, Setor Central, Gurupi - To",Gurupi,TO,,,-11.7234322,-49.0767452
+APS Miracema Do Tocantins,,Miracema Do Tocantins,TO,,,,
+APS Palmas/To,"201 Sul, Conjunto 02, Lote 05, Plano Diretor Sul, Palmas - To",Palmas,TO,,,-10.192646,-48.3338558
+APS Araguatins,"Rua Bartolomeu Bueno Da Silva, Nº 1.111, Setor Central, Araguatins - To",Araguatins,TO,,,-5.650531200000001,-48.1156654
+APS Arraias,"Av. Jk, Quadra S, Lote 2D/2E, Setor Central, Arraias - To",Arraias,TO,,,-11.7288556,-49.0723613
+APS Dianópolis,,Dianópolis,TO,,,,
+APS Paraíso Do Tocantins,,Paraíso Do Tocantins,TO,,,,
+APS Porto Nacional,,Porto Nacional,TO,,,,
+APS Tocantinópolis,"Rua Horacio Negreiro Qd. 93 Lote 04A, Setor Central, Tocantinópolis - To",Tocantinópolis,TO,,,-6.3272597,-47.4301085
+APS Colinas Do Tocantins,"Rua 07, Quadra 33 A, Lote 05 B, Setor Central, Colinas Do Tocantins - To",Colinas Do Tocantins,TO,,,-7.1898113,-48.2070182
+APS Guaraí,"Rua Oito, Setor Central, Guaraí - To",Guaraí,TO,,,-8.838090700000002,-48.5123571
+APS Itacoatiara,"Avenida Antonio Serudo Martins, 878, Jauari I, Itacoatiara - Am",Itacoatiara,AM,,,-3.1349372,-58.4451872
+APS Manaus - Porto,"Rua Leovegildo Coelho, Centro, Manaus - Am",Manaus,AM,,,-3.1384751,-60.0215028
+APS Manaus - Centro,"Rua Da Instalação, 149, Centro, Manaus - Am",Manaus,AM,,,-3.1332555,-60.0261755
+APS Manaus - Cidade Nova,"Av. Noel Nutells, 1.111, Cidade Nova, Manaus - Am",Manaus,AM,,,-3.0341939,-59.9936051
+APS Manaus - Codajás,"Av. Marcos Da Silveira, S/N, Sao Francisco, Manaus - Am",Manaus,AM,,,-3.115649,-60.0021493
+APS Manaus - Compensa,"Rua Izaurina Braga, S/N, Compensa, Manaus - Am",Manaus,AM,,,-3.1011396,-60.0542305
+APS Manaus - Aleixo,"Av. André Araújo, Nº 2335, Aleixo, Manaus - Am",Manaus,AM,,,-3.1044474,-60.0001761
+APS Manaus - São José,"Rua Barreirinha, 253 - S. J. Operário Ii, Sao Jose Operario, Manaus - Am",Manaus,AM,,,-3.0733137,-59.9566473
+APS Parintins,"Rua Pedro Goncalves, Raimundo Muniz, Parintins - Am",Parintins,AM,,,-2.630945,-56.7326081
+APS Manacapuru,"Avenida Eduardo Ribeiro, 457, Centro, Manacapuru - Am",Manacapuru,AM,,,-3.299794,-60.6251864
+APS Maués,,Maués,AM,,,,
+APS Autazes,"Rua Francisco Barroncas S/N, Santa Luzia, Autazes - Am",Autazes,AM,,,-3.5844818,-59.1298431
+APS Presidente Figueiredo,"Br 174 Km 107 S/N, Centro, Presidente Figueiredo - Am",Presidente Figueiredo,AM,,,-2.0516612,-60.02450649999999
+APS Boca Do Acre,"Rua Bl02, Lote 04, Quadra 36, Plato Do Piquia, Boca Do Acre - Am",Boca Do Acre,AM,,,-8.7725226,-67.33219919999999
+APS São Gabriel Da Cachoeira,"Avenida 31 De Março S/N, Centro, São Gabriel Da Cachoeira - Am",São Gabriel Da Cachoeira,AM,,,-0.1333808,-67.0874815
+APS Iranduba,"Avenida Solimões S/N, Centro, Iranduba - Am",Iranduba,AM,,,-3.2776982,-60.1897711
+APS Rio Preto Da Eva,"Rua Governador Pimenta Bueno, Centro, Rio Preto Da Eva - Am",Rio Preto Da Eva,AM,,,-2.6981994,-59.69936180000001
+APS Nova Olinda Do Norte,"Rua Getulio Vargas Bairro Nsa Sra Fatima, Centro, Nova Olinda Do Norte - Am",Nova Olinda Do Norte,AM,,,-3.8884748,-59.0919786
+APS Manicoré,"Rua Santos Dumond Bairro Auxiliadora, Centro, Manicoré - Am",Manicoré,AM,,,-5.8131866,-61.29898999999999
+APS Tefé,"Rua Joaquim Nabuco - 92, Santo Antonio, Tefé - Am",Tefé,AM,,,-3.3511004,-64.71013040000001
+APS Benjamin Constant,"R. Castelo Branco, 346, Centro, Benjamin Constant - Am",Benjamin Constant,AM,,,-4.37794,-70.01273030000002
+APS Coari,"Rua Jonathas Pedrosa 138, Centro, Coari - Am",Coari,AM,,,-4.0918786,-63.14228689999999
+APS Eirunepé,"Rua Otaviano Melo S/N, Centro, Eirunepé - Am",Eirunepé,AM,,,-6.6564491,-69.875738
+APS Tabatinga/Am,"R. Rui Barbosa 846, Centro, Tabatinga - Am",Tabatinga,AM,,,-4.2259251,-69.927179
+APS Lábrea,"Travessa Padre Monteiro S/N, Centro, Lábrea - Am",Lábrea,AM,,,-7.2610831,-64.7968261
+APS Santo Antônio Do Içá,,Santo Antônio Do Içá,AM,,,,
+APS Camaçari,"Avenida Do Contorno, 400, Dois De Julho, Camaçari - Ba",Camaçari,BA,,,-12.7073296,-38.3231594
+APS Salvador - Bonfim,"Av. Dendezeiros Do Bonfim, 141, Bonfim, Salvador - Ba",Salvador,BA,,,-12.930467,-38.5070921
+APS Salvador - Brotas,"Rua Ariston Bertino De Carvalho, Brotas, Salvador - Ba",Salvador,BA,,,-12.9871021,-38.48336
+APS Salvador - Comércio,"Rua Da Polonia, Comercio, Salvador - Ba",Salvador,BA,,,-12.9700128,-38.5113055
+APS Salvador - Centro Histórico,"Rua Jose Goncalves Ed Otacilio Gualberto, Centro, Salvador - Ba",Salvador,BA,,,-12.9744161,-38.5115281
+APS Salvador - Itapuã,"Av. Dorival Caymmi 495, Itapua, Salvador - Ba",Salvador,BA,,,-12.9389124,-38.3621323
+APS Salvador - Mercês,"Av. Sete De Setembro 1078, Dois De Julho, Salvador - Ba",Salvador,BA,,,-12.9851726,-38.5191132
+APS Salvador - Periperi,"Rua Da Gloria, Periperi, Salvador - Ba",Salvador,BA,,,-12.8618843,-38.4696004
+APS Salvador - Rua Odilon Dórea,"Rua Odilon Dorea S/N Terreo, Brotas, Salvador - Ba",Salvador,BA,,,-12.9868777,-38.4841871
+APS Santo Amaro,"Avenida Ferreira Bandeira S/N, Centro, Santo Amaro - Ba",Santo Amaro,BA,,,-12.5508484,-38.7090809
+APS Alagoinhas,"Rua Silva Jardim, Silva Jardim, Alagoinhas - Ba",Alagoinhas,BA,,,-12.1377392,-38.4346936
+APS Esplanada,"Rua Pedro Moreira De Souza, Centro, Esplanada - Ba",Esplanada,BA,,,-11.7956851,-37.9447996
+APS Lauro De Freitas,"Rua Romualdo De Brito N 08, Centro, Lauro De Freitas - Ba",Lauro De Freitas,BA,,,-12.8955267,-38.325032
+APS Candeias - Desativada,"Av. Ernani Oliveira Rocha, 2.512, Centro, Candeias - Ba",Candeias,BA,,,-12.5143131,-38.4965251
+APS Catu,"Avenida Geonisio Barroso, Centro, Catu - Ba",Catu,BA,,,-12.3624052,-38.3836617
+APS Dias D Avila,,Dias D Avila,BA,,,,
+APS Mata De São João,"Praça Barao Acu Da Torre, Centro, Mata De São João - Ba",Mata De São João,BA,,,-12.5296954,-38.2963484
+APS Pojuca,"Rua J J Seabra S/N, Centro, Pojuca - Ba",Pojuca,BA,,,-12.4323937,-38.3267191
+APS São Sebastião Do Passé,"Av. Ernani Oliveira Rocha, 2.512, Centro, São Sebastião Do Passé - Ba",São Sebastião Do Passé,BA,,,-12.5143131,-38.4965251
+APS Simões Filho,"Av. Walter Aragão De Souza, Centro, Simões Filho - Ba",Simões Filho,BA,,,-12.7852154,-38.3741902
+APS Barreiras,"Av. Cleriston Andrade -743, Juscelino Kubitschek, Barreiras - Ba",Barreiras,BA,,,-12.1444786,-44.9895176
+APS Bom Jesus Da Lapa,,Bom Jesus Da Lapa,BA,,,,
+APS Boquira,"Av. Do Acesso, S/N, Centro, Boquira - Ba",Boquira,BA,,,-12.8211547,-42.73121159999999
+APS Xique-Xique,"Av. Cicinato Figueiredo Santos, S/N, Centro, Xique-Xique - Ba",Xique-Xique,BA,,,-10.8236971,-42.7209825
+APS Barra,,Barra,BA,,,,
+APS Ibotirama,"Rua General Teixeira Lott, Centro, Ibotirama - Ba",Ibotirama,BA,,,-12.1819149,-43.2202574
+APS São Félix Do Coribe,"Av. Ernesto Geisel, 55, Centro, São Félix Do Coribe - Ba",São Félix Do Coribe,BA,,,-13.3996833,-44.1961365
+APS Serra Do Ramalho,"Rua Rio De Janeiro S/N, Centro, Serra Do Ramalho - Ba",Serra Do Ramalho,BA,,,-13.5413338,-43.5774778
+APS Santana/Ba,"Rua Barão Do Rio Branco, 05, Centro, Santana/Ba - Ba",Santana/Ba,BA,,,-12.2550087,-38.9725679
+APS Santa Maria Da Vitória,"Rua Castelo Branco, Centro, Santa Maria Da Vitória - Ba",Santa Maria Da Vitória,BA,,,-13.3845079,-44.1972443
+APS Paratinga,"Avenida José Duarte Porto, Qd. 04 S/N, Centro, Paratinga - Ba",Paratinga,BA,,,-12.6932095,-43.1843294
+APS São Desidério,,São Desidério,BA,,,,
+APS Formosa Do Rio Preto,"Av. Matriz, N.º 438, Centro, Formosa Do Rio Preto - Ba",Formosa Do Rio Preto,BA,,,-11.0488716,-45.1933927
+APS Santa Rita De Cassia,"Rua Maria Laurinda, Centro, Santa Rita De Cassia - Ba",Santa Rita De Cassia,BA,,,-10.9987144,-44.5121765
+APS Riachão Das Neves,"Rua Presidente Vargas 1000, Centro, Riachão Das Neves - Ba",Riachão Das Neves,BA,,,-11.74676,-44.9096615
+APS Oliveira Dos Brejinhos,"Praça Carmerindo José Pereira, Centro, Oliveira Dos Brejinhos - Ba",Oliveira Dos Brejinhos,BA,,,-12.3186817,-42.8925873
+APS Luis Eduardo Magalhães,"Rua Raquel De Queiroz, Santa Cruz, Luis Eduardo Magalhães - Ba",Luis Eduardo Magalhães,BA,,,-12.0988392,-45.7942233
+APS Amélia Rodrigues,"Ru A Angelo Cardoso S/N, Centro, Amélia Rodrigues - Ba",Amélia Rodrigues,BA,,,-12.3961566,-38.7586257
+APS Conceição Do Coité,"Rua Ildebrando Iedo Cirino Araujo, Centro, Conceição Do Coité - Ba",Conceição Do Coité,BA,,,-11.5628404,-39.282995
+APS Feira De Santana,"Rua N, Conjunto Milton Gomes, Queimadinha, Feira De Santana - Ba",Feira De Santana,BA,,,-12.2345554,-38.9623502
+APS Ipirá/Ba,"Praça Santana. S/N, Centro, Ipirá - Ba",Ipirá,BA,,,-12.1551851,-39.7344365
+APS Itaberaba,"Av.Brigadeiro Eduardo Gomes, 297, Centro, Itaberaba - Ba",Itaberaba,BA,,,-12.5288932,-40.3108385
+APS Jequié,"Rua Edval Teixeira, Centro, Jequié - Ba",Jequié,BA,,,-13.8634971,-40.0781022
+APS Mundo Novo/Ba,"Rua Numa Alves Barreto, Centro, Mundo Novo - Ba",Mundo Novo,BA,,,-11.8743374,-40.4613415
+APS Riachão Do Jacuípe,"Praça Julieta Cana Brasil, Centro, Riachão Do Jacuípe - Ba",Riachão Do Jacuípe,BA,,,-11.8104811,-39.3846341
+APS Serrinha/Ba,"Rua Cornelio Paz S/N, Centro, Serrinha - Ba",Serrinha,BA,,,-11.6648223,-39.0028099
+APS Seabra,"Rua 22 De Abril S/N, Centro, Seabra - Ba",Seabra,BA,,,-12.4303142,-41.7700352
+APS Feira De Santana - Muchila,"Rua Doutor Macario Cerqueira, 313, Muchila, Feira De Santana - Ba",Feira De Santana,BA,,,-12.2633712,-38.9700617
+APS Ichu,"Rua Juvêncio Carneiro De Oliveira, Centro, Ichu - Ba",Ichu,BA,,,-11.7487339,-39.1907121
+APS Iraquara,"Rua Rosalvo Felix, Centro, Iraquara - Ba",Iraquara,BA,,,-12.244135,-41.618617
+APS Itiruçú,"Rua Ludovico Farias . Catunda, 100, Centro, Itiruçú - Ba",Itiruçú,BA,,,-12.2556441,-38.9641978
+APS Ruy Barbosa/Ba,"Rua Mato Grosso, S/N, Centro, Ruy Barbosa - Ba",Ruy Barbosa,BA,,,-12.2798839,-40.4960063
+APS Irará,"Rua Padre Jocundo Paolilo, Centro, Irará - Ba",Irará,BA,,,-12.0370731,-38.7684898
+APS Queimadas/Ba,"Alto Da Chacrinha, Centro, Queimadas - Ba",Queimadas,BA,,,-10.9797281,-39.6223611
+APS Santo Estevão,"Av. Getulio Vargas, 04, Centro, Santo Estevão - Ba",Santo Estevão,BA,,,-12.4304104,-39.2505917
+APS Valente,"Rua Olegário Lopes Da Cunha, Centro, Valente - Ba",Valente,BA,,,-11.415245,-39.4639871
+APS Piatã,,Piatã,BA,,,-23.4682428,-46.2687761
+APS Eunápolis,"Rua Paulino Mendes Lima - S/N, Centro, Eunápolis - Ba",Eunápolis,BA,,,-16.3778195,-39.5884432
+APS Ilhéus,"Rua Marques De Paranagua, 150, Centro, Ilhéus - Ba",Ilhéus,BA,,,-14.798951,-39.0346003
+APS Ipiaú,"Avenida Pensilvânia Nº 1, Centro, Ipiaú - Ba",Ipiaú,BA,,,-14.1288899,-39.7358983
+APS Itabuna,"Av. Ilheus, 45, Centro, Itabuna - Ba",Itabuna,BA,,,-14.785777,-39.2738442
+APS Itamaraju,"Praça Da Indepedência S/N, Centro, Itamaraju - Ba",Itamaraju,BA,,,-17.0444142,-39.5391992
+APS Teixeira De Freitas,"Rua Ministro Alfredo Buzaid, 549, Monte Castelo, Teixeira De Freitas - Ba",Teixeira De Freitas,BA,,,-17.5404957,-39.722966
+APS Camacan,"Av. Dos Pinheiros, 270, Ed Anisio Loureiro, Centro, Camacan - Ba",Camacan,BA,,,-15.4201038,-39.49640369999999
+APS Canavieiras,"Rua Rui Barbosa 432, Centro, Canavieiras - Ba",Canavieiras,BA,,,-15.6786593,-38.9431021
+APS Caravelas,"Praça Teófilo Otoni, 168, Centro, Caravelas - Ba",Caravelas,BA,,,-17.7352644,-39.2632353
+APS Coaraci,"Rua Maria Quitéria, 120, Centro, Coaraci - Ba",Coaraci,BA,,,-16.3768807,-39.5827782
+APS Gandu,"Rua Castro Alves, 85, Centro, Gandu - Ba",Gandu,BA,,,-12.4317737,-38.3249527
+APS Porto Seguro,"Praça Acm, S/N, Centro, Porto Seguro - Ba",Porto Seguro,BA,,,-16.4483621,-39.063831
+APS Itabela,"Rua Carmilton Bonfim De Souza, S/N, Centro, Itabela - Ba",Itabela,BA,,,-16.5713396,-39.5628859
+APS Mucuri,,Mucuri,BA,,,,
+APS Prado,,Prado,BA,,,,
+APS Ibicarai,"Rua Profa Waldir Pinto Montenegro Matos, Centro, Ibicarai - Ba",Ibicarai,BA,,,-14.8658723,-39.5903556
+APS Medeiros Neto,,Medeiros Neto,BA,,,,
+APS Itanhém,"Rua Dom Pedro Ii, S/N, Centro, Itanhém - Ba",Itanhém,BA,,,-17.1914007,-40.3496894
+APS Ibirataia,"Praça Dez De Novembro, S/N, Centro, Ibirataia - Ba",Ibirataia,BA,,,-22.8909475,-43.1188789
+APS Ibirapitanga,"Rua Alto Do Carmelo, S/N, Centro, Ibirapitanga - Ba",Ibirapitanga,BA,,,-14.1605719,-39.3718444
+APS Belmonte/Ba,"Travessa Visconde De Cairu, Centro, Belmonte - Ba",Belmonte,BA,,,-15.8644279,-38.8803487
+APS Ubaitaba,"Avenida Vasco Neto, S/N - Centro, Centro, Ubaitaba - Ba",Ubaitaba,BA,,,-14.3112141,-39.3240003
+APS Euclides Da Cunha,"Rua Rômulo Galvão, 66, Centro, Euclides Da Cunha - Ba",Euclides Da Cunha,BA,,,-10.5078999,-39.0147815
+APS Irecê,"Rua Trinta E Três, S/Nº, Centro, Irecê - Ba",Irecê,BA,,,-11.2937082,-41.8505785
+APS Jacobina,"Rua Sílvio Dias Pires, S/Nº, Centro, Jacobina - Ba",Jacobina,BA,,,-11.1865225,-40.5193449
+APS Jaguarari,"Rua Castro Alves, Nº 7, Centro, Jaguarari - Ba",Jaguarari,BA,,,-10.2594828,-40.1960699
+APS Juazeiro,"Av. Dr. Adolfo Viana, S/Nº, Centro, Juazeiro - Ba",Juazeiro,BA,,,-9.3993151,-40.5445276
+APS Miguel Calmon,"Praça Quinze De Novembro, S/Nº, Centro, Miguel Calmon - Ba",Miguel Calmon,BA,,,-11.4287018,-40.5947958
+APS Morro Do Chapéu,"Rua Nilo Peçanha, 32, Centro, Morro Do Chapéu - Ba",Morro Do Chapéu,BA,,,-11.551713,-41.157203
+APS Remanso,"Rua Ruy Ribeiro, S/N Quadra 6, Centro, Remanso - Ba",Remanso,BA,,,-12.9859518,-38.5200395
+APS Senhor Do Bonfim,"Praça Alexandre Góes, 187, Centro, Senhor Do Bonfim - Ba",Senhor Do Bonfim,BA,,,-10.4586633,-40.1890615
+APS Paulo Afonso,"Av. Apolônio Sales, 915, Centro, Paulo Afonso - Ba",Paulo Afonso,BA,,,-9.398716900000002,-38.2264415
+APS Ribeira Do Pombal,"Travessa Getúlio Vargas, S/N, Centro, Ribeira Do Pombal - Ba",Ribeira Do Pombal,BA,,,-10.8364886,-38.5439651
+APS Paripiranga,"Travessa Artur Trindade, S/N, Centro, Paripiranga - Ba",Paripiranga,BA,,,-12.2556441,-38.9641978
+APS Tucano,"Pç Vigário Martins, Nº 61, Centro, Tucano - Ba",Tucano,BA,,,-10.9654492,-38.7857485
+APS Campo Alegre De Lourdes,"Rua Lauro De Freitas, S/N, Centro, Campo Alegre De Lourdes - Ba",Campo Alegre De Lourdes,BA,,,-9.5201114,-43.0136625
+APS Amargosa,"Praca Da Bandeira, S/N, Centro, Amargosa - Ba",Amargosa,BA,,,-13.0320003,-39.6003457
+APS Cruz Das Almas,"Rua 31 De Agosto, S/N, Centro, Cruz Das Almas - Ba",Cruz Das Almas,BA,,,-12.6718752,-39.1039317
+APS Maragogipe,,Maragogipe,BA,,,,
+APS Muritibá,"Praca Castro Alves, 48, Centro, Muritibá - Ba",Muritibá,BA,,,-12.9769754,-38.5145718
+APS Nazaré/Ba,"Rua Ferreira Bastos, Nº 02, Centro, Nazaré - Ba",Nazaré,BA,,,-13.0308964,-39.016143
+APS Santo Antônio De Jesus,"Rua Jd.Bahia, S/N, Centro, Santo Antônio De Jesus - Ba",Santo Antônio De Jesus,BA,,,-12.9698766,-39.26171069999999
+APS São Félix,"Av.Coronel. Severino Da Luz Neto, 02, Centro, São Félix - Ba",São Félix,BA,,,-12.6077699,-38.9719862
+APS Sapeaçú,"Praça Da Matriz, Nº 344, Centro, Sapeaçú - Ba",Sapeaçú,BA,,,-12.2595671,-38.9675892
+APS Valença/Ba,"Rua Dom Pedro Ii, 191, Centro, Valença - Ba",Valença,BA,,,-13.3723356,-39.0718037
+APS Castro Alves,"Av. Rafael Jambeiro, 64, Centro, Castro Alves - Ba",Castro Alves,BA,,,-12.7630509,-39.4276488
+APS Ituberá,"Praça Domingos Wilson Alves Pereira, S/N, Centro, Ituberá - Ba",Ituberá,BA,,,-13.7352913,-39.1464519
+APS Mutuipe,"Av. Cruzeiro 1423, Centro, Mutuipe - Ba",Mutuipe,BA,,,-13.2273079,-39.5143239
+APS Vera Cruz/Ba,,Vera Cruz,BA,,,,
+APS Presidente Tancredo Neves,"Rua Nossa Senhora Aparecida 55, Centro, Presidente Tancredo Neves - Ba",Presidente Tancredo Neves,BA,,,-13.4563927,-39.4159365
+APS Camamu,,Camamu,BA,,,,
+APS Brumado,"Rua Teodoro Sampaio, 118, Centro, Brumado - Ba",Brumado,BA,,,-14.202175,-41.6640826
+APS Caetité,"Rua Rui Barbosa, 206, Centro, Caetité - Ba",Caetité,BA,,,-14.0680359,-42.4880356
+APS Guanambi,"Av. Inês Yara Teixeira Cotrin, 344, Centro, Guanambi - Ba",Guanambi,BA,,,-14.215688,-42.80207499999999
+APS Itapetinga,"Rua Olímpio Vieira, Nº 47, Centro, Itapetinga - Ba",Itapetinga,BA,,,-15.246104,-40.2455653
+APS Livramento De Nossa Senhora,"Av. Dr. Nelson Leal, 189, Centro, Livramento De Nossa Senhora - Ba",Livramento De Nossa Senhora,BA,,,-13.6491136,-41.843435
+APS Poções,"Rua 26 De Junho, S/Nº, Centro, Poções - Ba",Poções,BA,,,-14.5250654,-40.3682858
+APS Vitória Da Conquista,"Av. Rosa Cruz 06, Candeias, Vitória Da Conquista - Ba",Vitória Da Conquista,BA,,,-14.8563057,-40.8273526
+APS Condeúba,"Pç Jovino Acenio Da Silva N 48, Centro, Condeúba - Ba",Condeúba,BA,,,-14.8503277,-40.844989
+APS Barra Do Choça,"Av. Aureliano Barbosa Santana, S/N, Centro, Barra Do Choça - Ba",Barra Do Choça,BA,,,-14.8659489,-40.5778538
+APS Itororó,"Rua 26 De Abril, S/N, Centro, Itororó - Ba",Itororó,BA,,,-15.1163635,-40.0722164
+APS Iguaí,"Rua Salviano Marques, S/N, Centro, Iguaí - Ba",Iguaí,BA,,,-14.7564225,-40.08968
+APS Cândido Sales,"Rua José Porto, S/N, Centro, Cândido Sales - Ba",Cândido Sales,BA,,,-15.5053485,-41.232665
+APS Encruzilhada,"Pça. Nelson Pales De Oliveira, S/N, Centro, Encruzilhada - Ba",Encruzilhada,BA,,,-15.5329871,-40.9103203
+APS Itambé/Ba,"Rua Almirante Barroso, S/N, Centro, Itambé - Ba",Itambé,BA,,,-14.7942485,-39.277587
+APS Anagé,"Rua Claudionor Silva, S/N, Centro, Anagé - Ba",Anagé,BA,,,-14.6234329,-41.1368011
+APS Caculé,,Caculé,BA,,,,
+APS Paramirim,"R. Avelino Bonfim, S/N, Centro, Paramirim - Ba",Paramirim,BA,,,-13.4474862,-42.2416397
+APS Riacho De Santana/Ba,,Riacho De Santana,BA,,,,
+APS Barra Da Estiva,,Barra Da Estiva,BA,,,,
+APS Palmas De Monte Alto,"Tv. Do Japonês, S/N, Centro, Palmas De Monte Alto - Ba",Palmas De Monte Alto,BA,,,-14.261622,-43.165521
+APS Carinhanha,,Carinhanha,BA,,,,
+APS Planalto,,Planalto,BA,,,,
+APS Aracati,"Pca Coronel Raimundo Porto, S/Nº, Centro, Aracati - Ce",Aracati,CE,,,-4.5653618,-37.7702659
+APS Baturité,"Av. 7 De Stembro, 1104, Centro, Baturité - Ce",Baturité,CE,,,-4.3300572,-38.8803261
+APS Cascavel/Ce,"R. Coronel Leite, S/N, Centro, Cascavel - Ce",Cascavel,CE,,,-5.4983977,-39.3206241
+APS Caucaia,"Rua Antonio Guedes Pessoa, Padre Romualdo, Caucaia - Ce",Caucaia,CE,,,-3.7255074,-38.6563903
+APS Fortaleza - Aldeota,"Av. Desembargador Moreira, Nº 1135, Aldeota, Fortaleza - Ce",Fortaleza,CE,,,-3.7354889,-38.4978418
+APS Fortaleza - Centro-Oeste,"Rua Princesa Isabel, Nº 1611, Farias Brito, Fortaleza - Ce",Fortaleza,CE,,,-3.7350082,-38.537741
+APS Fortaleza - Jacarecanga,"Rua Guilherme Rocha, 1624, Centro, Fortaleza - Ce",Fortaleza,CE,,,-3.722573199999999,-38.5402029
+APS Fortaleza - Sul,"Av. Doutor Valmir Ponte, Edson Queiroz, Fortaleza - Ce",Fortaleza,CE,,,-3.7712532,-38.4790064
+APS Fortaleza - Messejana,"Rua Manuel Castelo Branco, 248, Messejana, Fortaleza - Ce",Fortaleza,CE,,,-3.8320497,-38.4927533
+APS Fortaleza - Damas,"Rua Machado De Assis, 525, Damas, Fortaleza - Ce",Fortaleza,CE,,,-3.7506518,-38.5491955
+APS Fortaleza - Parquelândia,"Rua Pedro De Queiroz, 265, Parquelandia, Fortaleza - Ce",Fortaleza,CE,,,-3.7373478,-38.5599685
+APS Fortaleza - Centro,"Rua Pedro Pereira 383, Centro, Fortaleza - Ce",Fortaleza,CE,,,-3.729675799999999,-38.5289146
+APS Maranguape,"Rua Coronel Antonio Botelho, 153, Centro, Maranguape - Ce",Maranguape,CE,,,-3.893777199999999,-38.6838639
+APS Pacajus,"Rua Guarani, 806, Centro, Fortaleza - Ce",Fortaleza,CE,,,-3.7659115,-38.5811965
+APS Redenção/Ce,"Rua Santos Dumont, 177, Centro, Redenção - Ce",Redenção,CE,,,-4.2229675,-38.7261735
+APS Russas,"Av. Dom Lino, Nº 346, Centro, Russas - Ce",Russas,CE,,,-4.9348804,-37.9704553
+APS Canindé,"Rua Simão Barbosa, S/N, Centro, Canindé - Ce",Canindé,CE,,,-4.363796,-39.3149724
+APS Quixadá,"Rua Florencio Lopes, 171, Combate, Quixadá - Ce",Quixadá,CE,,,-4.974161899999999,-39.02090570000001
+APS Quixeramobim,"Rua Raimundo Rodrigues, S/N, Centro, Quixeramobim - Ce",Quixeramobim,CE,,,-5.1953772,-39.2893652
+APS Boa Viagem,"Rua Antonio Queiroz, S/N, Centro, Boa Viagem - Ce",Boa Viagem,CE,,,-5.1260365,-39.7322908
+APS Maracanaú,"Anel Viário, 4 De Julho, S/N, Centro, Maracanaú - Ce",Maracanaú,CE,,,-3.8828508,-38.61428
+APS Pacatuba/Ce,"Anel Viario, 4 De Julho, S/N, Centro, Pacatuba - Ce",Pacatuba,CE,,,-3.8829431,-38.6136826
+APS Paracuru,"Rua São João Evangelista, S/N, Centro, Paracuru - Ce",Paracuru,CE,,,-3.4189455,-39.0294485
+APS Horizonte,"Rua Antonio Augustinho Da Silva, S/N, Centro, Horizonte - Ce",Horizonte,CE,,,-4.1014231,-38.4996312
+APS São Gonçalo Do Amarante/Ce,"Rua Coronel Doca Paraíba, Centro, São Gonçalo Do Amarante - Ce",São Gonçalo Do Amarante,CE,,,-3.609623,-38.966671
+APS Pentecoste,"Rua Vicente Feijó De Melo, S/N, Centro, Pentecoste - Ce",Pentecoste,CE,,,-3.7883772,-39.2750667
+APS Beberibe,"Rua D 211 Qu 07 Loteamento Racine Facó, Centro, Beberibe - Ce",Beberibe,CE,,,-4.181328,-38.1362168
+APS Paraipaba,"Rua João Viana Pessoa, S/N, Centro, Paraipaba - Ce",Paraipaba,CE,,,-3.43766,-39.1482338
+APS Aracoiaba/Ce,"Rua Raimundo De Castro E Silva, S/N, Centro, Aracoiaba - Ce",Aracoiaba,CE,,,-4.3739456,-38.8093254
+APS Tabuleiro Do Norte,"Pedro Pessoa, S/N, Centro, Tabuleiro Do Norte - Ce",Tabuleiro Do Norte,CE,,,-5.2442957,-38.1284685
+APS Limoeiro Do Norte,"Rua Jose Candido De Sousa, 1180, Centro, Limoeiro Do Norte - Ce",Limoeiro Do Norte,CE,,,-5.155419,-38.103262
+APS Ocara,"Rua Cassiano Correia, 121, Centro, Ocara - Ce",Ocara,CE,,,-4.4899665,-38.5993854
+APS Morada Nova,"Rua Divino Espirito Santo, S/N, Centro, Morada Nova - Ce",Morada Nova,CE,,,-5.1084431,-38.371994
+APS Jaguaribe,"Rua Eliziário Pinheiro, S/N, Centro, Jaguaribe - Ce",Jaguaribe,CE,,,-5.8952962,-38.6229465
+APS Iracema/Ce,"Rua Francisco Roque De Oliveira, Lt36/72, Centro, Iracema - Ce",Iracema,CE,,,-5.8085765,-38.3113254
+APS Aquiraz,"Rua João Lima S/N, Centro, Aquiraz - Ce",Aquiraz,CE,,,-3.9062715,-38.3874893
+APS Acopiara,"Rua Pe. Leopoldo Rolim S/N, Centro, Acopiara - Ce",Acopiara,CE,,,-6.0923879,-39.4513207
+APS Assaré,"Rua Euclides Onofre, 218, Centro, Assaré - Ce",Assaré,CE,,,-6.8731537,-39.8717979
+APS Barbalha,"R: T 12- Bairro Sto. Antonio., Centro, Barbalha - Ce",Barbalha,CE,,,-7.3213778,-39.3001872
+APS Campos Sales,"Av. Francisco Ademar De Andrade., Centro, Campos Sales - Ce",Campos Sales,CE,,,-7.0776455,-40.3752905
+APS Crato,"Rua Jose Marrocos - De 1 Ao Fim, Pinto Madeira, Crato - Ce",Crato,CE,,,-7.2358943,-39.4092317
+APS Icó,"Rua Carlos Lineman Peixoto, S/N, Centro, Icó - Ce",Icó,CE,,,-6.4076086,-38.8599287
+APS Iguatu/Ce,"Rua Engenheiro Wilton Correa Lima 45, Prado, Iguatu - Ce",Iguatu,CE,,,-6.3688247,-39.2953312
+APS Juazeiro Do Norte,"Rua Santa Luzia, 287/295, Centro, Juazeiro Do Norte - Ce",Juazeiro Do Norte,CE,,,-7.2037464,-39.3185672
+APS Mombaça,"R. Nossa Senhora Do Perpétuo Socorro S/N, Centro, Mombaça - Ce",Mombaça,CE,,,-5.7419856,-39.6269112
+APS Senador Pompeu,"Avenida Senador Carlos Jereissate S/N, Centro, Senador Pompeu - Ce",Senador Pompeu,CE,,,-5.5874425,-39.373166
+APS Brejo Santo,"Rua Coronel Nicodemos, 61, Centro, Brejo Santo - Ce",Brejo Santo,CE,,,-7.4903267,-38.98332509999999
+APS Missão Velha,"Rua Coronel José Dantas, S/N, Centro, Missão Velha - Ce",Missão Velha,CE,,,-7.2496506,-39.1461569
+APS Oros,"Rua Iluminada, S/N, Centro, Oros - Ce",Oros,CE,,,-3.7329688,-38.5264661
+APS Araripe,"Rua Vicente Alencar Barbosa, Centro, Araripe - Ce",Araripe,CE,,,-7.2126023,-40.130208
+APS Mauriti,,Mauriti,CE,,,,
+APS Pedra Branca/Ce,"Rua Antonio Frutuoso Duarte 125, Centro, Pedra Branca - Ce",Pedra Branca,CE,,,-5.4540384,-39.721276
+APS Caririaçu,"Rua Joaquim Santana S/N, Centro, Caririaçu - Ce",Caririaçu,CE,,,-7.0417977,-39.2855054
+APS Milagres/Ce,"Rua Pedro Leite Da Cunha, Centro, Milagres - Ce",Milagres,CE,,,-7.3132183,-38.9495813
+APS Aurora/Ce,"R: Cel. José Leite 285, Centro, Aurora - Ce",Aurora,CE,,,-6.9435083,-38.9657863
+APS Cedro/Ce,"R: Cel. Antonio Afonso S/N, Centro, Cedro - Ce",Cedro,CE,,,-6.6075391,-39.0570238
+APS Lavras Da Mangabeira,"R: Tenente Raimundo Lima /S/N, Centro, Lavras Da Mangabeira - Ce",Lavras Da Mangabeira,CE,,,-6.7524744,-38.9630747
+APS Barro,"Av. Dep Januario Feitosa, Centro, Barro - Ce",Barro,CE,,,-7.181512799999999,-38.780441
+APS Camocim,"Rua Da Independência, S/N, Centro, Camocim - Ce",Camocim,CE,,,-2.8989348,-40.8468184
+APS Crateús,"Rua Dom Pedro Ii, 504, Centro, Crateús - Ce",Crateús,CE,,,-5.1763018,-40.6681446
+APS Guaraciaba Do Norte,"Rua Tancredo De Sousa Carvalho, 113-B, Centro, Guaraciaba Do Norte - Ce",Guaraciaba Do Norte,CE,,,-4.160857,-40.7492093
+APS Itapagé,"Rua Francisco José De Oliveira, 279, Centro, Itapagé - Ce",Itapagé,CE,,,-3.684732399999999,-39.5816401
+APS Itapipoca,"Rua Presidente Roosevelt 25, Centro, Itapipoca - Ce",Itapipoca,CE,,,-3.5051559,-39.579896
+APS Santa Quitéria,,Santa Quitéria,CE,,,-23.5180739,-47.1399807
+APS São Benedito,"Rua Irineu Pinto Da Silva Silveira, 232, Centro, São Benedito - Ce",São Benedito,CE,,,-4.051485,-40.8688582
+APS Sobral,"Av. Lucia Saboia 131, Centro, Sobral - Ce",Sobral,CE,,,-3.6891166,-40.35345239999999
+APS Viçosa Do Ceará,"Rua Salustiano De Pinho, 780, Centro, Viçosa Do Ceará - Ce",Viçosa Do Ceará,CE,,,-3.568347,-41.0925653
+APS Acaraú,"Rua Santo Antonio Nº 1194, Centro, Acaraú - Ce",Acaraú,CE,,,-2.8979192,-40.11921770000001
+APS Tauá,"Rua Jornalista Helder Feitosa, Centro, Tauá - Ce",Tauá,CE,,,-6.0045229,-40.2991302
+APS Coreaú,"Avenida Antonio Cristino, S/N, Centro, Coreaú - Ce",Coreaú,CE,,,-3.5510459,-40.6561966
+APS Forquilha,"Avenida Criança Dante Valério, Centro, Forquilha - Ce",Forquilha,CE,,,-3.7978194,-40.2592516
+APS Irauçuba,"Avenida Jorge Domingues, Centro, Irauçuba - Ce",Irauçuba,CE,,,-3.7474869,-39.7836738
+APS Santana Do Acaraú,"Rua Dona Maria Joaquina, Centro, Santana Do Acaraú - Ce",Santana Do Acaraú,CE,,,-3.4589853,-40.21127269999999
+APS Cariré,"Rua Cefisa Aguiar, 281, Centro, Cariré - Ce",Cariré,CE,,,-3.952369,-40.475502
+APS Bela Cruz,"Rua Coronel Duca, S/N, Centro, Bela Cruz - Ce",Bela Cruz,CE,,,-3.056926,-40.171236
+APS Itarema,"Avenida João Batista Rios, S/N, Centro, Itarema - Ce",Itarema,CE,,,-2.9235922,-39.9121666
+APS Cruz,"Rua Genecino, S/N, Centro, Cruz - Ce",Cruz,CE,,,-5.4983977,-39.3206241
+APS Amontada,"Avenida General Alipio Dos Santos, 1656, Centro, Amontada - Ce",Amontada,CE,,,-3.3676655,-39.821434
+APS Tamboril,"Rua Jesuita Adeodato, S/N, Centro, Tamboril - Ce",Tamboril,CE,,,-4.835842,-40.3203215
+APS Morrinhos/Ce,"Rua Padre João Batista, S/N, Centro, Morrinhos - Ce",Morrinhos,CE,,,-3.2274881,-40.1258685
+APS Nova Russas,"Rua Hermenegildo Martins, S/N, Centro, Nova Russas - Ce",Nova Russas,CE,,,-4.7036748,-40.5594743
+APS Tianguá,,Tianguá,CE,,,,
+APS Ibiapina,,Ibiapina,CE,,,,
+APS Ipu,"Rua Leocádio Ximenes, S/N, Centro, Ipu - Ce",Ipu,CE,,,-4.3160319,-40.7131163
+APS Parambu,"Rua Da Matriz, S/N, Centro, Parambu - Ce",Parambu,CE,,,-6.2135387,-40.69657249999999
+APS Ubajara,"Rua Luiz Cunha, S/N, Centro, Ubajara - Ce",Ubajara,CE,,,-3.8448901,-40.9183685
+APS Ipueiras/Ce,"Antonio Alves De Oliveira, Centro, Ipueiras - Ce",Ipueiras,CE,,,-4.540311,-40.7180868
+APS Marco,"Gaudêncio Leorne, Centro, Marco - Ce",Marco,CE,,,-3.1201191,-40.1475005
+APS Novo Oriente,"Avenida Ulysses Guimarães, S/N, Centro, Novo Oriente - Ce",Novo Oriente,CE,,,-5.533481,-40.7795012
+APS Aquidauana,"Rua 7 De Setembro, 940, Centro, Aquidauana - Ms",Aquidauana,MS,,,-20.4771042,-55.7911815
+APS Campo Grande - 26 De Agosto,"Rua Vinte E Seis De Agosto, 347, Centro, Campo Grande - Ms",Campo Grande,MS,,,-20.4674051,-54.616756
+APS Campo Grande - Alexandre Fleming,"Rua Alexandre Fleming, 1796, Vila Bandeirante, Campo Grande - Ms",Campo Grande,MS,,,-20.4860495,-54.64405259999999
+APS Campo Grande - Coronel Antonino,"Av. Coronel Antonino, 718, Coronel Antonino, Campo Grande - Ms",Campo Grande,MS,,,-20.4413029,-54.6003838
+APS Campo Grande - Horto Florestal,"Rua Anhandui, 113, Centro, Campo Grande - Ms",Campo Grande,MS,,,-20.4684488,-54.6208863
+APS Cassilândia,"Rua Joaquim Balduino De Souza, 900, Centro, Cassilândia - Ms",Cassilândia,MS,,,-19.1124617,-51.7376806
+APS Corumbá,"Rua Dom Aquino, 1265, Centro, Corumbá - Ms",Corumbá,MS,,,-19.0026129,-57.6545887
+APS Coxim,"R. Viriato Bandeira, 121, Centro, Coxim - Ms",Coxim,MS,,,-18.504677,-54.7611741
+APS Três Lagoas,"Rua Zuleide Perez Tabox, 336, Centro, Três Lagoas - Ms",Três Lagoas,MS,,,-20.7848669,-51.7072823
+APS Aparecida Do Taboado,,Aparecida Do Taboado,MS,,,-20.0857163,-51.1015242
+APS Bela Vista,"R. Barao De Ladario, 1607, Centro, Bela Vista - Ms",Bela Vista,MS,,,-22.1022965,-56.5361121
+APS Bonito/Ms,"Rua Nossa Senhora Aparecida 829, Centro, Bonito - Ms",Bonito,MS,,,-21.124873,-56.4923631
+APS Brasilândia,"Rua São Jose, 327, Centro, Brasilândia - Ms",Brasilândia,MS,,,-20.7722295,-54.7851531
+APS Jardim/Ms,"Av. Duque De Caxias 1560, Centro, Jardim - Ms",Jardim,MS,,,-21.4854222,-56.1509817
+APS Miranda,"Rua Gen. Amaro Bittencourt, 845, Centro, Miranda - Ms",Miranda,MS,,,-20.2391694,-56.3764446
+APS Paranaíba,"Rua Maria Antonia, 111, Centro, Paranaíba - Ms",Paranaíba,MS,,,-19.6756432,-51.1894741
+APS Rio Verde De Mato Grosso,"Rua Mal. Mascarenhas, S/N - Lotes 11/13, Centro, Rio Verde De Mato Grosso - Ms",Rio Verde De Mato Grosso,MS,,,-18.9200266,-54.8401655
+APS São Gabriel Do Oeste,"Rua Albino De Souza Brandao, 504, Centro, São Gabriel Do Oeste - Ms",São Gabriel Do Oeste,MS,,,-19.3901106,-54.576513
+APS Sidrolândia,"Rua Pernambuco, 848, Centro, Sidrolândia - Ms",Sidrolândia,MS,,,-20.9303462,-54.9665068
+APS Costa Rica,"Rua Jose Narciso Toto, 244, Centro, Costa Rica - Ms",Costa Rica,MS,,,-18.5431222,-53.1232626
+APS Anastácio,"Av. Jucelino Kubitschek, 1519, Centro, Anastácio - Ms",Anastácio,MS,,,-19.3985283,-54.58255339999999
+APS Dourados,"Av. Weimar Goncalves Torres 3215, Centro, Dourados - Ms",Dourados,MS,,,-22.2251585,-54.7989629
+APS Naviraí,"Rua Dos Jardins, 745, Centro, Naviraí - Ms",Naviraí,MS,,,-23.0636699,-54.20185619999999
+APS Nova Andradina,"Jose Gomes Da Rocha, 1279, Centro, Nova Andradina - Ms",Nova Andradina,MS,,,-22.2535448,-53.3414977
+APS Ponta Porã,"Duque De Caxias, 940, Centro, Ponta Porã - Ms",Ponta Porã,MS,,,-22.5419232,-55.72507950000001
+APS Amambaí,"Dom Pedro Ii, S/N, Centro, Amambaí - Ms",Amambaí,MS,,,-23.1082838,-55.2284247
+APS Bataguassu,"Av. Campo Grande, 263, Centro, Bataguassu - Ms",Bataguassu,MS,,,-21.7171668,-52.4254798
+APS Deodápolis,"Av.Dom Pedro Ii, 875, Centro, Deodápolis - Ms",Deodápolis,MS,,,-22.2758607,-54.1639029
+APS Fátima Do Sul,"Carlos Chagas, 1974, Centro, Fátima Do Sul - Ms",Fátima Do Sul,MS,,,-22.3790139,-54.5005739
+APS Iguatemi,"Avenida Otaviano Dos Santos, 1159, Centro, Iguatemi - Ms",Iguatemi,MS,,,-23.6763354,-54.5590953
+APS Ivinhema,"Av. Brasil, 465, Centro, Ivinhema - Ms",Ivinhema,MS,,,-22.3036201,-53.8234204
+APS Maracaju,"Rua Antonio Souza Marcondes 2760, Centro, Maracaju - Ms",Maracaju,MS,,,-21.630355,-55.1627646
+APS Mundo Novo/Ms,"Avenida São Paulo, 850, Centro, Mundo Novo - Ms",Mundo Novo,MS,,,-23.9399977,-54.2768232
+APS Rio Brilhante,"Benjamin Constant, 1518, Centro, Rio Brilhante - Ms",Rio Brilhante,MS,,,-21.7988633,-54.53870980000001
+APS Caarapó,"Rua 15 De Novembro 665, Centro, Caarapó - Ms",Caarapó,MS,,,-20.4649508,-54.6138201
+APS Afonso Cláudio,,Afonso Cláudio,ES,,,,
+APS Alegre,"Praça Bernardino Monteiro, 25, Centro, Alegre - Es",Alegre,ES,,,-20.763954,-41.53053449999999
+APS Aracruz,"Rua Ephifanio Pontin, Polivalente, Aracruz - Es",Aracruz,ES,,,-19.814571,-40.2687773
+APS Cachoeiro De Itapemirim,"Rua 25 De Marco, Centro, Cachoeiro De Itapemirim - Es",Cachoeiro De Itapemirim,ES,,,-20.8525655,-41.1097769
+APS Cariacica,"Av. Antonio Peixoto, Vera Cruz, Cariacica - Es",Cariacica,ES,,,-20.3389587,-40.3758084
+APS Colatina,"Rua Aroldo Antolini, Vila Nova, Colatina - Es",Colatina,ES,,,-19.5391632,-40.6352883
+APS Guarapari,"Rua Santana Do Iapo, Muquicaba, Guarapari - Es",Guarapari,ES,,,-20.6604829,-40.5011392
+APS Linhares,"Av. Augusto Pestana, 1520, Centro, Linhares - Es",Linhares,ES,,,-19.4013654,-40.070218
+APS Nova Venécia,"Rua Mateus Toscano, 286, Municipal I, Nova Venécia - Es",Nova Venécia,ES,,,-18.713671,-40.3991895
+APS São Mateus,"Av. Jones Dos Santos Neves, 538, Centro, São Mateus - Es",São Mateus,ES,,,-18.7187749,-39.8567865
+APS Serra,"Rod Norte Sul, Lote 23, Jardim Limoeiro, Serra - Es",Serra,ES,,,-20.2120051,-40.2636543
+APS Vila Velha,"Av. Luciano Das Neves - Lado Impar, Boa Vista Ii, Vila Velha - Es",Vila Velha,ES,,,-20.3550644,-40.2961175
+APS Vitória,"Av.Mal Mascarenhas De Moraes, 1737, Monte Belo, Vitória - Es",Vitória,ES,,,-20.3164922,-40.3138218
+APS Barra De São Francisco,"Rua Liberdade, S/N, Centro, Barra De São Francisco - Es",Barra De São Francisco,ES,,,-18.7571093,-40.8971727
+APS Domingos Martins,"Rua Bernardino Monteiro, 86, Centro, Domingos Martins - Es",Domingos Martins,ES,,,-20.3609945,-40.6589011
+APS Guaçuí,"Av. Espírito Santo, 321, Centro, Guaçuí - Es",Guaçuí,ES,,,-20.7730132,-41.6764551
+APS Montanha,"Av. Getúlio Vargas, 462, Centro, Montanha - Es",Montanha,ES,,,-18.1265383,-40.3667493
+APS Santa Teresa,,Santa Teresa,ES,,,,
+APS Castelo,,Castelo,ES,,,,
+APS Vitória - Pedro Fonseca,"Rua Pedro Fonseca, Monte Belo, Vitória - Es",Vitória,ES,,,-20.3161915,-40.313549
+APS Baixo Guandú,"Av. Santa Terezinha S/Nº, Centro, Baixo Guandú - Es",Baixo Guandú,ES,,,-19.5191587,-41.0089631
+APS Mimoso Do Sul,"Rua Crispim Braga, Centro, Mimoso Do Sul - Es",Mimoso Do Sul,ES,,,-21.0624968,-41.3633436
+APS Iuna,"Av. Vereador Braz Lofego, Centro, Iuna - Es",Iuna,ES,,,-20.3569996,-41.5318666
+APS São Gabriel Da Palha,"Rua Daniel Comboni, S/N, Centro, São Gabriel Da Palha - Es",São Gabriel Da Palha,ES,,,-19.0320868,-40.529257
+APS Sooretama,"Av. Paineira, S/N, Centro, Sooretama - Es",Sooretama,ES,,,-19.1968804,-40.0972387
+APS Pinheiros,"Rua Vereador Arlindo Chaves, Nº 110, Centro, Pinheiros - Es",Pinheiros,ES,,,-18.4124249,-40.2144014
+APS Jaguaré,"Rua Rosalina Cocco, S/N, Centro, Jaguaré - Es",Jaguaré,ES,,,-18.9087219,-40.0742594
+APS Ecoporanga,"Rua José Baeta Neto, Centro, Ecoporanga - Es",Ecoporanga,ES,,,-18.3788301,-40.8291551
+APS Itapemirim,"Rua K, Projetada, S/N, Centro, Itapemirim - Es",Itapemirim,ES,,,-20.9025076,-40.7837572
+APS Viana/Es,"Rua Aspazia Varejao Dias, S/N, Centro, Viana - Es",Viana,ES,,,-20.3907152,-40.4905834
+APS Pedro Canário,"Avenida Alberto Dos Reis Castro, S/N, Centro, Pedro Canário - Es",Pedro Canário,ES,,,-18.2978632,-39.9587791
+APS Aparecida De Goiânia,"Av. Uberaba Esq Com Rua Uru, Setor Dos Afonsos, Aparecida De Goiânia - Go",Aparecida De Goiânia,GO,,,-16.7416171,-49.271329
+APS Goiânia - Cidade Jardim,"Av. Nero Macedo, Shopping Cidade Jardim, Cidade Jardim, Goiânia - Go",Goiânia,GO,,,-16.6829171,-49.3140904
+APS Goiânia - Centro,"Rua 3 - De 2 A 756 Lado Par, Setor Central, Goiânia - Go",Goiânia,GO,,,-16.6617473,-49.2649762
+APS Goiânia - Leste,"Rua D, Vila Viana, Goiânia - Go",Goiânia,GO,,,-16.6604206,-49.2390065
+APS Goiânia - Oeste,"Av. Nazareno Roriz, Qd.. 120, Lt.. 11/16, Setor Castelo Branco, Goiânia - Go",Goiânia,GO,,,-16.6789933,-49.2978524
+APS Goiânia - Sul,"Rua 231, Setor Coimbra, Goiânia - Go",Goiânia,GO,,,-16.6804413,-49.2785916
+APS Goiânia - Universitário,"Rua 261, Setor Leste Universitario, Goiânia - Go",Goiânia,GO,,,-16.6753177,-49.2369531
+APS Iporá/Go,,Iporá,GO,,,,
+APS Itumbiara,"Rua Paranaíba, Setor Central, Itumbiara - Go",Itumbiara,GO,,,-18.4204607,-49.2185912
+APS Jataí,"Rua Sebastião Cintra, Setor Central, Jataí - Go",Jataí,GO,,,-17.8794376,-51.7167576
+APS Morrinhos/Go,"Rua João Júlio De Oliveira, Setor Central, Morrinhos - Go",Morrinhos,GO,,,-17.7305748,-49.1170153
+APS Rio Verde,"Rua R0Sulino Ferreira Guimarães, Setor Central, Rio Verde - Go",Rio Verde,GO,,,-17.7963496,-50.9275884
+APS Acreúna,"Rua M 5, Setor Central, Acreúna - Go",Acreúna,GO,,,-17.4046969,-50.3802855
+APS Anicuns,"Rua Marechal Floriano Peixoto, Setor Central, Anicuns - Go",Anicuns,GO,,,-16.4598202,-49.9603654
+APS Mineiros,"Rua Das Perobeiras Residenc. Versalles, Setor Central, Mineiros - Go",Mineiros,GO,,,-17.5635333,-52.552764
+APS Palmeiras De Goiás,,Palmeiras De Goiás,GO,,,,
+APS Quirinópolis,,Quirinópolis,GO,,,,
+APS Santa Helena De Goiás,"Rua Pedro Romualdo Cabral, N. 120, Setor Central, Santa Helena De Goiás - Go",Santa Helena De Goiás,GO,,,-17.8105885,-50.5943232
+APS São Luis De Montes Belos,"Rua Rio Vermelho Esq C/ Javaes St Trevo, Setor Central, São Luis De Montes Belos - Go",São Luis De Montes Belos,GO,,,-16.5271069,-50.3741571
+APS Trindade/Go,,Trindade,GO,,,,
+APS São Simão/Go,"Av. Brasil Esq. C/ 18 E 22, Setor Central, São Simão - Go",São Simão,GO,,,-18.9965233,-50.5480764
+APS Goiatuba,"Av. Clovis Rodrigo Do Vale, Setor Central, Goiatuba - Go",Goiatuba,GO,,,-18.0310888,-49.3757971
+APS Senador Canedo,"Av. Progresso, Cj Hab Jd Sabiá, Setor Central, Senador Canedo - Go",Senador Canedo,GO,,,-16.7001459,-49.0999618
+APS Bela Vista De Goiás,"Rua Domingos Arantes, Setor Central, Bela Vista De Goiás - Go",Bela Vista De Goiás,GO,,,-16.9724927,-48.9535767
+APS Caiapônia,,Caiapônia,GO,,,,
+APS Pontalina,"Av. Americano Do Brasil, Qd. 343, Lt. 02, Setor Central, Pontalina - Go",Pontalina,GO,,,-17.5161575,-49.4466904
+APS Anápolis - Centro,"Rua Quinze De Dezembro, Setor Central, Anápolis - Go",Anápolis,GO,,,-16.3284457,-48.9559369
+APS Anápolis - Vila Jaiara,"Av. Fernando Costa - Jaiara Shopping, Vila Jaiara, Anápolis - Go",Anápolis,GO,,,-16.2928575,-48.9678973
+APS Catalão,"Rua Mário Cerqueira Neto, Sao Joao, Catalão - Go",Catalão,GO,,,-18.2023755,-47.9373583
+APS Ceres,"Praça João Pedrosa, Setor Central, Ceres - Go",Ceres,GO,,,-15.3068443,-49.5954038
+APS Goianésia,,Goianésia,GO,,,,
+APS Município De Goiás,"Rua Dr. Couto Magalhães, Setor Central, Município De Goiás - Go",Município De Goiás,GO,,,-16.3289154,-48.9580767
+APS Uruaçú,"Av. Transbrasiliana, Setor Central, Uruaçú - Go",Uruaçú,GO,,,-18.183346,-49.2905251
+APS Caldas Novas,,Caldas Novas,GO,,,,
+APS Inhumas,,Inhumas,GO,,,,
+APS Ipameri,"Rua Coronel João Vaz, Setor Central, Ipameri - Go",Ipameri,GO,,,-17.7178494,-48.160195
+APS Minaçu,"Rua 22, Setor Central, Minaçu - Go",Minaçu,GO,,,-16.6716683,-49.2562665
+APS Niquelândia,,Niquelândia,GO,,,,
+APS Pires Do Rio,"Rua Benedito Gonçalves De Araúj O, Setor Central, Pires Do Rio - Go",Pires Do Rio,GO,,,-17.3015404,-48.2784093
+APS Porangatu,,Porangatu,GO,,,,
+APS Goianira,,Goianira,GO,,,,
+APS Alexânia,,Alexânia,GO,,,,
+APS Itaberaí,,Itaberaí,GO,,,,
+APS Jaraguá,,Jaraguá,GO,,,,
+APS Pirenópolis,"Rua Marinheiro, Centro, Pirenópolis - Go",Pirenópolis,GO,,,-15.8580635,-48.9620431
+APS São Miguel Do Araguaia,,São Miguel Do Araguaia,GO,,,,
+APS Jussara/Go,,Jussara,GO,,,,
+APS Itapuranga,,Itapuranga,GO,,,,
+APS Piracanjuba,"Rua Das Paineiras, Qd.-04 Lt.-10, Setor Central, Piracanjuba - Go",Piracanjuba,GO,,,-16.6716683,-49.2562665
+APS Bacabal,"Av.Carlos Sardinha, Nº 126, Centro, Bacabal - Ma",Bacabal,MA,,,-4.2325042,-44.7801711
+APS Caxias,"Avenida Otávio Passos, 643, Centro, Caxias - Ma",Caxias,MA,,,-4.8616673,-43.3626698
+APS Chapadinha,"Rua Coronel Pedro Mata S/N, Centro, Chapadinha - Ma",Chapadinha,MA,,,-3.7391809,-43.3554927
+APS Codó,"Rua Tiradentes, Nº 1900, Centro, Codó - Ma",Codó,MA,,,-4.4535444,-43.8877885
+APS Coroatá,"Rua Senador Leite, 2205, Centro, Coroatá - Ma",Coroatá,MA,,,-4.126199199999999,-44.1368625
+APS Pedreiras,"Rua Crescêncio Rapôso, 739, Centro, Pedreiras - Ma",Pedreiras,MA,,,-4.5681594,-44.6042998
+APS Pinheiro,"Rua Luís Domingues Nº 329, Centro, Pinheiro - Ma",Pinheiro,MA,,,-2.5196283,-45.079797
+APS São José De Ribamar,"Rua João Álvares Carneiro, S/N, Centro, São José De Ribamar - Ma",São José De Ribamar,MA,,,-2.5532009,-44.0618299
+APS São Luís - Bom Menino,"Av. Alexandre De Moura, Centro, São Luís - Ma",São Luís,MA,,,-2.5337188,-44.2933693
+APS São Luís - Cohab,"Rua Quinze Quadra 14, Cohab Anil Iv, São Luís - Ma",São Luís,MA,,,-2.5383125,-44.2156219
+APS São Luís - Deodoro,"Av. Dos Franceses, 78, Apeadouro, São Luís - Ma",São Luís,MA,,,-2.5373382,-44.2757059
+APS São Luís - Nazaré,"Av. Jeronimo De Albuquerque, Nº 977, Angelim, São Luís - Ma",São Luís,MA,,,-2.5273527,-44.2396822
+APS Tutóia,"Rua Senador Leite, 10, Centro, Tutóia - Ma",Tutóia,MA,,,-2.7644649,-42.27431680000001
+APS Coelho Neto,"Av. Walter Brito, 31, Centro, Coelho Neto - Ma",Coelho Neto,MA,,,-4.2577048,-43.0154338
+APS Lago Da Pedra,"Rua José Alves Dos Santos S/N, Centro, Lago Da Pedra - Ma",Lago Da Pedra,MA,,,-4.5571218,-45.1278055
+APS Viana/Ma,"Rua Messias Costa, Centro, Viana - Ma",Viana,MA,,,-3.207277,-45.004818
+APS Cururupu,"Rua Rio Branco S/N, Centro, Cururupu - Ma",Cururupu,MA,,,-1.8259902,-44.873904
+APS Timon,"Rua Tenente Antonio Correia Da Silva, Parque Piaui, Timon - Ma",Timon,MA,,,-5.0882655,-42.8382164
+APS Santa Rita/Ma,"Br 135 Km 71, Centro, Santa Rita - Ma",Santa Rita,MA,,,-3.1436249,-44.3260825
+APS Penalva,"Rua Angelica, Centro, Penalva - Ma",Penalva,MA,,,-3.2913383,-45.1747638
+APS Humberto De Campos,"Rua Da Fazenda, Centro, Humberto De Campos - Ma",Humberto De Campos,MA,,,-2.5991345,-43.4644741
+APS Aldeias Altas,"Avenida Joao Rosa, S/N, Centro, Aldeias Altas - Ma",Aldeias Altas,MA,,,-4.6287387,-43.4677349
+APS Timbiras,"Rua Prefeito Manoel Mesquita, S/N, Centro, Timbiras - Ma",Timbiras,MA,,,-4.2537785,-43.9400008
+APS Urbano Santos,"Rua Zeca Costa, S/N, Centro, Urbano Santos - Ma",Urbano Santos,MA,,,-3.2071122,-43.4016482
+APS Santa Quitéria Do Maranhão,"Rua Da Paz, S/N, Centro, Santa Quitéria Do Maranhão - Ma",Santa Quitéria Do Maranhão,MA,,,-3.4970161,-42.562452
+APS Barreirinhas,"Avenida Rodoviária, Centro, Barreirinhas - Ma",Barreirinhas,MA,,,-2.7564293,-42.8273028
+APS São Mateus Do Maranhão,"Avenida Da Rodoviária, S/N, Centro, São Mateus Do Maranhão - Ma",São Mateus Do Maranhão,MA,,,-18.7145016,-39.8559829
+APS Buriti Bravo,"Rua João Leocádio, Vila José Henrique, Centro, Buriti Bravo - Ma",Buriti Bravo,MA,,,-5.8465527,-43.8320591
+APS São Bento/Ma,"Rua Coronel Luiz Reis, Centro, São Bento - Ma",São Bento,MA,,,-2.7000813,-44.8242026
+APS Matões,"Av. Duque De Caxias, S/N, Centro, Centro, Matões - Ma",Matões,MA,,,-5.5197653,-43.2002732
+APS Barra Do Corda,"Rua Isaac Martins, Nº 1250, Centro, Barra Do Corda - Ma",Barra Do Corda,MA,,,-5.5095022,-45.2376911
+APS Carolina,"Rua Dos Operários, S/N, Centro, Carolina - Ma",Carolina,MA,,,-7.3294059,-47.4714687
+APS Imperatriz,"Av. Simplício Moreira, Nº 1026, Centro, Imperatriz - Ma",Imperatriz,MA,,,-5.5280089,-47.4889465
+APS Santa Inês/Ma,"Rua Do Aeroporto S/N, Centro, Santa Inês - Ma",Santa Inês,MA,,,-3.6520865,-45.3743406
+APS Açailândia,,Açailândia,MA,,,,
+APS Balsas,"Praça Padre Balduíno, Nº 611, Centro, Balsas - Ma",Balsas,MA,,,-7.531175200000001,-46.0376279
+APS Presidente Dutra/Ma,"Travessa 06 Nº 01 Vila Militar, Centro, Presidente Dutra - Ma",Presidente Dutra,MA,,,-5.2892768,-44.5032331
+APS Santa Luzia Do Paruá,"Av. Professor João Moraes De Sousa Nr 345, Centro, Santa Luzia Do Paruá - Ma",Santa Luzia Do Paruá,MA,,,-2.5436918,-45.7733613
+APS Grajaú,"Av. Hilton Nunes, S/N, Centro, Grajaú - Ma",Grajaú,MA,,,-5.8247306,-46.1594346
+APS Estreito,,Estreito,MA,,,-27.5834736,-48.5994725
+APS Amarante Do Maranhão,"Rua Nicolau Dino S/N, Centro, Amarante Do Maranhão - Ma",Amarante Do Maranhão,MA,,,-5.5695079,-46.7481471
+APS Governador Nunes Freire,"Rua Da Colone, Centro, Governador Nunes Freire - Ma",Governador Nunes Freire,MA,,,-2.1281682,-45.8889444
+APS Itinga Do Maranhão,"Rua Gurupi, S/N, Centro, Itinga Do Maranhão - Ma",Itinga Do Maranhão,MA,,,-4.4614987,-47.5300915
+APS Arame,"Rua Rio Branco S/N, Centro, Arame - Ma",Arame,MA,,,-4.877058,-46.0122591
+APS Porto Franco,"Avenida Valentim Da Silva Aguiar, S/Nº, Centro, Porto Franco - Ma",Porto Franco,MA,,,-6.338716499999999,-47.4081749
